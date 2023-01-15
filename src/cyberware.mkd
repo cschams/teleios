@@ -1,0 +1,554 @@
+[CYBERWARE]{.c1}
+
+[Cyber]{.c0}[W]{.c6}[are (CYB) is an optional attribute that can be
+raised from 1-6 as can the basic attributes. Even if a starting
+character begins with 0 CYB, ranks can be added later. A starting
+character cannot have a CYB score higher than rank 4. The following
+rules apply to characters with a CYB sco]{.c0}[re of at least
+one]{.c6}[:]{.c2 .c0}
+
+-   [A character's FORT score = the maximum number of pieces of
+    ]{.c0}[CyberWare]{.c6}[ that the character can have; however, a
+    character cannot have any ]{.c0}[C]{.c6}[yber]{.c0}[W]{.c6}[are
+    unless their CYB score is at least 1. Note that this means that a
+    character is limited to 6 pieces of ]{.c0}[CyberWare]{.c6}[, because
+    a character's maximum FORT score is 6. (Android characters are
+    permitted to have up to seven pieces of ]{.c0}[CyberWare]{.c6}[, of
+    which one is a free ]{.c0}[NanoComputer, and which does not count
+    towards this limit]{.c6}[ (see Species below]{.c0}[.))]{.c6}
+-   [All CyberWare costs 3 XP to purchase, and if a player chooses to
+    retrain a piece of CyberWare, they recover those same 3 XP (not
+    counting the 1 XP cost to retrain). There are no ranks for
+    CyberWare; characters either have it or they do not.]{.c2 .c0}
+-   [All ]{.c0}[CyberWare]{.c6}[ have two modes: active and passive. In
+    passive mode, the ]{.c0}[CyberWare]{.c6}[ provides a constant
+    benefit (bending the rules somehow by allowing the cybered character
+    to engage in activities not normally possible); in active mode, it
+    provides a much bigger benefit by increasing the size of the dice
+    pool the character uses for skill checks, but requires the usage of
+    batteries (BTs). There are some pieces of
+    ]{.c0}[CyberWare]{.c6}[ which do not require skill]{.c0}[ checks.
+    These are detailed below.]{.c6}
+-   [A character's batteries are equal to 3+CYB. (A character that has a
+    CYB score of 0 cannot use nor activate CyberWare.) The internal
+    batteries use the character's natural bioelectric energy to power
+    and recharge pieces of CyberWare.]{.c2 .c0}
+-   [A character who activates a piece of
+    ]{.c0}[CyberWare]{.c6}[ declares how many batteries (BT) are being
+    spent on that activation]{.c0}[ before]{.c6 .c7}[ ]{.c0}[making an
+    associated skill check]{.c6}[. A character must spend at least 1 BT
+    per activation, and may spend as many as they have available. For
+    every BT spent in activation, 1 die is added to the character's dice
+    pool for the associated skil]{.c0}[l checks]{.c6}[. If 0 BT remain
+    at the end of a CyberWare activation, the character ]{.c0}[cannot
+    use the active mode of any CyberWare. ]{.c6}[Once a piece of
+    ]{.c0}[CyberWare]{.c6}[ is activated, the activation lasts for the
+    next ]{.c0}[10 minutes]{.c6 .c7}[. If the cybered character chooses
+    to end the activation earlier than the 10-minute timeframe, a
+    Technology skill may be rolled to recover up to half of the expended
+    BP. ]{.c0}[However, i]{.c6}[f only one BT was spent on the
+    activation, the cybered character]{.c0}[ cannot]{.c6 .c7}[ roll for
+    recovery. ]{.c6}[There are some pieces of ]{.c0}[CyberWare which do
+    not follow this 10-minute rule, and those are listed below.]{.c6}
+-   [All ]{.c0}[BTs are]{.c6}[ restored after a ]{.c0}[milestone]{.c6}[.
+    Additionally, ]{.c0}[during a]{.c6}[ rest a cybered character may
+    use the Technology skill once to restore lost batteries. Success
+    restores 3 BT (not to exceed the character's maximum).]{.c2 .c0}
+-   [Expertise Perks:]{.c1}
+
+```{=html}
+<!-- -->
+```
+-   [Expanded Batteries]{.c6 .c7}[: ]{.c6 .c7}[A cybered character with
+    this perk is able to keep pieces of CyberWare activated for longer
+    periods of time. Instead of the normal 10-minute activation time, a
+    character with this perk has 15 minutes of duration with CyberWare.
+    If the cybered character chooses to end their activation of
+    CyberWare early, they may still roll Technology to recover half of
+    the spent BT, assuming more than one was spent on the
+    activation.]{.c2 .c0}
+-   [Extra Ware: ]{.c6 .c7}[This character may acquire up to seven
+    pieces of CyberWare (eight for Android characters). ]{.c2 .c0}
+-   [Fast Recovery: ]{.c6 .c7}[This character may use the Technology
+    skill twice during rests to regain spent BT. Remember that every
+    successful use of Technology restores 3 BT not to exceed the
+    character's maximum.]{.c2 .c0}
+-   [Seamless Synthesis: ]{.c6 .c7}[This character's CyberWare is so
+    advanced and developed that it has integrated flawlessly with their
+    biological tissue. No pieces of CyberWare possessed by this
+    character are noticeable to others. Note that there may be
+    specialized technology used to detect CyberWare, but to casual
+    outside observers, this character appears as a normal member of
+    their respective species without cybered
+    augmentation.]{.c6}[ Note:]{.c6 .c7}[ This perk]{.c6}[ may not ]{.c6
+    .c7}[be chosen if the cybered character has the "Ugly Enhancements"
+    detriment below.]{.c2 .c0}
+-   [Supplemental Ware]{.c6 .c7}[: ]{.c6 .c7}[This character's CyberWare
+    has been optimized to perform additional functions. When a cybered
+    character chooses this perk, they gain the passive mode of one piece
+    of CyberWare that they do ]{.c6}[not]{.c6 .c7}[ possess. For
+    example, if a cybered character does not have CyberArmor, they could
+    then gain the passive benefit of that piece (additional 1d3 LI/1d2
+    HI/1d3 EN damage reduction). They do not, however, gain the benefit
+    of the active mode. The passive ability granted by this perk does
+    not count against a cybered character's maximum number of pieces of
+    CyberWare.]{.c6}
+-   [Unfettered: ]{.c6 .c7}[This character may remove their cybernetic
+    detriment they chose.]{.c6}
+
+[]{.c2 .c0}
+
+[Cybernetic Detriments]{.c6 .c7}
+
+[Any character who has a CYB score of at least 1 must choose one of the
+following detriments, or should work with the GM to create their own:
+]{.c2 .c0}
+
+-   [Cybered Stunning: ]{.c6 .c7}[After the activation of CyberWare is
+    complete, whether by time expiration or by ending the activation
+    early, the character suffers DA on all checks for the next d3
+    minutes. ]{.c2 .c0}
+-   [Energy Weakness: ]{.c6 .c7 .c13}[Characters with
+    ]{.c0}[CyberWare]{.c6}[ take an additional 2 damage from sources
+    that deal EN damage of any type. This extra damage cannot be
+    blocke]{.c0}[d or absorbed by any type of armor.]{.c6}
+-   [Fragile Equipment: ]{.c6 .c7}[If the character receives damage that
+    would require them to roll for an early knockout, an Endurance check
+    must also be made to see if any CyberWare was damaged. If the
+    character fails that Endurance check, one piece of CyberWare
+    (random, or GM chooses) is damaged by the attack and cannot be used,
+    either in passive or active mode, until necessary repairs are made.
+    On any level of success the character is otherwise unaffected. Note
+    that this Endurance check to avoid damaging CyberWare is different
+    from the Endurance check required in order to remain conscious from
+    incurring BODY damage. The player can choose which Endurance check
+    to make first.]{.c2 .c0}
+-   [Neural Fatigue: ]{.c6 .c7 .c13}[Upon every
+    ]{.c0}[CyberWare]{.c6}[ activation, regardless of how many
+    ]{.c0}[B]{.c6}[T are spent, the character suffers 1d3 (ME) stun
+    damage.]{.c2 .c0}
+-   [Tracked: ]{.c6 .c7 .c13}[The ]{.c0}[CyberWare]{.c6}[ a character
+    has includes GPS locators accurate to 3 meters. Therefore, the
+    cybered character is being tracked by a criminal, corporate,
+    governmental, or other large and powerful organization. The GM and
+    the player should collaboratively create this story for the cybered
+    character, since this is designed to be a detr]{.c0}[iment rather
+    than just an annoyance]{.c6}[.]{.c2 .c0}
+-   [Ugly Enhancements: ]{.c6 .c7 .c13}[The cybered character has
+    ]{.c0}[CyberWare]{.c6}[ that is so obvious and apparent it cannot be
+    concealed or ignored. Furthermore, because the
+    ]{.c0}[CyberWare]{.c6}[ detracts from the character's biological
+    grace and beauty, the cybered character always suffers disadvantage
+    on Bureaucracy, Charm]{.c0}[, ]{.c6}[Deception, and Streetwise
+    checks where appearance can play a factor. ]{.c0}[This penalty can
+    be negated if the cybered character also has advantage on the chosen
+    check, as normal.]{.c6}
+
+[]{.c2 .c0}
+
+[CYBERWARE DESCRIPTIONS]{.c6 .c7 .c13}
+
+[Cyber]{.c6 .c7}[Armor]{.c1}
+
+-   [Description =]{.c6 .c7 .c13}[ ]{.c0}[CyberA]{.c6}[rmor consists of
+    minute reinforced plates beneath the cybered character's skin. This
+    ]{.c0}[CyberWare]{.c6}[ is not immediately noticeable at first
+    glance, nor from a distance, but upon close inspection (being within
+    6 meters of a cybered character for at least 1 minute) it is
+    ]{.c0}[discernible]{.c6}[ to any observers. Of course, clothing can
+    easily ]{.c0}[cover this.]{.c6}
+-   [Passive Mode =]{.c6 .c7 .c13}[ Armor soaks
+    1]{.c0}[d3]{.c6}[ LI/1]{.c0}[d2]{.c6}[ HI/1]{.c0}[d3]{.c6}[ EN
+    damage. This soak is ]{.c0}[in addition]{.c6 .c7}[ to any other
+    armor the character may be wearing (such as Gear from the Endurance
+    skill, or from ]{.c0}[the natural armor granted to the
+    Tesa]{.c6}[).]{.c2 .c0}
+-   [Active Mode = ]{.c6 .c7 .c13}[The character is able to electrify
+    their skin and deliver an electric charge to a target upon
+    skin-to-skin touch or a successful Melee check (for ]{.c0}[targets
+    that are resistant to the character's touch)]{.c6}[. For each
+    battery spent, the cybered character adds 1 die to their Melee
+    check. Furthermore, for each battery spent, the Melee attack adds 1
+    (EN) body damage or 2 (EN) stun damage to the character's normal
+    Melee damage, regardless of the success or failure of the check.
+    This electric energy also has the ability to temporarily
+    short-circuit electrical and computer equipment]{.c0}[ upon
+    touch.]{.c6}
+
+[]{.c2 .c0}
+
+[Robo]{.c6 .c7}[Arms]{.c6 .c7 .c13}
+
+-   [A cybered character may acquire up to two ]{.c0}[RoboArms]{.c0}[.
+    If a player has two ]{.c0}[Robo]{.c6}[Arms]{.c0}[, each counts
+    towards their maximum limit of pieces of ]{.c0}[CyberWare]{.c6}[;
+    however, the passive effect listed is tripled rather than
+    double]{.c0}[d]{.c6}[.]{.c0}
+-   [Description = ]{.c6 .c7 .c13}[A ]{.c0}[Robo]{.c6}[Arm is an
+    artificial collection of metallic bones and joints, connected
+    through a synthetic fibrous muscular system. They first originated
+    as prosthetics to assist individuals who lost their biological arms
+    due to accidents or violence, but later became so popular that many
+    have voluntarily chosen to replace their biological arms with the
+    ]{.c0}[CyberWare]{.c6}[ version. Arms are not noticeable, provided
+    that the character is wearing clothing (sleeves and gloves) which
+    obscures them. Otherwise, they are immediately noticeable to anyone
+    within 30 meters.]{.c0}
+-   [Passive Mode = ]{.c6 .c7 .c13}[In passive mode, RoboArms enable the
+    character to increase their encumbrance, lift, climbing
+    speed]{.c0}[, ]{.c6}[swimming speed, and throwing
+    dis]{.c0}[tance]{.c6}[. The bolded text below shows the benefit of
+    having ]{.c0}[RoboArms]{.c0}[ compared to a character without them.
+    ]{.c0}[Remember, that a character who has two ]{.c6
+    .c7}[RoboArms]{.c6 .c7}[ triples the bonus listed]{.c6 .c7}[. These
+    bonuses also stack with ]{.c0}[Robo]{.c6}[Legs ]{.c0}[(see
+    below)]{.c6}[.]{.c0}
+
+```{=html}
+<!-- -->
+```
+-   [Encumbrance: ]{.c6 .c7 .c13}[FORTx6 kg without penalty ]{.c0}[(add
+    +12 kg)]{.c6 .c7 .c13}
+-   [Climbing: ]{.c6 .c7 .c13}[(FORT+AGI)/2 meters/phase ]{.c0}[(add +3
+    meters/phase)]{.c6 .c7 .c13}
+-   [Swimming: ]{.c6 .c7 .c13}[FORT+AGI meters/phase ]{.c0}[(add +3
+    meters/phase)]{.c6 .c7 .c13}
+-   [Lift: ]{.c6 .c7 .c13}[FORTx24]{.c0}[ ]{.c6 .c7 .c13}[kg max
+    ]{.c0}[(add +48 kg)]{.c1}
+-   [Throwing: ]{.c6 .c7}[FORTx6 meters max distance ]{.c6}[(add +12
+    meters)]{.c1}
+
+```{=html}
+<!-- -->
+```
+-   [Active Mode = ]{.c6 .c7 .c13}[For every battery point spent, the
+    cybered character adds 1 die to their Melee check, and to their
+    Athletics check when using arm strength]{.c0}[.]{.c6}
+
+[]{.c2 .c0}
+
+[Cyber]{.c6 .c7}[Cloak]{.c1}
+
+-   [Description = ]{.c6 .c7}[A CyberCloak consists of numerous
+    nano-cameras in the character which record and project surrounding
+    environmental images in order to partially conceal the character.
+    While the technology is complicated by movement, the CyberClloak
+    does provide some concealment for cybered characters.]{.c2 .c0}
+-   [Passive Mode = ]{.c6 .c7}[In passive mode, the cybered character is
+    constantly the beneficiary of a slight "shimmer" which surrounds
+    them. For no cost of BT, a cybered character with a CyberCloak may
+    use it to hide. While motionless, the character is more difficult to
+    see by regular or standard camera vision (though other types of
+    sensors may still detect the character). As such, any Stealth rolls
+    are made with AD while hiding in this way. Any motion on the part of
+    the character disrupts the cloaking ability and the character then
+    rolls Stealth normally. The character may, as desired, not be hidden
+    in passive mode. A cybered character with CyberCloak also rolls AD
+    on physical defense checks against ranged attacks.]{.c2 .c0}
+-   [Active Mode = ]{.c6 .c7}[In active mode, the CyberCloak provides
+    much more of an advantage. For every BT spent, the cybered character
+    rolls one extra die on all Stealth checks and all physical defense
+    checks versus ranged attacks. ]{.c2 .c0}
+
+[]{.c2 .c0}
+
+[NanoC]{.c6 .c7}[omputer]{.c1}
+
+-   [Description = ]{.c6 .c7 .c13}[The NanoComputer, is a small but
+    powerful microprocessor implanted into the cybered character's
+    brain. External ports for data entry exist around the ears and neck,
+    but these are easily concealed by hair and other fashion implements.
+    The NanoComputer can access and hack into wireless systems, but is
+    made easier with thin cables which are included in the
+    ]{.c6}[NanoComputer's]{.c6}[ base gear. Android characters begin
+    with a free NanoComputer.]{.c2 .c0}
+-   [Passive Mode = ]{.c6 .c7}[In passive mode, the NanoComputer is one
+    of the most powerful items of cyber gear. With it, the cybered
+    character has virtually unlimited digital storage space and research
+    capabilities. Any and everything that can be done with a Personal
+    Computer (see Gear descriptions) can also be done with an implanted
+    NanoComputer. The NanoComputer, however, runs at speed of thought,
+    and so in cases where a check is necessary, the cybered character
+    rolls their Computers skill  check with AD. Finally, the
+    NanoComputer allows the character to fluently know 3 extra
+    languages.]{.c2 .c0}
+-   [Active Mode = ]{.c6 .c7}[In active mode, the cybered character
+    rolls one extra die on Computers and Deduce checks for every BT
+    spent.]{.c2 .c0}
+
+[]{.c2 .c0}
+
+[ERSlot]{.c1}
+
+-   [Description = ]{.c6 .c7}[The Emergency Response Slot, or ERSlot for
+    short, is a collection of chemicals and medications implanted into
+    the cybered character's body which provide stimulation and healing
+    in extreme circumstances. The ERSlot is not noticeable to outside
+    observers, as it is subdermal.]{.c2 .c0}
+-   [Passive Mode = ]{.c6 .c7}[In passive mode, the ERSlot provides
+    extra durability to the cybered character. A character with an
+    ERSlot has 3 extra BODY durability and 6 extra STUN durability. This
+    is due to the effects of nanites and biotic chemicals which
+    synthesize to make tissues stronger.]{.c2 .c0}
+-   [Active Mode = ]{.c6 .c7}[An ERSlot has two uses in active mode,
+    both of which slightly alter the standards rules for CyberWare. In
+    the first instance, a character may spend BP to restore BODY and/or
+    STUN durability. For every BP spent, the cybered character may
+    recover 1d3 BODY or 1d6 STUN durability. The cybered character must
+    choose which durability to restore ]{.c6}[before]{.c6 .c7}[ rolling
+    dice, and each die must be rolled separately (i.e. a character who
+    spends 3 BP to restore BODY points would roll 3d6 and would
+    calculate their healing accordingly. Spending BP in this fashion
+    bends the 10-minute rule by]{.c6}[ not]{.c6 .c7}[ being recoverable:
+    the battery is gone immediately to provide the instant healing. The
+    second active use of the ERSlot is one in which the cybered
+    character is knocked unconscious (see "Knockouts" for more
+    information). If a cybered character with an ERSlot is knocked out
+    with 1 or more BP left to spend, that character may choose to spend
+    BP in order to revive themselves. Instead of remaining unconscious
+    for 6 combat rounds, the cybered character is only unconscious for 1
+    round, after which they awaken with STUN durability equal to their
+    (FORT+PERS)xBP spent. So, if a character with a FORT of 3 and a PERS
+    of 2 spent 2 batteries on recovering in this fashion, they would
+    recover from being knocked out with 10 STUN. If that same character
+    had chosen to spend only 1 BP, they would revive with 5 STUN
+    instead. As before, spending BP in this way is ]{.c6}[not
+    recoverable]{.c6 .c7}[ via the 10-minute rule.]{.c2 .c0}
+
+[]{.c2 .c0}
+
+[FastChip]{.c1}
+
+-   [The FastChip is a small microprocessor implanted into a cybered
+    character's brain which provides extra stimulation to the medulla,
+    amygdala, and hypothalamus: parts of the brain responsible for the
+    "fight-or-flight" response. As such, the FastChip permits the
+    cybered character to act and react quicker than non-cybered
+    characters in many situations. The FastChip is not noticeable to
+    outside viewers.]{.c2 .c0}
+-   [Passive Mode = ]{.c6 .c7}[The FastChip allows the cybered character
+    to roll their INIT checks with AD. In cases where the character
+    would be surprised (and would otherwise roll INIT with disadvantage)
+    the FactChip enables them to roll the check normally. ]{.c6}[Note
+    that in passive mode, the FastChip offers nothing to a Tesa
+    character.]{.c1}
+-   [Active Mode = ]{.c6 .c7}[The FastChip has a different active mode
+    than most CyberWare. Instead of adding dice to a skill check,
+    spending BP to activate the FastChip instead adds to the number of
+    actions the character can perform in a combat round (up to the
+    maximum of 4). After rolling INIT in a combat round, the cybered
+    character can then choose to spend BP to gain extra actions with the
+    FastChip. Spending BP in this way is completely optional, so a round
+    in which a character rolls a Failure on their INIT check would not
+    need to waste a BP on extra actions. Cybered characters can spend
+    between 1-3 BP adding extra actions in this way, however, the effect
+    of spending the BP is immediate; there is no 10-minute duration on
+    the extra actions, and cybered characters]{.c6}[ cannot ]{.c6
+    .c7}[roll Technology to attempt to recover BP spent in this way
+    during a scene.]{.c2 .c0}
+
+[]{.c2 .c0}
+
+[Hidden]{.c6 .c7 .c13}[Compartment]{.c6 .c7}
+
+-   [A cybered character may acquire up to two
+    Hidden]{.c0}[Compartment]{.c6}[s. Each HiddenCo]{.c0}[mpartment
+    counts towards a character's maximum pieces of CyberWare, but each
+    HiddenCompartment can be configured differently (see below). ]{.c6}
+-   [Description = ]{.c6 .c7}[A HiddenCompartment is a small hollow
+    cubic space inside the character which can contain many things:
+    electronic devices, documents, and even small weapons. When a
+    character acquires a HiddenCompartment, they should choose where the
+    compartment is (for example, in the thigh or abdomen) and if it is
+    intended for storage or for weaponry. A weapons compartment also
+    should specify whether it is a ranged weapon that is concealed, or a
+    melee weapon; HiddenCompartments are, as a rule, specifically-made
+    for their user, and should be designed as such. A HiddenCompartment
+    designed for storage can later be redesigned for weaponry, or vice
+    versa, for the cost of 1 XP. HiddenCompartments are built directly
+    into the cybered character's body, and are fully compatible with
+    other CyberWare such as CyberArmor, CyberSkin, RoboArms, and
+    RoboLegs.]{.c2 .c0}
+-   [Passive Mode = ]{.c6 .c7}[In passive mode, the HiddenCompartment is
+    completely unnoticeable by others. This means that a storage
+    compartment can conceal devices, documents, computer files, etc.
+    that the character wants to remain hidden. No check is necessary to
+    ensure the secrecy provided by the hidden compartment. Items can be
+    taken in and out of the HiddenCompartment by the cybered character
+    as an action. A HiddenCompartment designed to hold weapons can
+    contain either a small built-in melee weapon or a small built-in
+    ranged weapon and has no other purpose in passive mode, but its
+    secrecy remains intact as normal.]{.c2 .c0}
+-   [Active Mode = ]{.c6 .c7}[The active mode for the HiddenCompartment
+    applies to weapons only and has no effect for storage. A character
+    with a HiddenCompartment for weapons may initiate combat with a
+    surprise attack from the melee or ranged weapon in their
+    HiddenCompartment. A cybered character with two HiddenCompartments
+    designed for weapons can choose to gain two surprise attacks, one
+    for each weapon. If a combat has already begun, the cybered
+    character may choose to take a surprise round to attack with their
+    weapon(s) before the next Amazing round in combat. For every BT
+    spent, the cybered character rolls one extra die on their attack
+    (Melee or Ranged), depending on what type of weapon they chose to
+    occupy their compartment. The weapon's attack is the same as a
+    normal unmodified Melee or Ranged weapon (see Gear description).
+    After the surprise round, the cybered character can continue to use
+    their weapon as a normal weapon for the duration of combat. Note
+    that the character must spend at least one BT in order to be able to
+    utilize their hidden weapon.]{.c2 .c0}
+
+[]{.c2 .c0}
+
+[Robo]{.c6 .c7}[Legs]{.c1}
+
+-   [A cybered character may acquire up to two RoboLegs. ]{.c0}[If a
+    player has two RoboLegs, each counts towards their maximum limit of
+    pieces of CyberWare; however, the passive effect listed is tripled
+    rather than doubled.]{.c2 .c0}
+-   [Description = ]{.c6 .c7}[A RoboLeg is an artificial collection of
+    metallic bones and joints, connected through a synthetic fibrous
+    muscular system. They first originated as prosthetics to assist
+    individuals who lost their biological legs due to accidents or
+    violence, but later became so popular that many have voluntarily
+    chosen to replace their biological legs with the CyberWare version.
+    RoboLegs are not noticeable, provided that the character is wearing
+    clothing (pants and footwear) which obscures them. Otherwise, they
+    are immediately noticeable to anyone within 30 meters.]{.c2 .c0}
+-   [Passive Mode = ]{.c6 .c7}[In passive mode, RoboLegs enable the
+    character to increase their jumping distances, as well as their
+    walking, running, and swimming speeds. The bolded text below shows
+    the benefit of having RoboLegs compared to a character without them.
+    ]{.c6}[Remember, that a character who has two RoboLegs triples the
+    bonus listed.]{.c6 .c7}[ These bonuses also stack with cyber Arms
+    (see above).]{.c2 .c0}
+
+```{=html}
+<!-- -->
+```
+-   [Standing Jump: ]{.c6 .c7}[(FORT+AGI)/4 meters max distance
+    ]{.c6}[(+2 meters)]{.c1}
+-   [Running Jump: ]{.c6 .c7}[(FORT+AGI)/2 meters max distance
+    ]{.c6}[(+3 meters) ]{.c6 .c7}[(need at least 2 meters running
+    start)]{.c2 .c0}
+-   [Vertical jump: ]{.c6 .c7}[(FORT+AGI)/6 meters max height ]{.c6}[(+1
+    meter)]{.c1}
+-   [Walking: ]{.c6 .c7}[(FORT+AGI)/2 meters/phase ]{.c6}[(add +6
+    meters/phase)]{.c1}
+-   [Running: ]{.c6 .c7}[Walk x2 meters/phase ]{.c6}[(no change, but
+    calculate using the modified Walking stats)]{.c1}
+-   [Swimming: ]{.c6 .c7}[(FORT+AGI)/2 meters/phase ]{.c6}[(add +3
+    meters/phase)]{.c1}
+
+```{=html}
+<!-- -->
+```
+-   [Active Mode = ]{.c6 .c7}[In active Mode, RoboLegs adds 1 die to
+    checks made with Acrobatics, Athletics, and Stealth, but only in
+    cases where a character's legs would be involved (such as in
+    sneaking, jumping, or running).]{.c2 .c0}
+
+[]{.c2 .c0}
+
+[Cyber]{.c6 .c7}[Lungs]{.c1}
+
+-   [Description = ]{.c6 .c7}[CyberLungs are somewhat inaptly named
+    because they do not in fact replace a character's biological lungs,
+    but they regulate, filter, and enhance natural respiration. Nanites
+    embedded in a character's lungs act as artificial brachii, and
+    filters in the trachea are able to remove smoke, toxins, and other
+    impurities before being inhaled.]{.c2 .c0}
+-   [Passive Mode = ]{.c6 .c7}[In passive mode, CyberLungs immunize the
+    cybered character from harmful inhalants. The filtering system in
+    place automatically detects both odorous and non-odorous gasses, and
+    makes the air breathable. CyberLungs also enable a cybered character
+    to hold their breath for an additional one minute on top of the time
+    listed in Standard Physical Abilities.]{.c2 .c0}
+-   [Active Mode = ]{.c6 .c7}[In active mode, CyberLungs provide extra
+    dice to checks made with Acrobatics, Athletics, and Endurance. The
+    cybered character gains 1 extra die for each BP spent.]{.c2 .c0}
+
+[]{.c2 .c0}
+
+[CyberO]{.c6 .c7}[ptics]{.c1}
+
+-   [Description = ]{.c6 .c7}[CyberOptics replaces a character's
+    biological eyes with photoreceptive machinery of the highest
+    quality. The devices are designed to appear like normal eyes, with
+    varieties for all species. Nonetheless, a keen observer within 10
+    meters of the cybered character can tell CyberOptics from biological
+    ones in 1 minute. Some cybered characters openly flaunt their ]{.c2
+    .c0}
+
+[CyberOptics by selecting iris hues of radical colors; others choose to
+hide their enhancements behind regular shades, which makes detection of
+CyberOptics impossible by ordinary detection methods. Note that
+CyberOptics can still be detected through the use of other specialized
+equipment.]{.c2 .c0}
+
+-   [Passive Mode = ]{.c6 .c7}[In passive mode, CyberOptics allows a
+    cybered character to detect wavelengths along the electromagnetic
+    spectrum that are normally not visible. Characters can detect
+    ultraviolet and infrared rays as well. Furthermore, CyberOptics
+    provides magnification and zooming capabilities which can make
+    things appear up to 20x their normal size. Coupled with the
+    processing power of a NanComputer, CyberOptics are able to take and
+    store photographs and videos (but the NanoComputer must be acquired
+    separately). Additionally, CyberOptics expands the distance at which
+    the cybered character can make an attack using the Ranged skill by
+    60 meters (for a total range of 180m versus 120m for non-cybered
+    characters).]{.c2 .c0}
+-   [Active Mode = ]{.c6 .c7}[In active mode, CyberOptics provide
+    bonuses to Ranged and Search, respectively. For every BT spent, the
+    cybered character adds 1 die to checks when making an attack with
+    Ranged, or when using Search to find hidden evidence or people.
+    ]{.c2 .c0}
+
+[]{.c2 .c0}
+
+[Pheromone]{.c6 .c7 .c13}[Package]{.c6 .c7}
+
+-   [Description = ]{.c6 .c7}[The PheromorePackage implants subtle
+    vesicles onto a character's skin which emit minute chemicals that
+    alter others' perceptions. The Pheromone Package is always active,
+    and are subtle enough where they are not detected except by the
+    successful use of a Science or Search skill check. ]{.c2 .c0}
+-   [Passive Mode = ]{.c6 .c7}[The PheromonePackage alters the
+    character's chemical makeup to suit; as such, the cybered character
+    receives AD on skill checks with Bureaucracy, Charm, Deception, and
+    Streetwise in cases where their gender, sexual orientation, or
+    appearance may make a difference. The GM and players should
+    collaboratively decide when this is opportune and when it
+    isn't.]{.c2 .c0}
+-   [Active Mode = ]{.c6 .c7}[For every BP spent, the cybered character
+    gains one extra die on skill checks for Charm and Deception.]{.c2
+    .c0}
+
+[]{.c2 .c0}
+
+[Cyber]{.c6 .c7}[Skin]{.c1}
+
+-   [Description = ]{.c6 .c7}[CyberSkin (or scales or fur, in cases of
+    Tesa and Weren respectively) consists of nanites embedded into the
+    dermal and keratin tissue of the character. On its surface,
+    CyberSkin is indistinguishable from non-cybered tissue, unless the
+    character chooses otherwise (to display ceremonial tattoos, for
+    instance). ]{.c2 .c0}
+-   [Passive Mode = ]{.c6 .c7}[In passive mode, CyberSkin grants the
+    character extra durability against physical attacks. The CyberSkin
+    is less effective than standard Armor, however, and only absorbs 1
+    LI/1 HI/1 EN damage. It has no soaking ability versus ME damage.
+    This soaking ability stacks with other forms of durability,
+    however.]{.c2 .c0}
+-   [Active Mode = ]{.c6 .c7}[In active mode, CyberSkin allows the
+    character to alter their physical appearance to suit new situations,
+    and to help them "fit in." This can take many different forms:
+    altering skin color (or fur and scale color), eye color, and hair
+    color. It is important to note that CyberSkin does not alter
+    physical structural features; for instance, activating CyberSkin
+    would not allow a character to adjust the size of their nose. For
+    every BT spent, the cybered character adds one extra die to checks
+    made with Bureaucracy, Charm, Deception, Stealth, and Streetwise, as
+    long as the outward modifications would benefit the character.
+    ]{.c6}
+
+[]{.c1}

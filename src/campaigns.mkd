@@ -1,0 +1,110 @@
+[STARDRIVE CAMPAIGN]{.c1}
+
+[The Stardrive campaign is a classic "space opera" setting. The Solar
+year is 2775 and the Orion Arm of the Milky Way galaxy has been
+thoroughly explored and colonized, though new frontiers on all reaches
+of space continue to provide opportunities for the adventurous. Life in
+the galaxy is plentiful, and Humanity has encountered five other
+intelligent and sentient species. The galactic community as a whole is
+referred to as the "Ekumen," but political unity is hard to come by.
+Numerous states and factions vie for dominance in the reaches of space.
+]{.c2 .c0}
+
+-   [Gravitics: ]{.c6 .c7}[Gravitics (or gravity technology) is a key
+    element of life in 2775. Spaceships and stations are able to have
+    artificial gravity for the benefit of their inhabitants, and
+    sub-light propulsion is done through gravitic technology by tricking
+    ships to "fall" forward through space.]{.c2 .c0}
+-   [Fusion:]{.c6 .c7}[ Nuclear fusion has supplied the Ekumen with a
+    virtually limitless supply of energy, and safe fusion reactors power
+    everything from cities to ships. That said, accidents can happen,
+    and spent nuclear fuel is a now-common hazard.]{.c2 .c0}
+-   [Stardrive: ]{.c6 .c7}[The key piece of technology that defines this
+    campaign is the stardrive, an engine that permits faster-than-light
+    travel. The stardrive combines both gravitics and fusion technology,
+    opening a rift in the fabric of space that connects two distant
+    points. The bigger the stardrive (which also requires more energy to
+    operate), the farther distance traveled, but only massive ships and
+    space stations can power and carry a stardrive of large size. The
+    smallest ships equipped with stardrives (luxury yachts and small
+    freighters) generally have a distance range of up to 6 light years,
+    while the biggest ships (military dreadnoughts and city-ships) can
+    travel up to 36 light years in a single "jump." Smaller spacecraft
+    such as fighters and other personal ships are not equipped with
+    stardrives; those ships must hitch a ride in a larger vessel in
+    order to cross the galaxy. Ships that travel using a stardrive leave
+    regular space in a colorful flash and enter what is called
+    "drivespace." While in drivespace, a ship is essentially stationary.
+    Looking out a viewing port or window reveals a random kaleidoscope
+    of colors, the meanings of which vary depending on the religion or
+    philosophy of the traveler. Drivespace is also a dangerous place to
+    be, however; ships must ensure that their hulls and airlocks are
+    sealed prior to engaging the stardrive to prevent the stuff of
+    drivespace from entering. Ships that have opened airlocks while in
+    drivespace are never heard from again. A journey through drivespace
+    always takes exactly 216 Solar hours (9 Solar days) regardless of
+    distance traveled. Therefore, ships making jumps need to be
+    well-prepared with food, water, and berthing for passengers. Upon
+    emerging from drivespace, a ship's stardrive must go through a
+    period of "cooling down" before making another jump. For every
+    lightyear traveled, the stardrive must cool down for 2 Solar hours.
+    Stardrives can only operate by bending the fabric of space;
+    attempting to activate a stardrive in an atmosphere will result in a
+    nuclear explosion, the size of which is determined by the size of
+    the stardrive..]{.c2 .c0}
+-   [Ansible: ]{.c6 .c7}[The ansible is a technology that permits
+    communication between star systems. These types of communication
+    include radio and electrical signals, but they do not have mass, so
+    they do not require a stardrive to be sent. The ansible uses
+    gravitics to "bundle" these radio and electronic messages and send
+    them at faster-than-light speed. Ansibles are large devices, but are
+    found in most every structure and ship. They are generally too large
+    to be carried by an individual. Messages sent by ansible travel at a
+    speed of 1 lightyear every three Solar hours. Delayed messages and
+    responses are essential facts of life in the far reaches of the
+    galaxy. ]{.c2 .c0}
+-   [Star Systems: ]{.c6 .c7}[Due to the incredible distances between
+    them, it requires a lot of time to communicate and travel from one
+    star system to another. As such, each star system is
+    quasi-independent. ]{.c6}
+
+[]{.c1}
+
+[ENDARKENMENT CAMPAIGN]{.c1}
+
+[2212 CE. Earth. The Endarkenment. The specifics of the world will be
+(for the most part) collaboratively built between the players and the
+GM, but there are some facets of the world that are unchangeable:]{.c2
+.c0}
+
+-   [Climate Change: ]{.c6 .c7}[The absolute worst-case scenarios of
+    climate change have come true, and then some. Global temperatures
+    have risen and weather patterns have altered. All glaciers around
+    the world have melted, raising seas to significant and devastating
+    levels (65 meters above present sea levels). During the winter
+    seasons in each hemisphere ocean ice appears, sometimes, but it
+    quickly disappears upon summer temperatures. Weather patterns have
+    changed around the world to affect agriculture and human life. The
+    human cost of climate change has been unprecedented; wars, famine,
+    species extinction, refugee crises, diseases, droughts, and more are
+    commonplace. Lesser developed countries are more at risk of these
+    consequences, but even first-world nations are dealing with
+    climate-related issues. Needless to say the effects of climate
+    change in 2212 are felt by everyone.]{.c2 .c0}
+-   [Psionics:]{.c6 .c7}[ Psionic ability has manifested itself upon
+    humanity. Some humans are innately born with abilities only heard of
+    in myth and legend; others can later develop this ability with
+    intense focus and training, under the tutelage of another psionic.
+    Different nations, cultures, and religions view psionic ability
+    differently, and have differing laws, policies, regulations, and
+    attitudes towards psionics. In the general population psionics are
+    rare, occurring in roughly one out of 200 births at random.]{.c2
+    .c0}
+-   [Cyberware: ]{.c6 .c7}[Technology has progressed to the point where
+    human and machine can be effectively joined to create truly
+    cybernetic persons. Nanotechnology has permitted circuitry to
+    interweave with the nervous system, allowing for conscious control
+    of computerized implants. Choosing to become "cybered" is an
+    expensive and laborious process, generally available to only
+    powerful governments, corporations, or to the very affluent (or the
+    criminal).]{.c6}

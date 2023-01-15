@@ -1,0 +1,801 @@
+[SKILL DESCRIPTIONS (]{.c6 .c7 .c13}[BY NAME)]{.c1}
+
+[Acrobatics -- AGI]{.c1}
+
+-   [This is the "default" AGI check, and in cases where the GM decides
+    on such a check, Acrobatics will be rolled.]{.c2 .c0}
+-   [Acrobatics is utilized whenever a character attempts to engage in a
+    physical activity that requires a great deal of coordination,
+    balance, dexterity, and/or gymnastic talent. Examples would include
+    walking a tightrope between two buildings, hovering in
+    zero-gravity]{.c0}[, ]{.c6}[tumbling out of the way in a firefight,
+    or trying not to slip on an icy surface. A successful roll means
+    that the character accomplishes their acrobatic feat (for the time
+    being).]{.c2 .c0}
+-   [Expertise Perks:]{.c1}
+
+```{=html}
+<!-- -->
+```
+-   [Missed Me: ]{.c6 .c7}[Once per milestone, a character with this
+    perk may ignore all damage received from a single attack that
+    targeted physical defense. This can be invoked after making the
+    defense check and calculating damage.]{.c2 .c0}
+
+[]{.c1}
+
+[Animals -- PERS]{.c1}
+
+-   [The Animals skill is used when a character is interacting with
+    animals of any type, wild or domestic. Note that this is a skill
+    that is based on PERS, not on INT. The Animals skill is used in
+    cases where a character is trying to ride, handle, befriend (or not
+    be eaten by) an animal, or when a character is attempting to train
+    an intelligent, domesticated animal to perform certain tasks.
+    Factual information on the animals (i.e. their diets, habitats,
+    etc.) are academic knowledge, and therefore would be best rolled by
+    using the Outdoors skill using INT as the attribute (see Outdoors
+    for more information).]{.c2 .c0}
+-   [Expertise Perks:]{.c1}
+
+```{=html}
+<!-- -->
+```
+-   [Animal Companion: ]{.c1}
+
+[]{.c2 .c0}
+
+[Athletics -- FORT]{.c1}
+
+-   [This is the "default" FORT check, and in cases where the GM decides
+    on such a check, Athletics will be rolled.]{.c2 .c0}
+-   [An Athletics check is rolled when the character attempts to use
+    strength or speed to accomplish a task. Examples would include
+    climbing a ledge, sprinting down an alley, or lifting a heavy
+    object. A successful check means that the character has succeeded in
+    their athletic feat (for the time being). ]{.c2 .c0}
+-   [Expertise Perks:]{.c6 .c7 .c13}
+
+[]{.c2 .c0}
+
+[Bureaucracy -- INT]{.c1}
+
+-   [Bureaucracy is a knowledge skill that reflects a character's
+    knowledge of various bureaucratic systems such as governments, legal
+    systems, corporations, organized religions, or other similar
+    hierarchies. Successful use of Bureaucracy means that a character
+    has gained, or is able to recall, key details about the bureaucratic
+    systems in place in a certain situation. These key details may even
+    translate as bonuses on other related skill checks in the form of
+    providing advantage.]{.c2 .c0}
+-   [Gear -- Fashion Suit: ]{.c6 .c7 .c13}[The fashion suit is an
+    assemblage of clothing, shoes, accessories, etc. that emit an aura
+    of confidence and belonging. The suit can also superficially change
+    colors, emit pleasing (or unpleasing odors), and can enable a
+    character to "fit in" in certain locales. The Fashion Suit grants
+    advantage on Bureaucracy, Charm, Deception, and Streetwise checks in
+    situations where personal dress and physical appearance may play a
+    role. The player must declare their intent to modify their Fashion
+    Suit before such an event. ]{.c6}[This is the same Fashion Suit as
+    can be ]{.c0}[acquired with the Charm, Deception, and Streetwise
+    skills.]{.c6}
+-   [Expertise Perks:]{.c1}
+
+```{=html}
+<!-- -->
+```
+-   [Resourceful Contacts: ]{.c6 .c7}[This character has developed a
+    contact that is exceptionally beneficial. Rather than gaining
+    information, assistance, or resources from this contact once per
+    milestone as is usual, this character is able to utilize their
+    contact twice per milestone. This Perk may be taken multiple times,
+    once for each contact a character has.]{.c2 .c0}
+
+[]{.c2 .c0}
+
+[Charm -- PERS]{.c1}
+
+-   [A Charm check is made when a character attempts to gain information
+    or assistance from an NPC. A successful roll means that the NPC is
+    willing to assist and aid the character (within reason) until the
+    situation changes, at which point the character may need to re-roll
+    the Charm check (depending on circumstances). A character may
+    attempt to use Charm against multiple targets (up to their PERS
+    score) using the same action, but each check needs to be rolled
+    separately.]{.c2 .c0}
+-   [Gear -- Fashion Suit: ]{.c6 .c7 .c13}[The fashion suit is an
+    assemblage of clothing, shoes, accessories, etc. that emit an aura
+    of confidence and belonging. The suit can also superficially change
+    colors, emit pleasing (or unpleasing odors), and can enable a
+    character to "fit in" in certain locales. The Fashion Suit grants
+    advantage on Bureaucracy, Charm, Deception, and Streetwise checks in
+    situations where personal dress and physical appearance may play a
+    role. The player must declare their intent to modify their Fashion
+    Suit before such an event. ]{.c6}[ ]{.c0}[This is the same Fashion
+    Suit as can be acquired with the Bureaucracy, Deception, and
+    Streetwise skills.]{.c6}
+-   [Expertise Perks:]{.c6 .c7 .c13}
+
+[]{.c2 .c0}
+
+[Computers -- INT]{.c1}
+
+-   [The Computers skill represents a character's ability to use
+    computerized systems to their fullest effect. It is assumed that all
+    characters have a basic understanding of computer technology, as it
+    is ubiquitous in the world; however, characters who use Computers
+    are able to make even ordinary devices perform above what the
+    untrained can do. For instance, while every character would be able
+    to use basic functions on a computer (search, save, delete,
+    communicate, etc.), by using Computers a character is able to hack
+    into a computer system, or to re-write computer code to their
+    liking.]{.c2 .c0}
+-   [Gear -- Personal Computer: ]{.c6 .c7 .c13}[A character trained in
+    Computers has a small personal ]{.c0}[computer]{.c6}[ that has
+    capabilities not found in other normal devices. Most notably, a
+    ]{.c0}[personal computer]{.c6}[ can be used to hack into other
+    computer or electronic systems wirelessly to a range of 30m. A
+    character's de]{.c0}[vice]{.c6}[ can vary to suit the player, but
+    ]{.c0}[they]{.c6}[ are generally small, thin, hand-held
+    ]{.c0}[machine]{.c6}[s. A wireless hack imposes DA to the Computers
+    check, but if the character physically connects their
+    ]{.c0}[device]{.c6}[ to a computer or electronic lock being hacked
+    via wires, the roll is done as normal. ]{.c2 .c0}
+-   [Expertise Perks:]{.c6 .c7 .c13}
+
+[]{.c2 .c0}
+
+[Deception -- PERS]{.c1}
+
+-   [When a character chooses to knowingly lie or deceiv]{.c0}[e]{.c6}[,
+    a Deception check is made. A successful roll means that the target
+    believes the character's lie until there is a change in the
+    situation, at which point the character may need to re-roll the
+    Deception check (depending on circumstances). A character may
+    attempt to use Deception against multiple targets (up to their PERS
+    score) using the same action, but each check needs to be rolled
+    separately. It is imp]{.c0}[ortant to note that if and when an NPC
+    discovers that they have been lied to, their attitude towards the
+    character will probably lessen, making further interactions more
+    difficult.]{.c6}
+-   [Gear -- Fashion Suit: ]{.c6 .c7 .c13}[The fashion suit is an
+    assemblage of clothing, shoes, accessories, etc. that emit an aura
+    of confidence and belonging. The suit can also superficially change
+    colors, emit pleasing (or unpleasing odors), and can enable a
+    character to "fit in" in certain locales. The Fashion Suit grants
+    advantage on Bureaucracy, Charm, Deception, and Streetwise checks in
+    situations where personal dress and physical appearance may play a
+    role. The player must declare their intent to modify their Fashion
+    Suit before such an event. ]{.c6}[This is the same Fashion Suit as
+    can be acquired with the Bureaucracy, Charm, and Streetwise
+    skills.]{.c6}
+-   [Expertise Perks:]{.c6 .c7 .c13}
+
+[]{.c2 .c0}
+
+[Deduce -- INT]{.c1}
+
+-   [This is the "default" INT check, and in cases where the GM decides
+    on such a check, Deduce will be rolled. ]{.c2 .c0}
+-   [Deduce is a measure of a character]{.c0}['s innate ability to see
+    patterns in information, and to fit those patterns together into a
+    pleasing whole. Solving puzzles and "connecting the dots," so to
+    speak, are when Deduce checks would be necessary.]{.c6}
+-   [Expertise Perks:]{.c1}
+
+```{=html}
+<!-- -->
+```
+-   [Linguist: ]{.c6 .c7}[This character can learn 2 additional
+    languages. This perk may be taken twice.]{.c2 .c0}
+
+[]{.c2 .c0}
+
+[Endurance -- FORT]{.c1}
+
+-   [The Endurance skill represents a character's physical stamina and
+    toughness. Endurance checks are made in cases where a character is
+    trying to resist adverse environments, such as extreme cold or heat,
+    or when a character is fighting off disease or infection. Endurance
+    checks can also be made to determine whether or not a character is
+    able to continue with physically strenuous work, such as running a
+    marathon. A success on an Endurance check generally means that the
+    character is unaffected by the challenge and may continue to take
+    actions as normal until the GM decides otherwise. A failure
+    generally means that the character succumbs to the physical
+    challenge, and suffers the consequences as dictated by the
+    situation. Finally, a character may make an Endurance check during a
+    rest to restore 1 point of body durability.]{.c2 .c0}
+-   [Gear -- Armor: ]{.c6 .c7 .c13}[A character trained in Endurance has
+    body armor that protects against physical damage. Armor soaks 1d6
+    LI/1d3 HI/1d6 EN damage. It has no soaking ability versus ME damage.
+    The body armor is akin to a bulletproof vest in its general mass and
+    bulkiness. It can be concealed at range by clothing, but any
+    observers within 6 meters of the character can identify the armor
+    within 1 minute. A character wearing armor has DA to Acrobatics,
+    Athletics, Stealth, and Thievery checks. ]{.c0}[Tesa characters have
+    a natural "Armor" due to their scales which does not impose
+    penalties on the aforementioned skill checks.]{.c6}
+-   [Gear --]{.c6 .c7 .c13}[ ]{.c0}[E-Suit: ]{.c6 .c7 .c13}[The E-Suit
+    (short for "environment suit") better enables the character to
+    withstand environmental extremes (heat, cold, low oxygen, etc.). The
+    E-Suit is sort of a combination between a hazmat suit, a scuba suit,
+    and a lightweight spacesuit. E-Suits are not normal fashion, so it's
+    obvious that a character is wearing one (though the appearance could
+    be improved by spending further XP). The first time the GM calls for
+    an Endurance check to resist the environment, a character with an
+    E-Suit rolls their check with advantage. Any level of success allows
+    the character to continue rolling with advantage thereafter. Any
+    failure results mean that the suit is incapable of handling the
+    extremes and ceases to function until the character takes a rest, or
+    until the GM awards a milestone. The E-Suit is also equipped with a
+    respirator that can be used in space or underwater, or to mitigate
+    the effects of smoke or toxins, for 10 minutes per milestone.
+    ]{.c6}[This is the same E-Suit granted by training in the Outdoors
+    skill.]{.c2 .c0}
+-   [Expertise Perks:]{.c6 .c7 .c13}
+
+[]{.c2 .c0}
+
+[H]{.c6 .c7 .c13}[umanities]{.c6 .c7}[ -- INT]{.c1}
+
+-   [Humanities is a knowledge skill that reflects a character's
+    familiarity with the past, historical events, patterns of human
+    behavior, art, literature, music, and other liberal studies in
+    general. A successful Humanities check means the character has
+    successfully recalled or applied knowledge about the past, human
+    societies, artwork, mythology, literature, theatre, or other
+    questions of psychology and economics. This success could even be
+    translated into advantage on future related checks.]{.c2 .c0}
+-   [Expertise Perks:]{.c6 .c7 .c13}
+
+[]{.c2 .c0}
+
+[Medicine -- INT]{.c1}
+
+-   [Medicine is a skill that reflects a character's knowledge of human
+    (and potentially animal) physiology. The character may be adept at
+    diagnosing medical problems, and may potentially have first aid
+    training, or be able to treat disease or illness. A successful use
+    of Medicine is generally used outside of combat, and means that the
+    character has succeeded (at least temporarily) in their efforts to
+    diagnose or treat themselves or others. During a rest, a character
+    can use Medicine once to restore either 1d3 body durability in
+    themselves or another individual. ]{.c2 .c0}
+-   [Gear -- Medical Kit: ]{.c6 .c7 .c13}[A character trained in
+    Medicine has a small medical kit ("medkit" for short) that can be
+    used to restore damage in themselves or in others in and out of
+    c]{.c0}[ombat scenarios]{.c6}[. The medkit is roughly the size and
+    shape of a book, and contains an assortment of pharmaceuticals,
+    bandages, surgical tools, etc. There are enough supplies in each
+    medkit to be used up to three ]{.c0}[times per milestone, and upon
+    reaching a milestone, the medkit is "recharged." ]{.c6}[The medkit
+    can be used in a combat scene with a Medicine check to restore up to
+    2d6 stun damage to an individual. Doing so in combat requires
+    ]{.c0}[2 actions (for a minimum of 2 combat phases\--they don't have
+    to be consecutive)]{.c6}[. ]{.c0}[During a rest]{.c6}[, the medkit
+    can be used to restore up to 1d6 body damage. Note that this is
+    ]{.c0}[in addition to any durability gained by characters through
+    the Endurance skill. ]{.c6}[If a character tries to use a medkit on
+    themselves, they suffer DA to the Medicine check.]{.c0}[ ]{.c6 .c7
+    .c13}
+-   [Expertise Perks:]{.c1}
+
+```{=html}
+<!-- -->
+```
+-   [Xenomedicine: ]{.c6 .c7}[This character has truly learned to think
+    outside the box when it comes to living things. If this character
+    ever encounters a lifeform unknown to them (or to the Ekumen as a
+    whole) they may make a Medicine check to determine certain facts;
+    for example, the way the organism reproduces, its diet, life cycle,
+    communication, hunting habits, etc. This knowledge results in AD on
+    associated checks when dealing with members of that species.]{.c2
+    .c0}
+-   [Surgery: ]{.c6 .c7}[The character may use Medicine during a rest to
+    heal double the amount of body durability they would otherwise heal.
+    Double the restored body durability after rolling dice.]{.c2 .c0}
+-   [Resourceful: ]{.c6 .c7}[The character may make up to two Medicine
+    checks per rest to restore body durability. ]{.c2 .c0}
+-   [Diagnostic Expert:]{.c6 .c7}[ This character can more accurately
+    and effectively diagnose diseases and toxins; therefore, treating
+    the condition is also more effective. Depending on the particular
+    disease or poison, this character either restores an additional 2
+    body durability on top of their normal roll when they use Medicine
+    during a rest, or they reduce the time required to recover from an
+    illness/poison by 50%. The GM will have more information on
+    particular diseases and toxins.]{.c2 .c0}
+
+[]{.c2 .c0}
+
+[]{.c2 .c0}
+
+[Melee -- FORT]{.c1}
+
+-   [Melee represents a character's ability to use their body (hands,
+    fists, etc.) in order to inflict damage, or to otherwise restrain or
+    incapacitate others. When trying to harm another, a successful use
+    inflicts 1d3+FORT (LI) body damage, or 1d6+FORT (LI) stun damage.
+    The player chooses which durability type to target before making the
+    Melee check. When trying to disarm, restrain, or otherwise use their
+    body without the direct intent to inflict harm, success means that
+    the character succeeds in the attempted action (at least for a
+    time). Further checks to maintain a restraint or a hold may be
+    required.]{.c2 .c0}
+-   [Gear -- Melee Weapon: ]{.c6 .c7 .c13}[A character trained in Melee
+    has a melee weapon that can be used as an action in combat. The
+    melee weapon deals 1d6+FORT (LI) body damage, or 2d6+FORT (LI) stun
+    damage. The character chooses which damage type to deal when using
+    the weapon and before making the Melee check. The exact weapon
+    th]{.c0}[e character uses ]{.c6}[can vary from player to player, but
+    melee weapons are able to be used one-handed. They are capable of
+    striking an enemy that the character is adjacent to (within 1
+    meter). The melee weapon is obvious to onlookers and cannot be
+    successfully hidden. Melee weapons do not produce noise at great
+    distances.]{.c0}[ ]{.c6 .c7 .c13}
+-   [Expertise Perks:]{.c1}
+
+```{=html}
+<!-- -->
+```
+-   [Extra Attack: ]{.c6 .c7}[This character can make an extra Melee
+    attack in the same action. The target of the extra attack must be
+    within melee range (it could be the same as the first attack, or it
+    could be different). The Melee check and damage rolls are done
+    separately.]{.c2 .c0}
+-   [Parry: ]{.c6 .c7}[A character with this perk may attempt to use
+    Melee to parry a melee attack made against them once per combat
+    round. Before rolling physical defense, the player would first roll
+    a Melee check. If successful, they would then roll their PD check
+    with advantage. If the Melee check to parry is unsuccessful, they
+    roll their PD check as normal. ]{.c2 .c0}
+-   [Deflect:]{.c6 .c7}[ This perk allows a character armed with a melee
+    weapon the chance to deflect a ranged attack once per combat round.
+    Before rolling PD as the target of a ranged attack, the character
+    would first roll a Melee check. If successful, they would then roll
+    their PD check with advantage. If the Melee check to deflect is
+    unsuccessful, they roll their PD check as normal. Note that this
+    perk requires the use of a melee weapon; deflecting unarmed will not
+    work.]{.c2 .c0}
+
+[]{.c2 .c0}
+
+[]{.c2 .c0}
+
+[Occult -- PERS]{.c1}
+
+-   [The Occult skill is a knowledge skill that reflects the character's
+    familiarity with psionic forces and psionic powers. Some characters
+    trained in Occult themselves have psionic ability; others are
+    academics who seek to understand psionic energy. A successful use of
+    this skill means that the character has been able to remember or
+    understand a vital bit of psionic information. This successful roll
+    may even provide AD in future related checks. Occult can also be
+    used outside of combat to create a psionic implement (see
+    Psionics).]{.c2 .c0}
+-   [Gear -- Psionic Shield:]{.c6 .c7 .c13}[ The psionic shield is a
+    small device that looks similar to a ]{.c0}[normal personal computer
+    or communication device]{.c6}[. It may be used in one of two ways;
+    first, if worn or carried by a character, it either imposes DA on
+    any psionic power used within 30 meters or grants the carrying
+    character AD on defense checks to resist psionic attacks. The
+    carrying character may voluntarily choose to "switch off" the shield
+    and ignore these penalties and advantages. Alternatively, the
+    psionic shield may be "clamped]{.c0}["]{.c6}[ ]{.c0}[on]{.c6}[to an
+    individual (restraints and modifications may be made to fit around
+    an individual's neck). In such a case the individual to whom it is
+    attached may not use psionic powers while the device is
+    active.]{.c0}[ ]{.c6 .c7 .c13}[A character may choose to combine
+    their Psionic Shield into one device along with their personal
+    communicator or other devices.]{.c6}
+-   [Gear -- Psionic Detector: ]{.c6 .c7 .c13}[The psionic detector is a
+    small device that looks similar to a normal ]{.c0}[personal computer
+    or communication device]{.c6}[. If any psionic power is used (or is
+    in use) within 30 meters, the detector will alert and will pinpoint
+    the general direction of the usage. Note that thi]{.c0}[s includes
+    any active psionic powers from the character themselves, or any
+    allies. ]{.c6}[If the character is actively monitoring the detector,
+    any usage of a psionic power will pinpoint the individual who used
+    the power. The carrying character may voluntarily choose to "switch
+    off" the detector and remain ignorant to psionic activity in their
+    immediacy.]{.c0}[ ]{.c6 .c7 .c13}[A character may choose to combine
+    their Psionic Detector into one device along with their personal
+    communicator or other devices (provided that they have paid 1 XP
+    each to get each Gear item). This is the same Psionic Detector
+    granted by training in the Science skill.]{.c6}
+-   [Expertise Perks:]{.c1}
+
+```{=html}
+<!-- -->
+```
+-   [Ritual:]{.c6 .c7}[ This character may perform a psionic "ritual"
+    which has the ability to magnify the effect of a psionic power.
+    Performing a ritual needs time and preparation; therefore, rituals
+    can only be performed during rests. In order to perform a successful
+    ritual, the lead character must first succeed at their Occult skill
+    check. Finally, the psionic power to be magnified needs to be used.
+    It is possible for more than one character to be involved in a
+    ritual (one to use Occult and one to use the psionic power, for
+    instance). The psychovolt spent to use the psionic power is not
+    recovered during the rest. The players and the GM should
+    collaboratively decide the effect of a successful ritual.]{.c2 .c0}
+
+[]{.c2 .c0}
+
+[]{.c2 .c0}
+
+[Outdoors -- INT]{.c1}
+
+-   [Outdoors represents a character's knowledge and skill at survival
+    in non-urban settings. Characters who succeed in an Outdoors check
+    are generally able to know enough about their outside environments
+    to find enough food, shelter, and water for 3 individuals for 24
+    hours. Feel free to adjust the rate depending on the environment,
+    the number of people, or other factors. They may use this skill to
+    navigate out of doors, or to provide AD on other related checks in a
+    wilderness setting.]{.c2 .c0}
+-   [Gear -- Survival Kit: ]{.c6 .c7 .c13}[The su]{.c0}[rvival kit is a
+    small briefcase-sized kit which contains emergency supplies that are
+    useful in the wilderness. It contains a variety of dried foodstuffs,
+    water purification tablets, emergency blankets, lamps, heaters, and
+    navigational tools. A character who makes an Outdoors check while in
+    possession of a survival kit (depending on situation) will receive
+    AD on the check.]{.c6}
+-   [Gear -- E-Suit: ]{.c6 .c7 .c13}[The E-Suit (short for "environment
+    suit") better enables the character to withstand environmental
+    extremes. The first time the GM calls for an Endurance check to
+    resist the environment, a character with an E-Suit rolls their check
+    with advantage. Any level of success allows the character to
+    continue rolling with advantage thereafter. Any failure results mean
+    that the suit is incapable of handling the extremes and ceases to
+    function until the character ]{.c0}[tak]{.c6}[es a rest. The E-Suit
+    is also equipped with a respirator that can be used underwater, or
+    to mitigate the effects of smoke or toxins, for 10 minutes per rest.
+    This is the same E-Suit granted by training in the Endurance
+    Skill.]{.c2 .c0}
+-   [Expertise Perks:]{.c1}
+
+```{=html}
+<!-- -->
+```
+-   [Resourceful: ]{.c6 .c7}[The character can find enough food,
+    shelter, and water for 6 individuals for 24 hours. ]{.c2 .c0}
+
+[]{.c2 .c0}
+
+[Ranged -- AGI]{.c1}
+
+-   [Ranged represents a character's knowledge and ability to gauge
+    distances, and to throw or shoot projectiles accurately. A character
+    can use Ranged to throw a small-to-medium-sized object (such as a
+    stone) up to FORTx6 meters (see "Standard Physical Abilities"
+    below). This object could then feasibly cause damage equal to
+    1d3 (LI) body damage or 1d6 (LI) stun damage, provided that it is a
+    hard or otherwise damaging object (throwing a soft pillow would not
+    cause this damage). Allowances should be made for objects designed
+    to be thrown (like a football) versus those that are not (like a
+    personal computer).]{.c2 .c0}
+-   [Gear -- Ranged Weapon:]{.c6 .c7 .c13}[ A character trained in
+    Ranged has a ranged weapon that can be used as an action in combat.
+    The ranged weapon deals 2d6 (HI) body damage on a successful check
+    res]{.c0}[ult]{.c6}[. Ranged weapons may target anything within 120m
+    of the character (provided there are no obstructions), and require
+    two hands to use. The ranged weapon is obvious to onlookers and
+    cannot be hidden. Ranged weapons create noise when used, and
+    listeners within 360m of the character are able to hear it
+    clearly.]{.c2 .c0}
+-   [Expertise Perks:]{.c1}
+
+```{=html}
+<!-- -->
+```
+-   [Extra Attack: ]{.c6 .c7}[This character can make an extra Ranged
+    attack in the same action. The target of the extra attack must be
+    within range (it could be the same as the first attack, or it could
+    be different). The Ranged check and damage rolls are done
+    separately. This perk may be chosen more than once; in such a case,
+    the character may make 3 attacks in the same combat phase.]{.c2 .c0}
+-   [Sniper:]{.c6 .c7}[ This character can successfully use a Ranged
+    weapon within 180 meters.]{.c2 .c0}
+
+[]{.c2 .c0}
+
+[Resolve -- PERS]{.c1}
+
+-   [This is the "default" PERS check, and in cases where the GM decides
+    on such a check, Resolve will be rolled.]{.c2 .c0}
+-   [The Resolve skill is used in cases where a character's mental or
+    spiritual capacity is stretched to the limit. For example, the GM
+    may call for a Resolve check in order to withstand intense terror,
+    grotesqueness, or shock. A success on such a check means that the
+    character can act as normal in those situations. Resolve is also
+    important for psionic characters. Once per rest, a psionic character
+    may make a Resolve check to restore 3 spent psychovolts. Resolve
+    cannot be used to restore psychovolts beyond their maximum, however.
+    ]{.c2 .c0}
+-   [Expertise Perks:]{.c6 .c7 .c13}
+
+[]{.c2 .c0}
+
+[Science -- INT]{.c1}
+
+-   [Science is a knowledge skill which is used when characters want to
+    utilize biological, chemical, physical, or other scientific
+    information. Success on a Science skill grants the player the
+    desired scientific knowledge, and can also provide AD on further
+    related skill checks.]{.c2 .c0}
+-   [Gear -- Forensics Kit: ]{.c6 .c7}[The forensics kit includes inks,
+    dyes, powders, and other tools useful to investigators of all types,
+    including police, detectives, and other operatives. The forensics
+    kit is roughly the size and shape of a book, and grants a character
+    AD on Search checks when used to find minute details in a scene, and
+    can also provide much more detailed information than would otherwise
+    be possible (for example, that the crime was committed by a male
+    with black hair, rather than simply a crime was committed by a
+    person standing 1.8 meters tall). Using the forensics kit requires
+    30 minutes, and so cannot be used in a combat scene. This is the
+    same Forensics Kit as provided by the Search skill.]{.c6}
+-   [Gear -- Psionic Detector: ]{.c6 .c7}[The psionic detector is a
+    small device that looks similar to a normal personal computer or
+    communication device. If any psionic power is used (or is in use)
+    within 30 meters, the detector will alert and will pinpoint the
+    general direction of the usage. Note that this includes any active
+    psionic powers from the character themselves, or any allies. If the
+    character is actively monitoring the detector, any usage of a
+    psionic power will pinpoint the individual who used the power. The
+    carrying character may voluntarily choose to "switch off" the
+    detector and remain ignorant to psionic activity in their
+    immediacy.]{.c6}[ ]{.c6 .c7}[A character may choose to combine their
+    Psionic Detector into one device along with their personal
+    communicator or other devices (provided that they have paid 1 XP
+    each to get each Gear item). This is the same Psionic Detector
+    granted by training in the Occult skill.]{.c6}
+-   [Gear -- Science Kit: ]{.c6 .c7 .c13}[A character trained in Science
+    has a small science kit that enables them to conduct scientific
+    ]{.c0}[lab work]{.c6}[ and fieldwork when an actual lab is not
+    present. The science kit is roughly the size and shape of a
+    ]{.c0}[briefcase]{.c6}[, and contains vials, test tubes, chemical
+    bases and solvents, etc. Using a science kit grants a
+    c]{.c0}[haracter AD on Science checks when a physical sample is
+    available to study (mineral, tissue, etc.). The use of a science kit
+    in this way takes 30 minutes, and so is not available during a
+    combat encounter.]{.c2 .c0}
+-   [Gear - Sensor Array: ]{.c6 .c7}[The sensor array is an electronic
+    device that detects a large quantity of environmental data, such as
+    temperature, humidity, UV radiation, electromagnetic radiation,
+    infrared, etc. The sensor array itself is a device similar to a
+    regular computer or communication device carried by most people.
+    Using the sensor array outside of a combat scene (which requires 3
+    minutes) grants the character a wealth of knowledge about their
+    immediate environment, up to 120 meters away. It can also provide AD
+    on the Search skill when used to detect larger-scale environmental
+    features in a scene. This is the same sensor array as provided by
+    the Search and Technology skills.]{.c2 .c0}
+-   [Expertise Perks:]{.c6 .c7 .c13}
+
+[]{.c2 .c0}
+
+[Search -- INT]{.c1}
+
+-   [The Search skill represents training that the character has in
+    gleaning clues from their environment. The GM may call for Search
+    checks at times to notice clues in the characters' specific locale.
+    At other times, a character may specifically want to use Search to
+    find a specific item or person. In such cases, a successful skill
+    check results in the character finding what they wanted to find
+    (more or less). ]{.c2 .c0}
+-   [Gear -- Forensics Kit: ]{.c6 .c7 .c13}[The forensics kit includes
+    inks, dyes, powders, and other tools useful to investigators of all
+    types, including police, detectives, and other operatives. The
+    forensics kit is roughly the size and shape of a book, and grants a
+    character AD on Search checks when used to find minute details in a
+    scene, and can also provide much more detailed information than
+    would otherwise be possible (for example, that the crime was
+    committed by a male with black hair, rather than simply a crime was
+    committed by a person standing 1.8 meters tall). Using the forensics
+    kit requires 30 minutes, and so cannot be used in a combat scene.
+    This is the same Forensics kit as provided by the Science
+    skill.]{.c6}
+-   [Gear -- Sensor Array: ]{.c6 .c7 .c13}[The sensor array is an
+    electronic device that detects a large quantity of environmental
+    data, such as temperature, humidity, UV radiation, electromagnetic
+    radiation, infrared, etc. The sensor array itself is a device
+    similar to a regular computer or communication device carried by
+    most people. Using the sensor array outside of a combat scene (which
+    requires 3 minutes) grants the character a wealth of knowledge about
+    their immediate environment, up to 120 meters away. It can also
+    provide AD on the Search skill when used to detect larger-scale
+    environmental features in a scene. This is the same sensor array as
+    provided by the Science and Technology skills.]{.c6}
+-   [Expertise Perks:]{.c6 .c7 .c13}
+
+[]{.c2 .c0}
+
+[]{.c2 .c0}
+
+[Stealth -- AGI]{.c1}
+
+-   [The Stealth skill is used when a character is attempting to hide,
+    shadow, or otherwise remain unnoticed by an NPC. A successful skill
+    check means that the character has successfully remained undetected
+    until something in the situation changes. A character who is
+    attempting to remain hidden from multiple NPCs must make a separate
+    check for each NPC. A character who is successfully hidden may break
+    cover to initiate a surprise round in combat. In such a case, the
+    surprise round would come before the Amazing phase in combat, and
+    the stealthy character would only gain one bonus action in that
+    round. Additionally, a character in a surprise round of combat would
+    roll their attack with advantage. ]{.c2 .c0}
+-   [Gear -- Stealth Unit: ]{.c6 .c7 .c13}[The stealth unit is a small
+    electronic device in similar size and shape to a regular computer or
+    communication device carried by most people. The stealth device
+    includes sound-dampening technology and projects image-blurring
+    which grants a character with this device AD on Stealth checks. If a
+    character using a stealth unit remains motionless, they cannot be
+    detected. Any motion would trigger another Stealth check, but with
+    AD. The character can choose to turn this device on and off.]{.c6}
+-   [Expertise Perks:]{.c6 .c7 .c13}
+
+[]{.c2 .c0}
+
+[]{.c2 .c0}
+
+[Streetwise -- PERS]{.c1}
+
+-   [The Streetwise skill is a knowledge skill which represents a
+    character's ability to get around and survive in urban environments.
+    A skill check may be called for when navigating from one point to
+    another in a city, or when trying to find safehouses, etc. Success
+    on a Streetwise skill check may provide AD on further related skill
+    checks.]{.c2 .c0}
+-   [Gear -- Fashion Suit: ]{.c6 .c7 .c13}[The fashion suit is an
+    assemblage of clothing, shoes, accessories, etc. that emit an aura
+    of confidence and belonging. The suit can also superficially change
+    colors, emit pleasing (or unpleasing odors), and can enable a
+    character to "fit in" in certain locales. The Fashion Suit grants
+    advantage on Bureaucracy, Charm, Deception, and Streetwise checks in
+    situations where personal dress and physical appearance may play a
+    role. The player must declare their intent to modify their Fashion
+    Suit before such an event. ]{.c6}[ ]{.c0}[This is the same Fashion
+    Suit as can be acquired with the Bureaucracy, Charm, and Deception
+    skills.]{.c6}
+-   [Expertise Perks:]{.c6 .c7 .c13}
+
+[]{.c2 .c0}
+
+[]{.c2 .c0}
+
+[Tactics -- INT]{.c1}
+
+-   [The Tactics skill is used when characters attempt to gain the upper
+    hand prior to a combat situation, or when a character is attempting
+    to infiltrate, sabotage, or otherwise gain access to an off-limits
+    area. In general, Tactics represents a character's knowledge and use
+    of superior weaponry, positioning, vehicles, strategy, and ambush in
+    order to achieve military goals. A successful use of Tactics can
+    grant a surprise round in combat for the character, and up to INT
+    number of others. Tactics can also be used to plot the best entry
+    into a fortified facility, or to find weaknesses in a structure or
+    other large vehicle. In such a case, the successful use of Tactics
+    may provide AD on future related skill checks. ]{.c2 .c0}
+-   [Gear -- Explosives kit: ]{.c6 .c7 .c13}[The explosives kit comes in
+    two separate forms: as a satchel charge or as three small grenades.
+    The character who acquires an explosives kit must specify which kit
+    they choose. Each kit may be "recharged," so to speak, once per
+    milestone. The satchel charge may be used as part of a Tactics check
+    to destroy a large vehicle or small building. Each grenade may be
+    used as a thrown weapon (see the Ranged skill) which deals 2d6 (HI)
+    body damage for a fragmentation grenade or 3d6 (LI) stun damage for
+    a concussion grenade. The player must choose which damage to deal
+    before making the Ranged check. The satchel charge is the general
+    size and mass of a briefcase and can be easily disguised as such
+    from the outside. The three grenades are the size and mass of
+    baseballs and can be easily concealed by clothing.]{.c6}
+-   [Expertise Perks:]{.c1}
+
+```{=html}
+<!-- -->
+```
+-   [Command: ]{.c6 .c7}[This character can give bonus actions to their
+    allies. After every initiative check, the player can choose to give
+    one extra action to any of their allies that are within 30 meters.
+    The character receiving the extra action must use it during that
+    combat round, or it is lost. A commanding player can give up to
+    three extra actions in between each rest.]{.c2 .c0}
+
+[]{.c2 .c0}
+
+[Technology -- INT]{.c1}
+
+-   [The Technology skill is a measure of a character's knowledge about
+    robotics, electronics, and other technological devices and advances.
+    In certain cases, the GM will call for a Technology check to be able
+    to recall or know technological information. Technology is also an
+    important skill for being able to repair technological devices. A
+    successful skill check to repair (which requires a rest) results in
+    the desired piece of equipment becoming functional again.
+    Alternatively, a character may use Technology to "jury-rig" a broken
+    device. Jury-rigging requires two combat actions, and results in the
+    desired device becoming functional for another 1d6 hours, after
+    which the device breaks again and cannot be used until repaired as
+    normal during a rest. Using Repair to fix damaged CyberWare imposes
+    DA on the skill check. Additionally, Technology is also important
+    for cybered characters. Once per rest, a cybered character may make
+    a Technology check to restore 3 spent batteries. Technology cannot
+    be used to restore batteries beyond their maximum, however. ]{.c2
+    .c0}
+-   [Gear -- Repair Kit: ]{.c6 .c7 .c13}[The repair kit includes tools
+    and electronics which are useful in fixing damaged technological or
+    electronic devices. The kit itself is about the size and shape of a
+    book. Using the repair kit when fixing items no longer requires a
+    rest\--instead, the repairs take 1d3 hours. This can come in handy
+    when needing to make repairs quickly without expending a rest. When
+    using the Repair Kit to jury-rig, it provides AD on the related
+    Technology check. ]{.c6}
+-   [Gear -- Sensor Array: ]{.c6 .c7}[The sensor array is an electronic
+    device that detects a large quantity of environmental data, such as
+    temperature, humidity, UV radiation, electromagnetic radiation,
+    infrared, etc. The sensor array itself is a device similar to a
+    regular computer or communication device carried by most people.
+    Using the sensor array outside of a combat scene (which requires 3
+    minutes) grants the character a wealth of knowledge about their
+    immediate environment, up to 120 meters away. It can also provide AD
+    on the Search skill when used to detect larger-scale environmental
+    features in a scene. This is the same sensor array as provided by
+    the Science and Technology skills.]{.c6}
+-   [Expertise Perks:]{.c6 .c7 .c13}
+
+[]{.c2 .c0}
+
+[]{.c2 .c0}
+
+[Thievery -- AGI]{.c1}
+
+-   [Thievery measures a character's skill and adeptness in
+    pickpocketing, ]{.c6}[lockpicking]{.c6}[, and other feats of
+    sleight-of-hand. A successful skill check means that the character
+    has managed to lift a small object off of another individual without
+    their awareness. It also means that a character has managed to pick
+    or break a lock in order to gain entry into a restricted location.
+    Using Thievery on an electronic lock imposes DA to the skill check.
+    Thievery can also be used to quickly hide an item, or to
+    prestidigitate in such a way that observers lose track of an
+    object.]{.c2 .c0}
+-   [Gear -- Lockpick Set: ]{.c6 .c7 .c13}[The lockpick set consists of
+    physical and electronic devices which facilitate lockpicking and
+    illicit entry. The lockpick set itself is roughly the size and shape
+    of a small book. Use of the lockpick set grants AD to lockpicking
+    physical locks, and negates the DA imposed on electronic locks.
+    ]{.c6}
+-   [Expertise Perks:]{.c6 .c7 .c13}
+
+[]{.c2 .c0}
+
+[]{.c2 .c0}
+
+[Vehicles -- AGI]{.c1}
+
+-   [Vehicles represents a character's aptitude in operating
+    small-to-medium-sized vehicles. (Larger vehicles, such as trains,
+    dreadnoughts, or battleships are generally operated through the use
+    of Computers.) While all characters are probably familiar with the
+    standard operation of civilian vehicles, a trained character is
+    capable of speeds and maneuvers which enable them to tail those that
+    they chase or to lose those that pursue them. Training in vehicles
+    also allows characters to operate specialty craft that most
+    civilians have no familiarity with, such as jet-skis or personal
+    aircraft. When a character operating a vehicle attempts a vehicular
+    maneuver out of the ordinary, the GM will call for a check. On a
+    successful roll, the maneuver succeeds. ]{.c2 .c0}
+-   [Gear -- Personal Vehicle: ]{.c6 .c7 .c13}[The character is in
+    possession of a small, one-person capacity personal vehicle. This
+    vehicle is generally designed for land usage, but can be modified to
+    travel in the air, the water, or in space. The personal vehicle
+    provides very little in the way of physical protection (think of a
+    motorcycle), but can enable the character to travel independently at
+    need.]{.c6}
+-   [Expertise Perks:]{.c6 .c7 .c13}
+
+[]{.c2 .c0}
+
+[]{.c1}

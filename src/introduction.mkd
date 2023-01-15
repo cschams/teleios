@@ -1,0 +1,53 @@
+Teleios Roleplaying Game System
+===============================
+
+![](images/image1.png)
+
+© Greg Schams
+
+
+\newpage
+
+[INTRODUCTION]{.c1}
+
+[Welcome to Teleios! This roleplaying game system is primarily geared
+towards campaigns set anytime from the modern to the far-future,
+however, it could be easily adapted to other settings with some slight
+modifications. Given the versatility of this system, there are some
+components that gamemasters (GMs) will want to include, while there are
+others that are optional, depending on the style and flavor of the
+campaign they are running. The rules that follow assume the reader has
+familiarity with other tabletop roleplaying games, but effort will be
+made at clarifying confusing points. Please enjoy reading these rules,
+and feel free to comment and critique as necessary. ]{.c2 .c0}
+
+[]{.c1}
+
+[THE STORY]{.c1}
+
+[Regardless of the specific campaign, Teleios is designed to be
+story-driven. While the GM will be the prime storyteller, the players
+will also have key roles in creating the campaign and story. The
+collaboration between the GM and the players isn't one of competition
+necessarily, but one of mutual creativity and fun. For example, rules
+will exist in this game wherein the players are given the ability to
+modify the story; in such a case, the players and the GM should
+collectively agree on the story and plot changes that will be
+introduced. ]{.c2 .c0}
+
+[]{.c1}
+
+[SKILLS INSTEAD OF CLASSES]{.c6 .c7}
+
+[There are no classes in Teleios. Instead, player characters select
+skills which depict what they are good at doing. A flexible skill-based
+system offers characters more options for abilities, powers, and
+knowledge versus being labeled as a "fighter" and succumbing to the
+limitations that descriptor entails. A traditional "fighter" in Teleios
+could not only be good at combat, but could also be a movie buff, a
+dancer, and have an interest in the occult. Selecting skills in those
+areas would not penalize this character as they might in other game
+systems. Furthermore, a skill-based system is more "realistic" in that
+everyone in reality has a wide panoply of skills, interest, and
+abilities which are not easily shoehorned into a one-word label like
+"medic," "mechanic," or "mystic."]{.c2 .c0}
