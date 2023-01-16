@@ -1,4 +1,8 @@
-[STARDRIVE CAMPAIGN]{.c1}
+Mini Campaign Settings
+======================
+
+Stardrive Campaign
+-------------------
 
 [The Stardrive campaign is a classic "space opera" setting. The Solar
 year is 2775 and the Orion Arm of the Milky Way galaxy has been
@@ -68,9 +72,8 @@ Numerous states and factions vie for dominance in the reaches of space.
     star system to another. As such, each star system is
     quasi-independent. ]{.c6}
 
-[]{.c1}
-
-[ENDARKENMENT CAMPAIGN]{.c1}
+Endarkenment Campaign
+---------------------
 
 [2212 CE. Earth. The Endarkenment. The specifics of the world will be
 (for the most part) collaboratively built between the players and the
@@ -108,3 +111,5 @@ GM, but there are some facets of the world that are unchangeable:]{.c2
     expensive and laborious process, generally available to only
     powerful governments, corporations, or to the very affluent (or the
     criminal).]{.c6}
+
+\newpage

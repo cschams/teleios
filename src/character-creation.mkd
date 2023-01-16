@@ -1,4 +1,5 @@
-[CHARACTER CREATION]{.c1}
+Character Creation
+==================
 
 [Since Teleios tries to emphasize story, players are encouraged to think
 of "who" their character is first and foremost, rather than simply a
@@ -14,10 +15,8 @@ the species are available for players to play. Alternatively, maybe the
 history of the campaign setting is such that it could directly tie into
 a character's backstory.]{.c2 .c0}
 
-[]{.c2 .c0}
-
-
-[S]{.c6 .c7 .c13}[PECIES]{.c1}
+Species
+-------
 
 [The Teleios roleplaying game system has options for all types of
 characters, centered around six different species. The decision to
@@ -27,10 +26,6 @@ can fit into various campaigns in different roles. Below is a chart
 which details the minimum and maximum attribute scores for each species.
 Additionally, brief descriptions are included of the history,
 physiology, and sociology of each species.]{.c2 .c0}
-
-[]{.c2 .c0}
-
-[]{#t.e9ccabafd24f4365d51a00aab7926c15d97587ff}[]{#t.17}
 
   ----------------- -------------------------- -------------------------- ---------------------- -------------------------- -------------------------- -------------------
   []{.c1}           [FORT]{.c1}                [AGI]{.c1}                 [INT]{.c1}             [PERS]{.c1}                [CYB]{.c1}                 [PSI]{.c1}
@@ -42,9 +37,7 @@ physiology, and sociology of each species.]{.c2 .c0}
   [Weren]{.c1}      [2]{.c6}[ -- 6]{.c2 .c0}   [1 -- ]{.c0}[6]{.c6}       [1 -- ]{.c0}[6]{.c6}   [1 -- 6]{.c2 .c0}          [0 -- 6]{.c2 .c0}          [0 -- 6]{.c2 .c0}
   ----------------- -------------------------- -------------------------- ---------------------- -------------------------- -------------------------- -------------------
 
-[]{.c1}
-
-[Android]{.c1}
+### Android
 
 [Androids are a species of humanoid whose synthesis of nanotechnology
 and biological tissue is so complete as to be inseparable and virtually
@@ -88,9 +81,7 @@ concerned:]{.c2 .c0}
     they may purchase them as normal. An Android character cannot begin
     play with a rank higher than 4 in Computers.]{.c6}
 
-[]{.c2 .c0}
-
-[Fraal]{.c1}
+### Fraal
 
 [The Fraal are an ancient spacefaring species whose history is long and
 convoluted. According to their history, a great colony ship was
@@ -138,9 +129,7 @@ the game is concerned:]{.c2 .c0}
     purchase them as normal. A Fraal character cannot begin play with a
     rank higher than 4 in Occult.]{.c6}
 
-[]{.c1}
-
-[Human]{.c1}
+### Human
 
 [The history and physiology of Humanity on Earth is well-documented
 elsewhere and does not bear repeating here. Suffice to say that the
@@ -163,9 +152,7 @@ where the game is concerned:]{.c2 .c0}
     purchase them as normal. A Human character cannot begin play with a
     rank higher than 4 in Charm.]{.c2 .c0}
 
-[]{.c2 .c0}
-
-[Sesheyan]{.c1}
+### Sesheyan
 
 [The Sesheyan are by far the most "alien" of the species so far
 encountered by Humans or the Ekumen. Native to a dense and dark jungle
@@ -200,9 +187,7 @@ where the game is concerned:]{.c2 .c0}
     character cannot begin play with a rank higher than 4 in
     Stealth.]{.c6}
 
-[]{.c2 .c0}
-
-[Tesa]{.c6 .c7}
+### Tesa
 
 [The Tesa are a quick, intelligent, curious, and welcomed species in the
 Ekumen. Tesa are a reptilian species slightly smaller than Humans
@@ -229,9 +214,7 @@ the game is concerned:]{.c2 .c0}
     may purchase them as normal. A Tesa character cannot begin play with
     a rank higher than 4 in Technology.]{.c6}
 
-[]{.c2 .c0}
-
-[Weren]{.c1}
+### Weren
 
 [Werens are a proud, noble, and warlike species. Native to the planet
 Kurg, the history of the Weren species is filled with courageous
@@ -258,9 +241,8 @@ the game is concerned:]{.c2 .c0}
     purchase them as normal. A Weren character cannot begin play with a
     rank higher than 4 in Melee.]{.c2 .c0}
 
-[]{.c2 .c0}
-
-[Attribute Selection]{.c1}
+Attribute Selection
+-------------------
 
 [Aft]{.c0}[er having an idea of who their character is, a]{.c6}[ player
 ]{.c0}[then]{.c6}[ choos]{.c0}[es]{.c6}[ a species, and ]{.c0}[also
@@ -320,9 +302,8 @@ scores for each species, as they vary (see "Species" below).]{.c6}
     array it is impossible for the highest values (4 and 3) to be both
     PSI and CYB, since the sum of those numbers would be 7.)]{.c6}
 
-[]{.c2 .c0}
-
-[Beginning XP]{.c1}
+Beginning XP
+------------
 
 [After all attribute points have been allocated, calculate beginning XP.
 The formula for doing so i]{.c0}[s]{.c6}[ ]{.c0}[24+(INTx3)]{.c6 .c7
@@ -337,9 +318,8 @@ attributes]{.c6}[.]{.c6 .c7}[ A starting character is permitted to save
 up to ]{.c0}[2]{.c6}[ XP for fu]{.c0}[rther training, but is required to
 spend the remainder. ]{.c6}
 
-[]{.c2 .c0}
-
-[ADVANCEMENT]{.c1}
+Advancement
+-----------
 
 [As characters acquire more XP, it will be used to gain new ranks in
 skills, psionic powers, ]{.c0}[CyberWare]{.c6}[, perks, or attributes.
@@ -350,9 +330,6 @@ remember that impuls]{.c0}[ive purchases are costly to retrain (see
 "Retraining" below)]{.c6}[. The costs to improve skills, psionic powers,
 and attributes are below:]{.c0}
 
-[]{.c2 .c0}
-
-[]{#t.848da58eb9fc9e6b26478b888d3a07487a3f53e2}[]{#t.0}
 
   -------------------------------- ----------------- ----------------------- -------------------
   [Cost to Improve (in XP)]{.c1}   [Skills]{.c1}     [Psionic Powers]{.c1}   [Attributes]{.c1}
@@ -361,15 +338,13 @@ and attributes are below:]{.c0}
   [to Rank 6]{.c1}                 [3 XP]{.c2 .c0}   [4 XP]{.c2 .c0}         [5 XP]{.c2 .c0}
   -------------------------------- ----------------- ----------------------- -------------------
 
-[]{.c1}
 
 [All CyberWare costs 2 XP to acquire (see "Cyberware" below), and since
 it does not gain ranks like attributes, skills, and powers, it does not
 follow the traditional advancement chart listed above.]{.c2 .c0}
 
-[]{.c1}
-
-[AWARDING XP]{.c1}
+Awarding XP
+-----------
 
 [As a GM it can sometimes be difficult to decide when and how much XP to
 award players. And while every GM is different, here are some suggested
@@ -393,9 +368,8 @@ guidelines:]{.c2 .c0}
     advancing the plot of the story in a significant way, XP should be
     awarded commensurately, between 1-3 XP per player.]{.c2 .c0}
 
-[]{.c2 .c0}
-
-[RETRAINING]{.c1}
+Retraining
+----------
 
 [Sometimes characters realize that choices they made with regards to
 skills, psionic powers, ]{.c0}[CyberWare]{.c6}[, perks, and/or
@@ -417,10 +391,8 @@ which would result in the loss of an expertise perk, those perks
 associated with that retrained rank are also lost (but the character
 would gain back the extra XP as well). ]{.c6}
 
-[]{.c2 .c0}
-
-
-[CHARACTER ]{.c6 .c7 .c13}[IDEALS, TRAITS, & BONDS]{.c6 .c7}
+Character Ideals, Traits, & Bonds
+---------------------------------
 
 [The Teleios system is primarily a storytelling system, and players and
 GMs should keep in mind that good storytelling and good roleplaying are
@@ -430,9 +402,7 @@ traits, and bonds]{.c6}[ are roleplaying items that try to make an
 actual "character" out of the character, rather than just a bunch of
 numbers.]{.c2 .c0}
 
-[]{.c2 .c0}
-
-[Ideals]{.c1}
+### Ideals
 
 [A character should begin play with at least one but no more than two
 ideals. Ideals can be thought of as "goals;" what are the character's
@@ -498,9 +468,7 @@ character's ideals.]{.c2 .c0}
     their abilities in order to achieve perfection. The intrinsic
     motivation to excel is all that matters.]{.c6}
 
-[]{.c1}
-
-[Traits]{.c1}
+### Traits
 
 [A character should begin play with at least one, but no more than three
 traits. A trait is a general personality characteristic that is used for
@@ -783,9 +751,8 @@ a starting point for players to choose their character's traits.]{.c6}
     offended by another, they will go to extreme lengths to punish the
     offender, or to exact retribution.]{.c2 .c0}
 
-[]{.c1}
+### Bonds
 
-[Bonds]{.c1}
 
 [A bond is a deep connection that a character feels towards a person,
 group, place, or thing. Bonds may be positive in nature]{.c0}[ (i.e. the
@@ -798,9 +765,8 @@ bond, and perhaps one or two weaker bonds. These help establish a
 character's backstory, and ground the character in the world. They may
 also be used as plot devices by the GM.]{.c0}
 
-[]{.c2 .c0}
-
-[STANDARD PHYSICAL ABILITIES]{.c1}
+Standard Physical Abilities
+---------------------------
 
 [The standards listed below are the maximum values in each category for
 each character. CyberWare adds to these standard abilities (see
@@ -809,17 +775,11 @@ within these parameters may necessitate an Athletics, Acrobatics, or
 Endurance check (GM discretion), and even so, may not be possible.]{.c2
 .c0}
 
-[]{.c1}
-
 -   [Standing Jump: ]{.c6 .c7 .c13}[A standing jump measures the
     horizontal distance a character can leap from a standstill position.
     A character may make a second action in a combat phase while making
     a standing jump, but the second action suffers DA.]{.c2 .c0}
 -   [(FORT+AGI)/4 meters max distance]{.c1}
-
-[]{.c2 .c0}
-
-[]{#t.99fd5e5dd22060a61bce67f0c8aed401bf47ba6d}[]{#t.4}
 
 +--------+--------+--------+--------+--------+--------+--------+--------+
 | [      |        | [FORT  |        |        |        |        |        |
@@ -858,8 +818,6 @@ Endurance check (GM discretion), and even so, may not be possible.]{.c2
 |        |        | .c0}   | .c0}   | .c0}   | .c0}   | .c0}   | .c0}   |
 +--------+--------+--------+--------+--------+--------+--------+--------+
 
-[]{.c2 .c0}
-
 -   [Running Jump: ]{.c6 .c7 .c13}[A running jump measures the
     horizontal distance a character can leap when given at least a 2m
     running start. A character may attempt a secondary action while
@@ -868,10 +826,6 @@ Endurance check (GM discretion), and even so, may not be possible.]{.c2
     character in the next combat phase also suffers DA.]{.c2 .c0}
 -   [(FORT+AGI)/2 meters max distance (need at least 2 meters running
     start)]{.c1}
-
-[]{.c2 .c0}
-
-[]{#t.7f9b9d68195730f53be0a2e58834748b2759d0a8}[]{#t.5}
 
 +--------+--------+--------+--------+--------+--------+--------+--------+
 | [      |        | [FORT  |        |        |        |        |        |
@@ -910,8 +864,6 @@ Endurance check (GM discretion), and even so, may not be possible.]{.c2
 |        |        | .c0}   | .c0}   | .c0}   | .c0}   | .c0}   | .c0}   |
 +--------+--------+--------+--------+--------+--------+--------+--------+
 
-[]{.c2 .c0}
-
 -   [Vertical jump: ]{.c6 .c7 .c13}[A vertical jump measures the
     vertical distance a character can leap from a standstill position.
     Note that the distances shown here apply to the character's feet and
@@ -919,10 +871,6 @@ Endurance check (GM discretion), and even so, may not be possible.]{.c2
     character may make a second action in a combat phase while making a
     vertical jump, but the second action suffers DA.]{.c2 .c0}
 -   [(FORT+AGI)/6 meters max height]{.c1}
-
-[]{.c2 .c0}
-
-[]{#t.c87653ddc8e4f7f0d82ae02cbd9cc8025af7d849}[]{#t.6}
 
 +--------+--------+--------+--------+--------+--------+--------+--------+
 | [      |        | [FORT  |        |        |        |        |        |
@@ -961,8 +909,6 @@ Endurance check (GM discretion), and even so, may not be possible.]{.c2
 |        |        | .c0}   | .c0}   | .c0}   | .c0}   | .c0}   | .c0}   |
 +--------+--------+--------+--------+--------+--------+--------+--------+
 
-[]{.c2 .c0}
-
 -   [Encumbrance: ]{.c6 .c7 .c13}[As mentioned in the "Gear and Money"
     section, the Teleios system is not designed to be punitive in making
     characters account for each kg of gear they are carrying. Instead,
@@ -971,10 +917,6 @@ Endurance check (GM discretion), and even so, may not be possible.]{.c2
     (such as carrying out the unconscious body of a fallen comrade).
     ]{.c2 .c0}
 -   [FORTx6 kg without penalty]{.c1}
-
-[]{.c2 .c0}
-
-[]{#t.eea7b4cae8a3714f5e41c3bd74cb8c89ea690fb4}[]{#t.7}
 
   ------------------- ------------------------------------
   [FORT Score]{.c1}   [Encumbrance without Penalty]{.c1}
@@ -986,8 +928,6 @@ Endurance check (GM discretion), and even so, may not be possible.]{.c2
   [6]{.c2 .c0}        [36kg]{.c2 .c0}
   ------------------- ------------------------------------
 
-[]{.c2 .c0}
-
 -   [Climbing: ]{.c6 .c7 .c13}[A character's climbing rate measures the
     distance they can travel\--vertically, horizontally, or both\--while
     all of their limbs are engaged in the activity of climbing.
@@ -995,12 +935,6 @@ Endurance check (GM discretion), and even so, may not be possible.]{.c2
     actively climbing or simply holding on\--imposes DA on the related
     check.]{.c2 .c0}
 -   [(FORT+AGI)/8 meters/phase]{.c1}
-
-[]{.c2 .c0}
-
-[]{.c2 .c0}
-
-[]{#t.7a19d55bf7106530ba1749b4e36ab738d98851ed}[]{#t.8}
 
 +--------+--------+--------+--------+--------+--------+--------+--------+
 | [      |        | [FORT  |        |        |        |        |        |
@@ -1039,16 +973,10 @@ Endurance check (GM discretion), and even so, may not be possible.]{.c2
 |        |        | .c0}   | .c0}   | .c0}   | .c0}   | .c0}   | .c0}   |
 +--------+--------+--------+--------+--------+--------+--------+--------+
 
-[]{.c2 .c0}
-
 -   [Walking: ]{.c6 .c7 .c13}[In most situations, it is assumed that
     characters are walking during combat. Secondary actions while
     walking may be attempted and suffer no ordinary penalties.]{.c2 .c0}
 -   [(FORT+AGI)/2 meters/phase]{.c1}
-
-[]{.c2 .c0}
-
-[]{#t.34d9fac40deb2823e8ec4ee5fbd918d8914753e5}[]{#t.9}
 
 +--------+--------+--------+--------+--------+--------+--------+--------+
 | [      |        | [FORT  |        |        |        |        |        |
@@ -1087,16 +1015,10 @@ Endurance check (GM discretion), and even so, may not be possible.]{.c2
 |        |        | .c0}   | .c0}   | .c0}   | .c0}   | .c0}   | .c0}   |
 +--------+--------+--------+--------+--------+--------+--------+--------+
 
-[]{.c2 .c0}
-
 -   [Running: ]{.c6 .c7 .c13}[Running greatly increases a character's
     movement, but imposes DA on secondary actions taken in the same
     combat phase.]{.c2 .c0}
 -   [Walk x2 meters/phase]{.c1}
-
-[]{.c2 .c0}
-
-[]{#t.0bc08ff7d74847288bee6197e2d8aa19cf27f7b9}[]{#t.10}
 
 +--------+--------+--------+--------+--------+--------+--------+--------+
 | [      |        | [FORT  |        |        |        |        |        |
@@ -1135,17 +1057,11 @@ Endurance check (GM discretion), and even so, may not be possible.]{.c2
 |        |        | .c0}   | .c0}   | .c0}   | .c0}   | .c0}   | .c0}   |
 +--------+--------+--------+--------+--------+--------+--------+--------+
 
-[]{.c2 .c0}
-
 -   [Swimming: ]{.c6 .c7 .c13}[A swimming character is one who is
     engaged in the activity using all of their limbs. If a character who
     is swimming attempts another action in the same combat phase, that
     action is rolled with DA.]{.c2 .c0}
 -   [(FORT+AGI)/2 meters/phase]{.c1}
-
-[]{.c2 .c0}
-
-[]{#t.03235f9b69f0717bde0c38fa47d9f97e5abac87a}[]{#t.11}
 
 +--------+--------+--------+--------+--------+--------+--------+--------+
 | [      |        | [FORT  |        |        |        |        |        |
@@ -1184,8 +1100,6 @@ Endurance check (GM discretion), and even so, may not be possible.]{.c2
 |        |        | .c0}   | .c0}   | .c0}   | .c0}   | .c0}   | .c0}   |
 +--------+--------+--------+--------+--------+--------+--------+--------+
 
-[]{.c2 .c0}
-
 -   [Throwing: ]{.c6 .c7}[This measures the distance a character can
     throw a small object weighing up to 1-2 kg or so (such as a grenade
     or a baseball). Allowances should be made for items which reduce or
@@ -1194,9 +1108,7 @@ Endurance check (GM discretion), and even so, may not be possible.]{.c2
     character would need to use the Ranged skill.]{.c2 .c0}
 -   [FORTx6 meters max distance]{.c1}
 
-[]{.c2 .c0}
 
-[]{#t.a79a468f54b7a816ef41084999f1426f1f4aecb5}[]{#t.12}
 
   ------------------- --------------------------
   [FORT Score]{.c1}   [Throwing Distance]{.c1}
@@ -1208,7 +1120,7 @@ Endurance check (GM discretion), and even so, may not be possible.]{.c2
   [6]{.c2 .c0}        [36m]{.c2 .c0}
   ------------------- --------------------------
 
-[]{.c2 .c0}
+
 
 -   [Lift: ]{.c6 .c7 .c13}[This measures how many kg a character can
     lift above their heads. A character who is lifting in this fashion
@@ -1217,9 +1129,9 @@ Endurance check (GM discretion), and even so, may not be possible.]{.c2
     they may suffer DA.]{.c2 .c0}
 -   [FORTx24 kg max]{.c1}
 
-[]{.c2 .c0}
 
-[]{#t.f26b5104dcfcba9a2a477211835a8d0e4cd528b9}[]{#t.13}
+
+
 
   ------------------- ------------------
   [FORT Score]{.c1}   [Max Lift]{.c1}
@@ -1231,7 +1143,7 @@ Endurance check (GM discretion), and even so, may not be possible.]{.c2
   [6]{.c2 .c0}        [144kg]{.c2 .c0}
   ------------------- ------------------
 
-[]{.c2 .c0}
+
 
 -   [Holding Breath: ]{.c6 .c7 .c13}[The times listed here assume that
     the character is not engaged in strenuous activity (like fighting,
@@ -1239,9 +1151,9 @@ Endurance check (GM discretion), and even so, may not be possible.]{.c2
     listed times by 30 seconds for the duration.]{.c2 .c0}
 -   [1 minute + (FORTx30 seconds)]{.c1}
 
-[]{.c2 .c0}
 
-[]{#t.6447f7ce430d6b9477900c6ef3af4014eadbed17}[]{#t.14}
+
+
 
   ------------------- ----------------------------
   [FORT Score]{.c1}   [Holding Breath Time]{.c1}
@@ -1253,7 +1165,7 @@ Endurance check (GM discretion), and even so, may not be possible.]{.c2
   [6]{.c2 .c0}        [4m]{.c2 .c0}
   ------------------- ----------------------------
 
-[]{.c2 .c0}
+
 
 -   [Languages: ]{.c6 .c7 .c13}[The GM in your campaign may have
     alternate rules when it comes to knowing languages, but in this
@@ -1265,11 +1177,6 @@ Endurance check (GM discretion), and even so, may not be possible.]{.c2
     know in your campaign.]{.c2 .c0}
 -   [INT number of languages fluently known]{.c1}
 
-[]{.c2 .c0}
-
-[]{.c2 .c0}
-
-[]{#t.44cfa6dc0b13fe58420e74645257342f345bfbdb}[]{#t.15}
 
   ------------------ ------------------------
   [INT Score]{.c1}   [Languages Known]{.c1}
@@ -1281,7 +1188,7 @@ Endurance check (GM discretion), and even so, may not be possible.]{.c2
   [6]{.c2 .c0}       [6]{.c2 .c0}
   ------------------ ------------------------
 
-[]{.c2 .c0}
+
 
 -   [Actions per Round: ]{.c6 .c7 .c13}[This chart determines how many
     actions a character gets to take in a round of combat. Remember, a
@@ -1296,11 +1203,7 @@ Endurance check (GM discretion), and even so, may not be possible.]{.c2
 ```
 -   [FORT+PERS between 2-4 = 1 action per round]{.c1}
 -   [FORT+PERS between 5-8 = 2 actions per round]{.c1}
--   [FORT+PERS between 9-12 = 3 actions per round]{.c1}
-
-[]{.c2 .c0}
-
-[]{#t.f4d947856992969df62faffd1ca050c14460810a}[]{#t.16}
+-   [FORT+PERS between 9-12 = 3 actions per round]{.c1}=
 
 +--------+--------+--------+--------+--------+--------+--------+--------+
 | [      |        | [FORT  |        |        |        |        |        |
@@ -1339,6 +1242,4 @@ Endurance check (GM discretion), and even so, may not be possible.]{.c2
 |        |        | .c0}   | .c0}   | .c0}   | .c0}   | .c0}   | .c0}   |
 +--------+--------+--------+--------+--------+--------+--------+--------+
 
-[]{.c2 .c0}
-
-[]{.c2 .c0}
+\newpage

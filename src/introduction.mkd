@@ -1,5 +1,4 @@
 Teleios Roleplaying Game System
-===============================
 
 ![](images/image1.png)
 
@@ -8,7 +7,8 @@ Teleios Roleplaying Game System
 
 \newpage
 
-[INTRODUCTION]{.c1}
+Introduction
+============
 
 [Welcome to Teleios! This roleplaying game system is primarily geared
 towards campaigns set anytime from the modern to the far-future,
@@ -21,9 +21,8 @@ familiarity with other tabletop roleplaying games, but effort will be
 made at clarifying confusing points. Please enjoy reading these rules,
 and feel free to comment and critique as necessary. ]{.c2 .c0}
 
-[]{.c1}
-
-[THE STORY]{.c1}
+The Story
+---------
 
 [Regardless of the specific campaign, Teleios is designed to be
 story-driven. While the GM will be the prime storyteller, the players
@@ -35,9 +34,7 @@ modify the story; in such a case, the players and the GM should
 collectively agree on the story and plot changes that will be
 introduced. ]{.c2 .c0}
 
-[]{.c1}
-
-[SKILLS INSTEAD OF CLASSES]{.c6 .c7}
+Skills Instead Of Classes
 
 [There are no classes in Teleios. Instead, player characters select
 skills which depict what they are good at doing. A flexible skill-based
@@ -51,3 +48,5 @@ systems. Furthermore, a skill-based system is more "realistic" in that
 everyone in reality has a wide panoply of skills, interest, and
 abilities which are not easily shoehorned into a one-word label like
 "medic," "mechanic," or "mystic."]{.c2 .c0}
+
+\newpage

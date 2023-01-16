@@ -1,4 +1,5 @@
-[CYBERWARE]{.c1}
+Cyberware
+=========
 
 [Cyber]{.c0}[W]{.c6}[are (CYB) is an optional attribute that can be
 raised from 1-6 as can the basic attributes. Even if a starting
@@ -96,9 +97,10 @@ one]{.c6}[:]{.c2 .c0}
 -   [Unfettered: ]{.c6 .c7}[This character may remove their cybernetic
     detriment they chose.]{.c6}
 
-[]{.c2 .c0}
 
-[Cybernetic Detriments]{.c6 .c7}
+
+Cybernetic Detriments
+---------------------
 
 [Any character who has a CYB score of at least 1 must choose one of the
 following detriments, or should work with the GM to create their own:
@@ -144,9 +146,10 @@ following detriments, or should work with the GM to create their own:
     be negated if the cybered character also has advantage on the chosen
     check, as normal.]{.c6}
 
-[]{.c2 .c0}
 
-[CYBERWARE DESCRIPTIONS]{.c6 .c7 .c13}
+
+Cyberware Descriptions
+-----------------------
 
 [Cyber]{.c6 .c7}[Armor]{.c1}
 
@@ -175,7 +178,7 @@ following detriments, or should work with the GM to create their own:
     short-circuit electrical and computer equipment]{.c0}[ upon
     touch.]{.c6}
 
-[]{.c2 .c0}
+
 
 [Robo]{.c6 .c7}[Arms]{.c6 .c7 .c13}
 
@@ -225,7 +228,7 @@ following detriments, or should work with the GM to create their own:
     cybered character adds 1 die to their Melee check, and to their
     Athletics check when using arm strength]{.c0}[.]{.c6}
 
-[]{.c2 .c0}
+
 
 [Cyber]{.c6 .c7}[Cloak]{.c1}
 
@@ -250,7 +253,7 @@ following detriments, or should work with the GM to create their own:
     rolls one extra die on all Stealth checks and all physical defense
     checks versus ranged attacks. ]{.c2 .c0}
 
-[]{.c2 .c0}
+
 
 [NanoC]{.c6 .c7}[omputer]{.c1}
 
@@ -276,9 +279,9 @@ following detriments, or should work with the GM to create their own:
     rolls one extra die on Computers and Deduce checks for every BT
     spent.]{.c2 .c0}
 
-[]{.c2 .c0}
 
-[ERSlot]{.c1}
+
+ERSlot
 
 -   [Description = ]{.c6 .c7}[The Emergency Response Slot, or ERSlot for
     short, is a collection of chemicals and medications implanted into
@@ -315,9 +318,9 @@ following detriments, or should work with the GM to create their own:
     instead. As before, spending BP in this way is ]{.c6}[not
     recoverable]{.c6 .c7}[ via the 10-minute rule.]{.c2 .c0}
 
-[]{.c2 .c0}
 
-[FastChip]{.c1}
+
+FastChip
 
 -   [The FastChip is a small microprocessor implanted into a cybered
     character's brain which provides extra stimulation to the medulla,
@@ -347,7 +350,7 @@ following detriments, or should work with the GM to create their own:
     .c7}[roll Technology to attempt to recover BP spent in this way
     during a scene.]{.c2 .c0}
 
-[]{.c2 .c0}
+
 
 [Hidden]{.c6 .c7 .c13}[Compartment]{.c6 .c7}
 
@@ -397,7 +400,7 @@ following detriments, or should work with the GM to create their own:
     that the character must spend at least one BT in order to be able to
     utilize their hidden weapon.]{.c2 .c0}
 
-[]{.c2 .c0}
+
 
 [Robo]{.c6 .c7}[Legs]{.c1}
 
@@ -447,7 +450,7 @@ following detriments, or should work with the GM to create their own:
     cases where a character's legs would be involved (such as in
     sneaking, jumping, or running).]{.c2 .c0}
 
-[]{.c2 .c0}
+
 
 [Cyber]{.c6 .c7}[Lungs]{.c1}
 
@@ -467,7 +470,7 @@ following detriments, or should work with the GM to create their own:
     dice to checks made with Acrobatics, Athletics, and Endurance. The
     cybered character gains 1 extra die for each BP spent.]{.c2 .c0}
 
-[]{.c2 .c0}
+
 
 [CyberO]{.c6 .c7}[ptics]{.c1}
 
@@ -503,7 +506,7 @@ equipment.]{.c2 .c0}
     Ranged, or when using Search to find hidden evidence or people.
     ]{.c2 .c0}
 
-[]{.c2 .c0}
+
 
 [Pheromone]{.c6 .c7 .c13}[Package]{.c6 .c7}
 
@@ -523,7 +526,7 @@ equipment.]{.c2 .c0}
     gains one extra die on skill checks for Charm and Deception.]{.c2
     .c0}
 
-[]{.c2 .c0}
+
 
 [Cyber]{.c6 .c7}[Skin]{.c1}
 
@@ -551,4 +554,4 @@ equipment.]{.c2 .c0}
     long as the outward modifications would benefit the character.
     ]{.c6}
 
-[]{.c1}
+\newpage

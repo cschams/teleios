@@ -1,4 +1,5 @@
-[PSIONICS]{.c1}
+Psionics
+========
 
 [Psionics (PSI) is an optional attribute that can be raised from 1-6 as
 can the basic attributes. Even if a starting character begins with 0
@@ -115,9 +116,8 @@ one]{.c6}[:]{.c2 .c0}
 -   [Unfettered: ]{.c6 .c7}[This character may remove their psionic
     detriment they chose. ]{.c2 .c0}
 
-[]{.c1}
-
-[Psionic Detriments]{.c1}
+Psionic Detriments
+------------------
 
 [Any character who has a PSI score of at least 1 must choose one of the
 following detriments, or may work with the G]{.c0}[M]{.c6}[ to create
@@ -161,11 +161,12 @@ their own psionic detriment:]{.c2 .c0}
     means they can use the power as normal, while a failure means
     ]{.c6}[they suffer disadvantage on the psionic power check.]{.c0}
 
-[]{.c2 .c0}
 
-[PSIONIC POWER DESCRIPTIONS]{.c1}
 
-[Augury]{.c1}
+Psionic Power Descriptions
+--------------------------
+
+Augury
 
 -   [Range: 30 meters]{.c2 .c0}
 -   [Target: 1 individual]{.c2 .c0}
@@ -239,7 +240,6 @@ their own psionic detriment:]{.c2 .c0}
     could not successfully use Augury in this way in a sports arena or a
     space station). All other rules about Augury apply.]{.c2 .c0}
 
-[]{.c2 .c0}
 
 [Bolt                                ]{.c1}
 
@@ -310,9 +310,9 @@ their own psionic detriment:]{.c2 .c0}
     before making contact. If the Bolt passes through any obstacle, its
     damage is halved (determined after rolling damage dice).  ]{.c2 .c0}
 
-[]{.c2 .c0}
 
-[Clairvoyance]{.c1}
+
+Clairvoyance
 
 -   [Range: 120 kilometers]{.c2 .c0}
 -   [Target: N/A]{.c2 .c0}
@@ -374,7 +374,7 @@ their own psionic detriment:]{.c2 .c0}
     Foresight, Persuasion, or Telepathy without the additional
     disadvantage on the check.]{.c2 .c0}
 
-[]{.c2 .c0}
+
 
 [Cloak                ]{.c1}
 
@@ -437,9 +437,9 @@ their own psionic detriment:]{.c2 .c0}
     must be able to see the target location when using Cloak. All other
     rules of Cloak apply.]{.c2 .c0}
 
-[]{.c2 .c0}
 
-[Daze]{.c1}
+
+Daze
 
 -   [Range: 30 meters]{.c2 .c0}
 -   [Target: 1 creature]{.c2 .c0}
@@ -469,9 +469,9 @@ their own psionic detriment:]{.c2 .c0}
     use Daze to instantly knock out another individual. This works as an
     "early knockout" (see below). ]{.c2 .c0}
 
-[]{.c2 .c0}
 
-[Foresight]{.c1}
+
+Foresight
 
 -   [Range: Personal]{.c0}
 -   [Target: Self]{.c0}
@@ -517,7 +517,7 @@ their own psionic detriment:]{.c2 .c0}
     defense check. The other extra Luck point must be spent within INT
     hours, as normal.]{.c2 .c0}
 
-[]{.c1}
+
 
 [Heal                                ]{.c1}
 
@@ -556,9 +556,9 @@ their own psionic detriment:]{.c2 .c0}
     cure all diseases in themselves or another (skin-to-skin contact is
     required).]{.c2 .c0}
 
-[]{.c2 .c0}
 
-[Kinetic]{.c1}
+
+Kinetic
 
 -   [Range: 60 meters]{.c2 .c0}
 -   [Target: PERS number of objects of small to medium size]{.c2 .c0}
@@ -602,7 +602,7 @@ their own psionic detriment:]{.c2 .c0}
     dropped from a great height could cause significant harm. All other
     rules of Kinetic apply.]{.c2 .c0}
 
-[]{.c2 .c0}
+
 
 [Metabolism                        ]{.c1}
 
@@ -670,9 +670,9 @@ their own psionic detriment:]{.c2 .c0}
     back to normal, but they do not lose the gained durability.]{.c2
     .c0}
 
-[]{.c2 .c0}
 
-[Persuasion]{.c1}
+
+Persuasion
 
 -   [Range: 30 meters]{.c2 .c0}
 -   [Target: 1 individual]{.c2 .c0}
@@ -736,7 +736,7 @@ their own psionic detriment:]{.c2 .c0}
     The psionic character chooses which minutes and memories to "erase."
     ]{.c6}
 
-[]{.c2 .c0}
+
 
 [Shield                                ]{.c1}
 
@@ -784,11 +784,11 @@ their own psionic detriment:]{.c2 .c0}
 -   [Durable Barrier: ]{.c6 .c7}[The psionic character's shield can now
     absorb up to 2d6+PERS body damage and 3d6+PERS stun damage. ]{.c2
     .c0}
--   []{.c2 .c0}
+-   
 
-[]{.c1}
 
-[Telepathy]{.c1}
+
+Telepathy
 
 -   [Range: 120 meters]{.c2 .c0}
 -   [Target: 1 individual or Self]{.c2 .c0}
@@ -834,6 +834,4 @@ their own psionic detriment:]{.c2 .c0}
     cannot for any reason cause the character to have an attribute score
     of more than 6. ]{.c2 .c0}
 
-[]{.c2 .c0}
-
-[]{.c1}
+\newpage

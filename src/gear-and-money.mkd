@@ -1,4 +1,5 @@
-[GEAR AND MONEY]{.c1}
+Gear And Money
+==============
 
 [In a modern-to-far future game, technology and gear are parts of
 everyday life. However, the Teleios game is designed as a storytelling
@@ -20,9 +21,8 @@ damage to a character's vehicle in a close firefight, etc.). Of course,
 such story reasons can be launch points for great adventures (how to
 recover said weapon, or how to repair the damaged vehicle).]{.c2 .c0}
 
-[]{.c1}
-
-[GEAR DESCRIPTIONS]{.c6 .c7 .c13}
+Gear Descriptions
+------------------
 
 [Armor - Endurance]{.c1}
 
@@ -36,7 +36,7 @@ to Acrobatics, Athletics, Stealth, and Thievery checks. Tesa characters
 have a natural "Armor" due to their scales which does not impose
 penalties on the aforementioned skill checks.]{.c2 .c0}
 
-[]{.c2 .c0}
+
 
 [E-Suit - Endurance, Outdoors ]{.c1}
 
@@ -55,7 +55,7 @@ milestone. The E-Suit is also equipped with a respirator that can be
 used in space or underwater, or to mitigate the effects of smoke or
 toxins, for 10 minutes per milestone. ]{.c2 .c0}
 
-[]{.c2 .c0}
+
 
 [Explosives Kit - Tactics]{.c1}
 
@@ -75,7 +75,7 @@ easily disguised as such from the outside. The three grenades are the
 size and mass of baseballs and can be easily concealed by clothing.]{.c2
 .c0}
 
-[]{.c2 .c0}
+
 
 [Fashion Suit - Bureaucracy, Charm, Deception, Streetwise]{.c1}
 
@@ -88,7 +88,7 @@ in situations where personal dress and physical appearance may play a
 role. The player must declare their intent to modify their Fashion Suit
 before such an event. ]{.c2 .c0}
 
-[]{.c2 .c0}
+
 
 [Forensics Kit - Science, Search]{.c1}
 
@@ -102,7 +102,7 @@ committed by a male with black hair, rather than simply a crime was
 committed by a person standing 1.8 meters tall). Using the forensics kit
 requires 30 minutes, and so cannot be used in a combat scene. ]{.c2 .c0}
 
-[]{.c2 .c0}
+
 
 [Lockpick Set - Thievery]{.c1}
 
@@ -112,7 +112,7 @@ roughly the size and shape of a small book. Use of the lockpick set
 grants AD to lockpicking physical locks, and negates the DA imposed on
 electronic locks. ]{.c6}
 
-[]{.c1}
+
 
 [Medical Kit - Medicine]{.c1}
 
@@ -130,7 +130,7 @@ Note that this is in addition to any durability gained by characters
 through the Endurance skill. If a character tries to use a medkit on
 themselves, they suffer DA to the Medicine check.]{.c6}[ ]{.c1}
 
-[]{.c1}
+
 
 [Melee Weapon - Melee]{.c1}
 
@@ -144,7 +144,7 @@ enemy that the character is adjacent to (within 1 meter). The melee
 weapon is obvious to onlookers and cannot be successfully hidden. Melee
 weapons do not produce noise at great distances.]{.c6}
 
-[]{.c1}
+
 
 [Personal Computer - Computers ]{.c1}
 
@@ -157,7 +157,7 @@ wireless hack imposes DA to the Computers check, but if the character
 physically connects their device to a computer or electronic lock being
 hacked via wires, the roll is done as normal. ]{.c2 .c0}
 
-[]{.c2 .c0}
+
 
 [Personal Vehicle - Vehicles]{.c1}
 
@@ -168,7 +168,7 @@ personal vehicle provides very little in the way of physical protection
 (think of a motorcycle), but can enable the character to travel
 independently at need.]{.c6}
 
-[]{.c1}
+
 
 [Psionic Detector - Occult, Science]{.c1}
 
@@ -186,7 +186,7 @@ Psionic Detector into one device along with their personal communicator
 or other devices (provided that they have paid 1 XP each to get each
 Gear item). ]{.c2 .c0}
 
-[]{.c2 .c0}
+
 
 [Psionic Shield - Occult]{.c1}
 
@@ -205,7 +205,7 @@ combine their Psionic Shield into one device along with their personal
 communicator or other devices (provided that they have paid 1 XP each to
 get each Gear item).]{.c2 .c0}
 
-[]{.c2 .c0}
+
 
 [Ranged Weapon - Ranged]{.c1}
 
@@ -217,7 +217,7 @@ hands to use. The ranged weapon is obvious to onlookers and cannot be
 hidden. Ranged weapons create noise when used, and listeners within 360m
 of the character are able to hear it clearly.]{.c6}
 
-[]{.c1}
+
 
 [Repair Kit - Technology]{.c1}
 
@@ -228,7 +228,7 @@ combat reduces the time to fix items to 1 hour, rather than 1d6 hours.
 When using the Repair Kit to jury-rig, it provides AD on the related
 Technology check. ]{.c2 .c0}
 
-[]{.c2 .c0}
+
 
 [Science Kit - Science]{.c1}
 
@@ -241,7 +241,7 @@ physical sample is available to study (mineral, tissue, etc.). The use
 of a science kit in this way takes 30 minutes, and so is not available
 during a combat encounter.]{.c2 .c0}
 
-[]{.c2 .c0}
+
 
 [Sensor Array - Science, Search, Technology]{.c1}
 
@@ -255,7 +255,7 @@ their immediate environment, up to 120 meters away. It can also provide
 AD on the Search skill when used to detect larger-scale environmental
 features in a scene.]{.c2 .c0}
 
-[]{.c2 .c0}
+
 
 [Stealth Unit - Stealth]{.c1}
 
@@ -268,7 +268,7 @@ motionless, they cannot be detected. Any motion or noise would trigger
 another Stealth check, but with AD. The character can choose to turn
 this device on and off.]{.c2 .c0}
 
-[]{.c2 .c0}
+
 
 [Survival Kit - Outdoors]{.c1}
 
@@ -279,4 +279,5 @@ blankets, lamps, heaters, and navigational tools. A character who makes
 an Outdoors check while in possession of a survival kit (depending on
 situation) will receive AD on the check.]{.c2 .c0}
 
-[]{.c2 .c0}
+
+\newpage

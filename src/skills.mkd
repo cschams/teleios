@@ -22,7 +22,7 @@
     targeted physical defense. This can be invoked after making the
     defense check and calculating damage.]{.c2 .c0}
 
-[]{.c1}
+
 
 [Animals -- PERS]{.c1}
 
@@ -43,7 +43,7 @@
 ```
 -   [Animal Companion: ]{.c1}
 
-[]{.c2 .c0}
+
 
 [Athletics -- FORT]{.c1}
 
@@ -56,7 +56,7 @@
     their athletic feat (for the time being). ]{.c2 .c0}
 -   [Expertise Perks:]{.c6 .c7 .c13}
 
-[]{.c2 .c0}
+
 
 [Bureaucracy -- INT]{.c1}
 
@@ -91,7 +91,7 @@
     contact twice per milestone. This Perk may be taken multiple times,
     once for each contact a character has.]{.c2 .c0}
 
-[]{.c2 .c0}
+
 
 [Charm -- PERS]{.c1}
 
@@ -116,7 +116,7 @@
     Streetwise skills.]{.c6}
 -   [Expertise Perks:]{.c6 .c7 .c13}
 
-[]{.c2 .c0}
+
 
 [Computers -- INT]{.c1}
 
@@ -143,7 +143,7 @@
     via wires, the roll is done as normal. ]{.c2 .c0}
 -   [Expertise Perks:]{.c6 .c7 .c13}
 
-[]{.c2 .c0}
+
 
 [Deception -- PERS]{.c1}
 
@@ -171,7 +171,7 @@
     skills.]{.c6}
 -   [Expertise Perks:]{.c6 .c7 .c13}
 
-[]{.c2 .c0}
+
 
 [Deduce -- INT]{.c1}
 
@@ -189,7 +189,7 @@
 -   [Linguist: ]{.c6 .c7}[This character can learn 2 additional
     languages. This perk may be taken twice.]{.c2 .c0}
 
-[]{.c2 .c0}
+
 
 [Endurance -- FORT]{.c1}
 
@@ -235,7 +235,7 @@
     skill.]{.c2 .c0}
 -   [Expertise Perks:]{.c6 .c7 .c13}
 
-[]{.c2 .c0}
+
 
 [H]{.c6 .c7 .c13}[umanities]{.c6 .c7}[ -- INT]{.c1}
 
@@ -249,7 +249,7 @@
     translated into advantage on future related checks.]{.c2 .c0}
 -   [Expertise Perks:]{.c6 .c7 .c13}
 
-[]{.c2 .c0}
+
 
 [Medicine -- INT]{.c1}
 
@@ -306,9 +306,9 @@
     illness/poison by 50%. The GM will have more information on
     particular diseases and toxins.]{.c2 .c0}
 
-[]{.c2 .c0}
 
-[]{.c2 .c0}
+
+
 
 [Melee -- FORT]{.c1}
 
@@ -358,9 +358,9 @@
     perk requires the use of a melee weapon; deflecting unarmed will not
     work.]{.c2 .c0}
 
-[]{.c2 .c0}
 
-[]{.c2 .c0}
+
+
 
 [Occult -- PERS]{.c1}
 
@@ -420,9 +420,9 @@
     recovered during the rest. The players and the GM should
     collaboratively decide the effect of a successful ritual.]{.c2 .c0}
 
-[]{.c2 .c0}
 
-[]{.c2 .c0}
+
+
 
 [Outdoors -- INT]{.c1}
 
@@ -461,7 +461,7 @@
 -   [Resourceful: ]{.c6 .c7}[The character can find enough food,
     shelter, and water for 6 individuals for 24 hours. ]{.c2 .c0}
 
-[]{.c2 .c0}
+
 
 [Ranged -- AGI]{.c1}
 
@@ -498,7 +498,7 @@
 -   [Sniper:]{.c6 .c7}[ This character can successfully use a Ranged
     weapon within 180 meters.]{.c2 .c0}
 
-[]{.c2 .c0}
+
 
 [Resolve -- PERS]{.c1}
 
@@ -515,7 +515,7 @@
     ]{.c2 .c0}
 -   [Expertise Perks:]{.c6 .c7 .c13}
 
-[]{.c2 .c0}
+
 
 [Science -- INT]{.c1}
 
@@ -573,7 +573,7 @@
     the Search and Technology skills.]{.c2 .c0}
 -   [Expertise Perks:]{.c6 .c7 .c13}
 
-[]{.c2 .c0}
+
 
 [Search -- INT]{.c1}
 
@@ -609,9 +609,9 @@
     provided by the Science and Technology skills.]{.c6}
 -   [Expertise Perks:]{.c6 .c7 .c13}
 
-[]{.c2 .c0}
 
-[]{.c2 .c0}
+
+
 
 [Stealth -- AGI]{.c1}
 
@@ -636,9 +636,9 @@
     AD. The character can choose to turn this device on and off.]{.c6}
 -   [Expertise Perks:]{.c6 .c7 .c13}
 
-[]{.c2 .c0}
 
-[]{.c2 .c0}
+
+
 
 [Streetwise -- PERS]{.c1}
 
@@ -661,9 +661,9 @@
     skills.]{.c6}
 -   [Expertise Perks:]{.c6 .c7 .c13}
 
-[]{.c2 .c0}
 
-[]{.c2 .c0}
+
+
 
 [Tactics -- INT]{.c1}
 
@@ -703,7 +703,7 @@
     combat round, or it is lost. A commanding player can give up to
     three extra actions in between each rest.]{.c2 .c0}
 
-[]{.c2 .c0}
+
 
 [Technology -- INT]{.c1}
 
@@ -745,9 +745,9 @@
     the Science and Technology skills.]{.c6}
 -   [Expertise Perks:]{.c6 .c7 .c13}
 
-[]{.c2 .c0}
 
-[]{.c2 .c0}
+
+
 
 [Thievery -- AGI]{.c1}
 
@@ -769,9 +769,9 @@
     ]{.c6}
 -   [Expertise Perks:]{.c6 .c7 .c13}
 
-[]{.c2 .c0}
 
-[]{.c2 .c0}
+
+
 
 [Vehicles -- AGI]{.c1}
 
@@ -796,6 +796,4 @@
     need.]{.c6}
 -   [Expertise Perks:]{.c6 .c7 .c13}
 
-[]{.c2 .c0}
-
-[]{.c1}
+\newpage
