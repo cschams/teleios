@@ -1,7 +1,7 @@
 Character Creation
 ==================
 
-[Since Teleios tries to emphasize story, players are encouraged to think
+Since Teleios tries to emphasize story, players are encouraged to think
 of "who" their character is first and foremost, rather than simply a
 collection of stats (which are admittedly important!). A good way to
 begin is to think of characters from popular books, movies, or other
@@ -13,33 +13,33 @@ as well), since they will undoubtedly have ideas about how your
 character figures into their campaign. For example, perhaps not all of
 the species are available for players to play. Alternatively, maybe the
 history of the campaign setting is such that it could directly tie into
-a character's backstory.]{.c2 .c0}
+a character's backstory.
 
 Species
 -------
 
-[The Teleios roleplaying game system has options for all types of
+The Teleios roleplaying game system has options for all types of
 characters, centered around six different species. The decision to
 include or exclude certain species from a particular game or campaign
 should be determined by the GM and the players, and different species
 can fit into various campaigns in different roles. Below is a chart
 which details the minimum and maximum attribute scores for each species.
 Additionally, brief descriptions are included of the history,
-physiology, and sociology of each species.]{.c2 .c0}
+physiology, and sociology of each species.
 
-  ----------------- -------------------------- -------------------------- ---------------------- -------------------------- -------------------------- -------------------
-  []{.c1}           [FORT]{.c1}                [AGI]{.c1}                 [INT]{.c1}             [PERS]{.c1}                [CYB]{.c1}                 [PSI]{.c1}
-  [Android]{.c1}    [1 -- 6]{.c2 .c0}          [1 -- ]{.c0}[6]{.c6}       [1 -- 6]{.c2 .c0}      [1 -- ]{.c0}[6]{.c6}       [1]{.c6}[ -- 6]{.c2 .c0}   [0 -- 5]{.c2 .c0}
-  [Fraal]{.c1}      [1 -- ]{.c0}[6]{.c6}       [1 -- ]{.c0}[6]{.c6}       [1 -- 6]{.c2 .c0}      [1]{.c6}[ -- 6]{.c2 .c0}   [0 -- 5]{.c6}              [1 -- 6]{.c2 .c0}
-  [Human]{.c1}      [1 -- 6]{.c2 .c0}          [1 -- 6]{.c2 .c0}          [1 -- 6]{.c2 .c0}      [2]{.c6}[ -- 6]{.c2 .c0}   [0 -- 6]{.c2 .c0}          [0 -- 6]{.c2 .c0}
-  [Sesheyan]{.c1}   [1 -- 6]{.c2 .c0}          [2]{.c6}[ -- 6]{.c2 .c0}   [1 -- ]{.c0}[6]{.c6}   [1 -- ]{.c0}[6]{.c6}       [0 -- 6]{.c2 .c0}          [0 -- 6]{.c2 .c0}
-  [Tesa]{.c6 .c7}   [1 -- ]{.c0}[6]{.c6}       [1]{.c6}[ -- 6]{.c2 .c0}   [2 -- 6]{.c2 .c0}      [1 -- ]{.c0}[6]{.c6}       [0 -- 6]{.c2 .c0}          [0 -- 6]{.c2 .c0}
-  [Weren]{.c1}      [2]{.c6}[ -- 6]{.c2 .c0}   [1 -- ]{.c0}[6]{.c6}       [1 -- ]{.c0}[6]{.c6}   [1 -- 6]{.c2 .c0}          [0 -- 6]{.c2 .c0}          [0 -- 6]{.c2 .c0}
-  ----------------- -------------------------- -------------------------- ---------------------- -------------------------- -------------------------- -------------------
+  --------   ------    ------    ------    ------    ------    ------
+             FORT      AGI       INT       PERS      CYB       PSI
+  Android    1 -- 6    1 -- 6    1 -- 6    1 -- 6    1 -- 6    0 -- 5
+  Fraal      1 -- 6    1 -- 6    1 -- 6    1 -- 6    0 -- 5    1 -- 6
+  Human      1 -- 6    1 -- 6    1 -- 6    2 -- 6    0 -- 6    0 -- 6
+  Sesheyan   1 -- 6    2 -- 6    1 -- 6    1 -- 6    0 -- 6    0 -- 6
+  Tesa       1 -- 6    1 -- 6    2 -- 6    1 -- 6    0 -- 6    0 -- 6
+  Weren      2 -- 6    1 -- 6    1 -- 6    1 -- 6    0 -- 6    0 -- 6
+  --------   ------    ------    ------    ------    ------    ------
 
 ### Android
 
-[Androids are a species of humanoid whose synthesis of nanotechnology
+Androids are a species of humanoid whose synthesis of nanotechnology
 and biological tissue is so complete as to be inseparable and virtually
 indistinguishable from each other. Native to the planet Aleer, Android
 history tells of a time when their species had no advanced technology,
@@ -65,25 +65,25 @@ own kind, choosing instead to augment their outward appearances with
 glowing tattoos, armored plates, or other appendages. However, for
 modesty in the company of non-Aleer, most Androids will wear clothing.
 Androids have the following characteristics where the game is
-concerned:]{.c2 .c0}
+concerned:
 
--   [Androids begin play with a free NanoC]{.c6}[omputer]{.c0}[ (see
+-   Androids begin play with a free NanoComputer (see
     CyberWare for more information). Note that Android characters must
     still spend batteries when activating this piece of CyberWare, and
     it otherwise functions as normal. This CyberWare is considered
     "free" in that an Android character with a FORT of 1 could still
     purchase an additional piece of CyberWare as normal above and beyond
-    this starting piece.]{.c6}
--   [Androids can acquire up to 7 pieces of CyberWare instead of 6.
-    ]{.c6}
--   [Androids begin play with one free rank in Computers. If a player
+    this starting piece.
+-   Androids can acquire up to 7 pieces of CyberWare instead of 6.
+    
+-   Androids begin play with one free rank in Computers. If a player
     wishes their Android character to begin play with further ranks,
     they may purchase them as normal. An Android character cannot begin
-    play with a rank higher than 4 in Computers.]{.c6}
+    play with a rank higher than 4 in Computers.
 
 ### Fraal
 
-[The Fraal are an ancient spacefaring species whose history is long and
+The Fraal are an ancient spacefaring species whose history is long and
 convoluted. According to their history, a great colony ship was
 dispatched from their home planet generations ago. In the course of
 their centuries-long interstellar journey, technical complications
@@ -109,87 +109,87 @@ then incubated in embryonic tanks. Above all, the Fraal are
 distinguished by their psionic ability. Even the least-talented Fraal
 has some telepathic ability, and the greatest are sought as teachers of
 psionic skills to others. Fraal have the following characteristics where
-the game is concerned:]{.c2 .c0}
+the game is concerned:
 
--   [Fraal begin play with one free rank in the psionic power Telepathy.
+-   Fraal begin play with one free rank in the psionic power Telepathy.
     Furthermore, Fraal Telepathy is superior in that Fraal do not need
     to see their intended target(s), though they are still limited by
-    the 120 meter range. Finally, Fraal ]{.c6}[do not]{.c6 .c7}[ expend
+    the 120 meter range. Finally, Fraal **do not** expend
     psychovolts when using Telepathy in this way (though Fraal
     characters who obtain Expertise Perks in Telepathy may be required
     to spend PV when using those powers). Telepathy is considered "free"
-    in that a ]{.c6}[Fraal]{.c6}[ character with a PSI of 0 could still
+    in that a Fraal character with a PSI of 0 could still
     use Telepathy even though they do not possess any other psionic
     powers.  Fraal character can purchase an additional psionic power as
     normal above and beyond this starting power. All other rules about
-    Telepathy apply as normal.]{.c6}
--   [Fraal can acquire up to 7 psionic powers instead of 6.]{.c6}
--   [Fraal begin play with one free rank in Occult. If a player wishes
+    Telepathy apply as normal.
+-   Fraal can acquire up to 7 psionic powers instead of 6.
+-   Fraal begin play with one free rank in Occult. If a player wishes
     their Fraal character to begin play with further ranks, they may
     purchase them as normal. A Fraal character cannot begin play with a
-    rank higher than 4 in Occult.]{.c6}
+    rank higher than 4 in Occult.
 
 ### Human
 
-[The history and physiology of Humanity on Earth is well-documented
+The history and physiology of Humanity on Earth is well-documented
 elsewhere and does not bear repeating here. Suffice to say that the
 Human drive to explore, dominate, and spread continues as the species
 expands into space. The Human spirit of ingenuity and diversity is
 appreciated by the Ekumen, and Humans are by far the most numerous of
 the species found in space. Humans have the following characteristics
-where the game is concerned:]{.c2 .c0}
+where the game is concerned:
 
--   [Humans are very versatile, and have 6 extra XP to spend when
+-   Humans are very versatile, and have 6 extra XP to spend when
     starting a new character. These 6 extra XP are in addition to the
     starting XP that all characters calculate (see Character Creation
-    for more information).]{.c2 .c0}
--   [When Human characters spend Luck points to reroll dice, if they
+    for more information).
+-   When Human characters spend Luck points to reroll dice, if they
     still do not like the result, they can choose to keep the luck point
     and take the worse outcome of the two rolls, even if the results are
-    the same.]{.c6}
--   [Humans begin play with one free rank in Charm. If a player wishes
+    the same.
+-   Humans begin play with one free rank in Charm. If a player wishes
     their Human character to begin play with further ranks, they may
     purchase them as normal. A Human character cannot begin play with a
-    rank higher than 4 in Charm.]{.c2 .c0}
+    rank higher than 4 in Charm.
 
 ### Sesheyan
 
-[The Sesheyan are by far the most "alien" of the species so far
+The Sesheyan are by far the most "alien" of the species so far
 encountered by Humans or the Ekumen. Native to a dense and dark jungle
 planet, Sheya, the Sesheyan are most at home when hiding and hunting in
-the dark. ]{.c6}[Sesheyans]{.c6}[ stand slightly smaller than humans,
+the dark. Sesheyans stand slightly smaller than humans,
 averaging around 1.5 meters in height. They are a completely hairless
 species, and their skin resembles shark skin in tone and texture more
-than any other (gray and sandpaper-like). ]{.c6}[Sesheyans]{.c6}[ are
+than any other (gray and sandpaper-like). Sesheyans are
 masters in dark environments, having six small, round, black eyes
 situated on an oblong "face," much like a spider. Their bodies are lithe
 and muscular, and non-Sesheyan are at a loss to determine differences
 between males and females, though there are distinct sexual differences
 to the trained eye. The most pronounced feature of Sesheyans, however,
 is their set of bat-like wings, which have a 2-meter wingspan. Using
-these wings, ]{.c6}[Sesheyans]{.c6}[ are able to soundlessly glide and
+these wings, Sesheyans are able to soundlessly glide and
 fly at moderate speeds. Sesheyans have the following characteristics
-where the game is concerned:]{.c2 .c0}
+where the game is concerned:
 
--   [Sesheyan characters have an additional movement type: flying.
+-   **Sesheyan characters have an additional movement type:** flying.
     Sesheyans can fly and glide at the same rate as they can walk and
     swim (FORT+AGI meters/phase) in normal atmospheric conditions. If a
     Sesheyan character tries to perform a difficult maneuver while in
-    flight, an Acrobatics check may be necessary.]{.c6}
--   [Sesheyans]{.c6}[ have extraordinary photoreceptors, and can see in
+    flight, an Acrobatics check may be necessary.
+-   Sesheyans have extraordinary photoreceptors, and can see in
     absolute darkness and require no special technology or sensors to do
     so. Note that this special vision is independent of thermal,
     infrared, or other types of vision that can be detected by
-    technology.]{.c6}
--   [Sesheyans]{.c6}[ begin play with one free rank in Stealth. If a
-    player wishes their ]{.c6}[Sesheyan]{.c6}[ character to begin play
+    technology.
+-   Sesheyans begin play with one free rank in Stealth. If a
+    player wishes their Sesheyan character to begin play
     with further ranks, they may purchase them as normal. A Sesheyan
     character cannot begin play with a rank higher than 4 in
-    Stealth.]{.c6}
+    Stealth.
 
 ### Tesa
 
-[The Tesa are a quick, intelligent, curious, and welcomed species in the
+The Tesa are a quick, intelligent, curious, and welcomed species in the
 Ekumen. Tesa are a reptilian species slightly smaller than Humans
 (averaging 1.5 meters tall, though females are slightly larger). To
 Humans, Tesa bring to mind various types of geckos, chameleons, and
@@ -202,21 +202,21 @@ colonized all five of these star systems using conventional starship
 engines (no stardrives) before encountering galactic civilization at
 large. Tesa are nothing if not curious and intelligent, especially where
 technology is concerned. Tesa have the following characteristics where
-the game is concerned:]{.c2 .c0}
+the game is concerned:
 
--   [Tesa characters have reptilian scales which function as natural
+-   Tesa characters have reptilian scales which function as natural
     Armor (see Gear descriptions for more details). However, Tesa
     characters do not suffer DA on Acrobatics, Athletics, Stealth, and
-    Thievery checks since the benefit is natural.]{.c6}
--   [Tesa are quick to act, and so roll AD on all INIT checks.]{.c6}
--   [Tesa begin play with one free rank in Technology. If a player
+    Thievery checks since the benefit is natural.
+-   Tesa are quick to act, and so roll AD on all INIT checks.
+-   Tesa begin play with one free rank in Technology. If a player
     wishes their Tesa character to begin play with further ranks, they
     may purchase them as normal. A Tesa character cannot begin play with
-    a rank higher than 4 in Technology.]{.c6}
+    a rank higher than 4 in Technology.
 
 ### Weren
 
-[Werens are a proud, noble, and warlike species. Native to the planet
+Werens are a proud, noble, and warlike species. Native to the planet
 Kurg, the history of the Weren species is filled with courageous
 battles, betrayals, conquests, and defeats. In Weren culture, the
 highest positions one can ascribe to (whether male or female) are to be
@@ -228,183 +228,166 @@ does Human skin color, and Weren eyes also resemble Human eyes in shape
 and color. Most Werens do not wear clothing, letting their thick fur
 bear witness to their prowess; sexual organs are concealed beneath their
 thick fur regardless. Werens have the following characteristics where
-the game is concerned:]{.c2 .c0}
+the game is concerned:
 
--   [Werens have sharp claws on the ends of their hands which function
+-   Werens have sharp claws on the ends of their hands which function
     as a natural Melee Weapon (see Gear descriptions for more details).
     And, because of the great size of Werens, they are able to attack a
-    target within 2 meters with their claws, rather than 1.]{.c2 .c0}
--   [A Weren's fur has a natural shimmer and shine which gives them AD
-    on any physical defense roll versus a ranged attack.]{.c2 .c0}
--   [Werens begin play with one free rank in Melee. If a player wishes
+    target within 2 meters with their claws, rather than 1.
+-   A Weren's fur has a natural shimmer and shine which gives them AD
+    on any physical defense roll versus a ranged attack.
+-   Werens begin play with one free rank in Melee. If a player wishes
     their Weren character to begin play with further ranks, they may
     purchase them as normal. A Weren character cannot begin play with a
-    rank higher than 4 in Melee.]{.c2 .c0}
+    rank higher than 4 in Melee.
 
 Attribute Selection
 -------------------
 
-[Aft]{.c0}[er having an idea of who their character is, a]{.c6}[ player
-]{.c0}[then]{.c6}[ choos]{.c0}[es]{.c6}[ a species, and ]{.c0}[also
-chooses]{.c6}[ one of the standard attribute arrays below, assigning the
-scores as they see fit]{.c0}[. Players should keep in mind the minimum
-scores for each species, as they vary (see "Species" below).]{.c6}
+After having an idea of who their character is, a player
+then chooses a species, and also
+chooses one of the standard attribute arrays below, assigning the
+scores as they see fit. Players should keep in mind the minimum
+scores for each species, as they vary (see "Species" below).
 
--   [Basic Attributes: ]{.c6 .c7 .c13}[These characters have only the
+-   **Basic Attributes**: These characters have only the
     basic attributes (FORT, AGI, INT, and PERS) and do not begin with
     any ranks in PSI or CYB (although ranks can be added later as the
-    character gains XP). The players may select one of]{.c0}[ the
+    character gains XP). The players may select one of the
     following arrays, and can distribute the points between the basic
-    attributes as they see fit. ]{.c6}[NOTE: ]{.c6 .c7}[Android and
+    attributes as they see fit. **NOTE**: Android and
     Fraal characters cannot use these standard arrays as they
-    automatically begin with an optional attribute.]{.c2 .c0}
+    automatically begin with an optional attribute.
 
-```{=html}
-<!-- -->
-```
--   [3, 3, 3, 3]{.c2 .c0}
--   [4, 3, 2, 2]{.c2 .c0}
--   [4, 3, 3, 1]{.c2 .c0}
--   [4, 4, 1, 1]{.c2 .c0}
+    -   3, 3, 3, 3
+    -   4, 3, 2, 2
+    -   4, 3, 3, 1
+    -   4, 4, 1, 1
 
-```{=html}
-<!-- -->
-```
--   [One Optional: ]{.c6 .c7 .c13}[These characters begin play with the
+-   **One Optional**: These characters begin play with the
     basic attributes as well as one of the optional attributes (either
     PSI or CYB, but not both). As before, the player would select one of
-    the following arrays and assign the points as desired.]{.c2 .c0}
+    the following arrays and assign the points as desired.
 
-```{=html}
-<!-- -->
-```
--   [3, 3, 2, 2, 2]{.c2 .c0}
--   [3, 3, 3, 2, 1]{.c2 .c0}
--   [4, 3, 2, 1, 1]{.c2 .c0}
--   [4, 2, 2, 2, 1]{.c2 .c0}
+    -   3, 3, 2, 2, 2
+    -   3, 3, 3, 2, 1
+    -   4, 3, 2, 1, 1
+    -   4, 2, 2, 2, 1
 
-```{=html}
-<!-- -->
-```
--   [Two Optional: ]{.c6 .c7 .c13}[These characters begin play with the
+-   **Two Optional**: These characters begin play with the
     basic attributes as well as both optional attributes (PSI and CYB).
-    Rules for assigning attributes remain the same.]{.c2 .c0}
+    Rules for assigning attributes remain the same.
 
-```{=html}
-<!-- -->
-```
--   [2, 2, 2, 2, 2, 2]{.c2 .c0}
--   [3, 2, 2, 2, 2, 1]{.c2 .c0}
--   [3, 3, 2, 2, 1, 1]{.c2 .c0}
--   [3, 3, 3, 1, 1, 1]{.c2 .c0}
--   [4, 2, 2, 1, 1, 1]{.c2 .c0}
--   [4, 3, 1, 1, 1, 1 - (]{.c0}[N]{.c6}[ote tha]{.c0}[t by using this
-    array it is impossible for the highest values (4 and 3) to be both
-    PSI and CYB, since the sum of those numbers would be 7.)]{.c6}
+    -   2, 2, 2, 2, 2, 2
+    -   3, 2, 2, 2, 2, 1
+    -   3, 3, 2, 2, 1, 1
+    -   3, 3, 3, 1, 1, 1
+    -   4, 2, 2, 1, 1, 1
+    -   4, 3, 1, 1, 1, 1 - (Note that by using this
+        array it is impossible for the highest values (4 and 3) to be both
+        PSI and CYB, since the sum of those numbers would be 7.)
 
 Beginning XP
 ------------
 
-[After all attribute points have been allocated, calculate beginning XP.
-The formula for doing so i]{.c0}[s]{.c6}[ ]{.c0}[24+(INTx3)]{.c6 .c7
-.c13}[. Note tha]{.c0}[t Human characters have an additional 6 XP.
-]{.c6}[Players then use beginning XP to acquire ranks in skills, psionic
-powers, or to acquire perks and ]{.c0}[CyberWare]{.c6}[. No skill or
-psionic power (just as with ]{.c0}[attributes]{.c6}[) can begin above
-rank 4. ]{.c0}[Beginning XP cannot be used to improve attributes beyond
-the chosen standard arrays]{.c6 .c7}[, though as a campaign progresses
+After all attribute points have been allocated, calculate beginning XP.
+The formula for doing so is **24+(INTx3)**. Note that Human characters have an additional 6 XP.
+Players then use beginning XP to acquire ranks in skills, psionic
+powers, or to acquire perks and CyberWare. No skill or
+psionic power (just as with attributes) can begin above
+rank 4. **Beginning XP cannot be used to improve attributes beyond
+the chosen standard arrays,** though as a campaign progresses
 players can absolutely spend XP on improving their
-attributes]{.c6}[.]{.c6 .c7}[ A starting character is permitted to save
-up to ]{.c0}[2]{.c6}[ XP for fu]{.c0}[rther training, but is required to
-spend the remainder. ]{.c6}
+attributes. A starting character is permitted to save
+up to 2 XP for further training, but is required to
+spend the remainder. 
 
 Advancement
 -----------
 
-[As characters acquire more XP, it will be used to gain new ranks in
-skills, psionic powers, ]{.c0}[CyberWare]{.c6}[, perks, or attributes.
+As characters acquire more XP, it will be used to gain new ranks in
+skills, psionic powers, CyberWare, perks, or attributes.
 XP earned during the course of adventures or a campaign may be stored or
 spent as the player sees fit. It is acceptable for characters to spend
-gained XP ]{.c0}[during a game session by taking a rest]{.c6}[, but
-remember that impuls]{.c0}[ive purchases are costly to retrain (see
-"Retraining" below)]{.c6}[. The costs to improve skills, psionic powers,
-and attributes are below:]{.c0}
+gained XP during a game session by taking a rest, but
+remember that impulsive purchases are costly to retrain (see
+"Retraining" below). The costs to improve skills, psionic powers,
+and attributes are below:
+
+  -----------------------   ------ --------------   -----------
+  Cost to Improve (in XP)   Skills Psionic Powers   Attributes
+  to Ranks 1-3              1 XP   2 XP             3 XP
+  to Ranks 4-5              2 XP   3 XP             4 XP
+  to Rank 6                 3 XP   4 XP             5 XP
+  -----------------------   ------ --------------   -----------
 
 
-  -------------------------------- ----------------- ----------------------- -------------------
-  [Cost to Improve (in XP)]{.c1}   [Skills]{.c1}     [Psionic Powers]{.c1}   [Attributes]{.c1}
-  [to Ranks 1-3]{.c1}              [1 XP]{.c2 .c0}   [2 XP]{.c2 .c0}         [3 XP]{.c2 .c0}
-  [to Ranks 4-5]{.c1}              [2 XP]{.c2 .c0}   [3 XP]{.c2 .c0}         [4 XP]{.c2 .c0}
-  [to Rank 6]{.c1}                 [3 XP]{.c2 .c0}   [4 XP]{.c2 .c0}         [5 XP]{.c2 .c0}
-  -------------------------------- ----------------- ----------------------- -------------------
-
-
-[All CyberWare costs 2 XP to acquire (see "Cyberware" below), and since
+All CyberWare costs 2 XP to acquire (see "Cyberware" below), and since
 it does not gain ranks like attributes, skills, and powers, it does not
-follow the traditional advancement chart listed above.]{.c2 .c0}
+follow the traditional advancement chart listed above.
 
 Awarding XP
 -----------
 
-[As a GM it can sometimes be difficult to decide when and how much XP to
+As a GM it can sometimes be difficult to decide when and how much XP to
 award players. And while every GM is different, here are some suggested
-guidelines:]{.c2 .c0}
+guidelines:
 
--   [Good Role-Playing: ]{.c6 .c7}[It is advised that the GM award
+-   **Good Role-Playing:** It is advised that the GM award
     players with extra XP each per session for good role-playing. It is
     important to note that this should not be punitive in any way on
     players, but instead should reward good storytelling and
     developments that tie in to character ideals, traits, and bonds. 1
-    XP (or 2 for exceptional role-playing) is a good rule of thumb.]{.c2
+    XP (or 2 for exceptional role-playing) is a good rule of thumb.{.c2
     .c0}
--   [Awesome Moment: ]{.c6 .c7}[Every player and GM has been in a game
+-   **Awesome Moment:** Every player and GM has been in a game
     when something truly awesome happens. Maybe a character makes a
     one-in-a-million shot, or pilots their ship with verve and skill.
     Perhaps the characters collectively place themselves in such a
     funny, terrifying, or unique situation that it creates awesome
     memories. GMs are encouraged to award 1 extra XP for such moments to
-    any and all players involved. ]{.c2 .c0}
--   [Milestones: ]{.c6 .c7}[When characters attain a milestone by
+    any and all players involved. 
+-   **Milestones:** When characters attain a milestone by
     advancing the plot of the story in a significant way, XP should be
-    awarded commensurately, between 1-3 XP per player.]{.c2 .c0}
+    awarded commensurately, between 1-3 XP per player.
 
 Retraining
 ----------
 
-[Sometimes characters realize that choices they made with regards to
-skills, psionic powers, ]{.c0}[CyberWare]{.c6}[, perks, and/or
+Sometimes characters realize that choices they made with regards to
+skills, psionic powers, CyberWare, perks, and/or
 attributes were poor choices, and they wish to "undo" those choices.
 Such a circumstance calls for retraining. Retraining is always possible
 at any time (the players should be able to modify and optimize their
 characters to suit their style of play), but retraining is not without
 cost. In order to retrain 1 rank in anything (skills, psionic powers,
-]{.c0}[CyberWare]{.c6}[, perks, or attributes) the character must spend
+CyberWare, perks, or attributes) the character must spend
 1 XP, which is lost in the course of retraining; however, that character
-then gains back the XP spent on the ]{.c0}[lost rank, CyberWare, or
-perk]{.c6}[. The regained XP can then be spent or saved as normal. For
+then gains back the XP spent on the lost rank, CyberWare, or
+perk. The regained XP can then be spent or saved as normal. For
 example, if a character has rank 3 in the psionic power Shield and
 wishes to retrain it, they would first spend 1 XP to drop their rank in
-Shield to 2. They would then have 2 XP (the cost of]{.c0}[ ]{.c6}[Shield
-from ]{.c0}[rank 2 to 3]{.c6}[) to spend or save as normal. ]{.c0}[Bear
+Shield to 2. They would then have 2 XP (the cost of Shield
+from rank 2 to 3) to spend or save as normal. Bear
 in mind that if a player retrains a skill, psionic power, or attribute
 which would result in the loss of an expertise perk, those perks
 associated with that retrained rank are also lost (but the character
-would gain back the extra XP as well). ]{.c6}
+would gain back the extra XP as well). 
 
 Character Ideals, Traits, & Bonds
 ---------------------------------
 
-[The Teleios system is primarily a storytelling system, and players and
+The Teleios system is primarily a storytelling system, and players and
 GMs should keep in mind that good storytelling and good roleplaying are
 what make any tabletop game enjoyable. The following section is designed
 to help players and GMs "flesh out" their characters and NPCs. Ideals,
-traits, and bonds]{.c6}[ are roleplaying items that try to make an
+traits, and bonds are roleplaying items that try to make an
 actual "character" out of the character, rather than just a bunch of
-numbers.]{.c2 .c0}
+numbers.
 
 ### Ideals
 
-[A character should begin play with at least one but no more than two
+A character should begin play with at least one but no more than two
 ideals. Ideals can be thought of as "goals;" what are the character's
 overriding goals? What motivates the character? What drives them to do
 what they do? A character's goals may change over the course of a
@@ -412,833 +395,828 @@ campaign (and in such a case, the player should work with the GM to
 discuss the character's new ideals), but it establishes an overview of
 what the character wants. The sample ideal list below is by no means
 exhaustive, but it can be a starting point for players to choose their
-character's ideals.]{.c2 .c0}
+character's ideals.
 
--   [Evangelization: ]{.c6 .c7}[This character is driven to spread a
+-   **Evangelization:** This character is driven to spread a
     message or an idea to others, preferably as many others as possible.
     Perhaps the character is a religious zealot, or a political
     revolutionary. In any case, they seek converts to their
-    worldview.]{.c2 .c0}
--   [Fun: ]{.c6 .c7}[This character's overriding goal is to experience
+    worldview.
+-   **Fun:** This character's overriding goal is to experience
     pleasure in all of its varied forms. Everything this character does
     is designed to perpetuate their luxurious lifestyle, and to live
-    their life to the fullest. ]{.c2 .c0}
--   [Love: ]{.c6 .c7}[This character puts the person(s) they love before
+    their life to the fullest. 
+-   **Love:** This character puts the person(s) they love before
     everything, and the well-being of those loved ones comes before all
     else, even the character's own well-being. This ideal suits
     characters who have romance, family (parents, siblings, or
     children), or who wish to reconcile with a loved one as a part of
-    their character's background.]{.c6}
--   [More: ]{.c6 .c7}[A character with this ideal wants to acquire as
+    their character's background.
+-   **More:** A character with this ideal wants to acquire as
     much wealth and as many material possessions as they can. They want
     it all, and they are reluctant to share with the rest of the world.
     Perhaps this character is motivated to possess a certain object, or
     to collect only certain objects. Most importantly, why is the
-    character driven by material wealth?]{.c2 .c0}
--   [Knowledge: ]{.c6 .c7}[This character is driven by the quest to
+    character driven by material wealth?
+-   **Knowledge:** This character is driven by the quest to
     discover. Perhaps the character is concerned with cosmic questions
     of good and evil, or with achieving a particular scientific or
     technological breakthrough. In any case, this character believes
     that by discovering the truth, they can ultimately better society,
     or can conversely use that knowledge to their exclusive
-    advantage.]{.c2 .c0}
--   [Power: ]{.c6 .c7}[This character craves clout. They have a lust for
+    advantage.
+-   **Power:** This character craves clout. They have a lust for
     all the benefits and privileges that go with command, and the rest
     of the trappings of power. This character could be motivated by
-    military rank, political influence, or technological power.]{.c2
-    .c0}
--   [Survival: ]{.c6 .c7}[This character wants desperately to live, but
+    military rank, political influence, or technological power.
+-   **Survival:** This character wants desperately to live, but
     there are forces at work which seek to destroy the character. This
     character may be a fugitive, a radical visionary, the last of a
     family or other group, or someone that can be exploited by others.
-    They put their own survival ahead of other concerns.]{.c2 .c0}
--   [Truth: ]{.c6 .c7}[This character is suspicious of the world in some
+    They put their own survival ahead of other concerns.
+-   **Truth:** This character is suspicious of the world in some
     way, and seeks to uncover the truth. Perhaps the character was the
     victim of a smear campaign, or has knowledge that a government or
     corporation has knowingly lied to the public. By seeking to uncover
     and publicize the truth, this character feels they can rectify some
-    past wrong.]{.c2 .c0}
--   [Vengeance: ]{.c6 .c7}[Someone (or something) committed a heinous
+    past wrong.
+-   **Vengeance:** Someone (or something) committed a heinous
     wrong against this character in the past, and now the character is
-    on a quest of revenge to right that wrong, no matter the costs.]{.c2
-    .c0}
--   [Winning: ]{.c6 .c7}[This character seeks to be the very best at
+    on a quest of revenge to right that wrong, no matter the costs.
+-   **Winning:** This character seeks to be the very best at
     what they do. They seek to become the best scientist, soldier,
     athlete, artist, etc. in the world, and they are constantly testing
     their abilities in order to achieve perfection. The intrinsic
-    motivation to excel is all that matters.]{.c6}
+    motivation to excel is all that matters.
 
 ### Traits
 
-[A character should begin play with at least one, but no more than three
+A character should begin play with at least one, but no more than three
 traits. A trait is a general personality characteristic that is used for
 roleplaying purposes. They may be good or bad (or both),
-]{.c0}[and]{.c6}[ they ]{.c0}[determine (to a degree) how the character
-interacts with the world. ]{.c6}[Tra]{.c0}[its do not convey in-game
+and they determine (to a degree) how the character
+interacts with the world. Traits do not convey in-game
 bonuses, but they can be used to guide players in the usage of certain
 skills, or in mannerisms that can be used to emphasize the uniqueness of
-their characters.]{.c6}[ It is recommended that the GM award one XP per
+their characters. It is recommended that the GM award one XP per
 rest to players who engage in good roleplaying via their traits. The
-sample trait list ]{.c0}[below is by no means exhaustive, but it can be
-a starting point for players to choose their character's traits.]{.c6}
+sample trait list below is by no means exhaustive, but it can be
+a starting point for players to choose their character's traits.
 
--   [Admirer: ]{.c6 .c7}[This character admires and/idolizes someone.
+-   **Admirer:** This character admires and/idolizes someone.
     Their idol could perhaps be a family member, historical figure,
     religious figure, or celebrity, etc. The character constantly seeks
     to imitate their idol's behavior, and frequently brings up their
-    idol in conversation, whether applicable or not.]{.c2 .c0}
--   [Aggressive: ]{.c6 .c7}["Might makes right" is this character's
+    idol in conversation, whether applicable or not.
+-   **Aggressive:** "Might makes right" is this character's
     motto. Aggressive characters are unafraid to assert themselves
-    intimidatingly or in  a hostile fashion into situations.]{.c2 .c0}
--   [Amicable: ]{.c6 .c7}[This character is easygoing and makes friends
+    intimidatingly or in  a hostile fashion into situations.
+-   **Amicable:** This character is easygoing and makes friends
     easily, regardless of sex, gender, race, ethnicity, sexuality, etc.
     They know enough ice-breakers to make even the most obstinate
-    adversary warm to them.]{.c2 .c0}
--   [Apathetic: ]{.c6 .c7}[This character finds it very difficult to
+    adversary warm to them.
+-   **Apathetic:** This character finds it very difficult to
     really care about anything. Maybe they believe that nothing matters
     in the end, or maybe they lack the knowledge to form opinions.
     Apathetic characters may be aloof, indifferent, or even cynical at
-    times.]{.c2 .c0}
--   [Brave: ]{.c6 .c7}[This character is unafraid to stand their ground,
+    times.
+-   **Brave:** This character is unafraid to stand their ground,
     even against insurmountable odds, regardless of the situation or
     consequences. Brave characters believe that their power exists to
     help those who are less fortunate, and that heroes are needed. They
     often emulate romantic ideas of medieval knights, swashbucklers, or
-    Wild West lawmen.]{.c2 .c0}
--   [Calm: ]{.c6 .c7}[This character remains calm in almost every
+    Wild West lawmen.
+-   **Calm:** This character remains calm in almost every
     situation, and rarely raises their voice or succumbs to emotions,
     even in world-shattering cases. They have an even-keeled perception
-    of the world.]{.c2 .c0}
--   [Careless: ]{.c6 .c7}[This character has a penchant for breaking
+    of the world.
+-   **Careless:** This character has a penchant for breaking
     things and for getting into accidents. For some reason they find it
     difficult keeping their hands to themselves, and will trip or
-    stumble at the slightest impediment.]{.c2 .c0}
--   [Celebrity: ]{.c6 .c7}[This character is well-known in certain
+    stumble at the slightest impediment.
+-   **Celebrity:** This character is well-known in certain
     circles (art, music, craftsmanship, politics, etc.). They can
     capitalize on their fame in many cases, but they are easily offended
     when they encounter someone who does not know of or appreciate their
-    fame.]{.c2 .c0}
--   [Charmer:]{.c6 .c7}[ This character has perfected the art of
+    fame.
+-   **Charmer:** This character has perfected the art of
     "kissing ass," or "brownnosing" to get what they want. They are
     always spewing flattering statements and compliments, especially
-    when they can gain or benefit by doing so.]{.c2 .c0}
--   [Confident: ]{.c6 .c7}[This character has a good sense of their
+    when they can gain or benefit by doing so.
+-   **Confident:** This character has a good sense of their
     abilities and shortcomings, and they also try to encourage others to
-    be more confident in their abilities.]{.c2 .c0}
--   [Conformist: ]{.c6 .c7}[This character is a "team player." A
+    be more confident in their abilities.
+-   **Conformist:** This character is a "team player." A
     conformist character does not like to "stick out," and will do
     almost anything to blend in (clothing, politics, customs, etc.).
     They do not speak up or cause trouble, but simply "go with the
-    flow."]{.c2 .c0}
--   [Corrupt: ]{.c6 .c7}[This character lives by a moral code which
+    flow."
+-   **Corrupt:** This character lives by a moral code which
     emphasizes their personal gain above all other considerations. A
     corrupt character may still engage in noble or worthy acts as long
-    as it advances their agenda.]{.c2 .c0}
--   [Cowardly: ]{.c6 .c7}[A cowardly character displays fear in the face
-    of adversity, and will flee or avoid danger in most cases.]{.c2 .c0}
--   [Defiant: ]{.c6 .c7}[This character has a tendency to defy
+    as it advances their agenda.
+-   **Cowardly:** A cowardly character displays fear in the face
+    of adversity, and will flee or avoid danger in most cases.
+-   **Defiant:** This character has a tendency to defy
     authority. They sometimes choose not to see the true situation due
     to their defiance, and often run afoul of legal or political
-    authorities.]{.c2 .c0}
--   [Despicable: ]{.c6 .c7}[A despicable character has no moral compass
+    authorities.
+-   **Despicable:** A despicable character has no moral compass
     whatsoever; they are twisted, evil, or possibly insane. Their
     behaviors may be erratic, or may be cool and calculating. They enjoy
     seeing others in pain and hold no regard for any authority other
-    than their own.]{.c2 .c0}
--   [Determined: ]{.c6 .c7}[When this character sets their mind to
+    than their own.
+-   **Determined:** When this character sets their mind to
     something, virtually nothing is capable of standing in their way to
-    accomplish said goal.]{.c2 .c0}
--   [Doer: ]{.c6 .c7}[This character tends to be introverted and quiet,
+    accomplish said goal.
+-   **Doer:** This character tends to be introverted and quiet,
     choosing instead to make their mind known by their deeds. They tend
     to judge others in the same way, by actions rather than
-    speeches.]{.c2 .c0}
--   [Ear-To-The-Ground: ]{.c6 .c7}[This character has a keen tendency to
-    gather rumors and gossip wherever they go. ]{.c2 .c0}
--   [Egalitarian: ]{.c6 .c7}[This character truly sees others as their
+    speeches.
+-   **Ear-To-The-Ground:** This character has a keen tendency to
+    gather rumors and gossip wherever they go. 
+-   **Egalitarian:** This character truly sees others as their
     equal, regardless of sex, gender, race, ethnicity, sexuality,
-    etc.]{.c2 .c0}
--   [Energetic: ]{.c6 .c7}[This character is vigorous, full of vitality,
-    and possessed of an intensity of expression.]{.c2 .c0}
--   [Fair: ]{.c6 .c7}[This character has an apt sense of fairness, and
-    always tries to solve problems by what seems "fair" or "just."]{.c2
-    .c0}
--   [Fatalist: ]{.c6 .c7}[To this character, everything happens for a
+    etc.
+-   **Energetic:** This character is vigorous, full of vitality,
+    and possessed of an intensity of expression.
+-   **Fair:** This character has an apt sense of fairness, and
+    always tries to solve problems by what seems "fair" or "just."
+-   **Fatalist:** To this character, everything happens for a
     reason, and they are disinclined to intervene in what they see as
-    events taking their preordained course.]{.c2 .c0}
--   [Generous: ]{.c6 .c7}[This character is giving of their money, time,
+    events taking their preordained course.
+-   **Generous:** This character is giving of their money, time,
     and talents to the point where they can sometimes become
-    impoverished.]{.c2 .c0}
--   [Hateful: ]{.c6 .c7}[This character possesses a deep-seeded hatred
+    impoverished.
+-   **Hateful:** This character possesses a deep-seeded hatred
     against a person, group, place, thing, or organization. They never
-    fail to remind others of their animosity.]{.c2 .c0}
--   [Hedonist: ]{.c6 .c7}[This character indulges to excess the "bad"
+    fail to remind others of their animosity.
+-   **Hedonist:** This character indulges to excess the "bad"
     things in life: alcohol, drugs, gambling, and/or sex. In many cases
     the character is addicted to a certain stimulus, and finds it
-    difficult to operate without it for long.]{.c2 .c0}
--   [Helpful: ]{.c6 .c7}[This character's nature is to assist others in
+    difficult to operate without it for long.
+-   **Helpful:** This character's nature is to assist others in
     times of need. Perhaps they are driven by an ethical or moral code,
-    but a helpful character strives to do good.]{.c2 .c0}
--   [Honest: ]{.c6 .c7}[This character says exactly what they are
+    but a helpful character strives to do good.
+-   **Honest:** This character says exactly what they are
     thinking, often to the chagrin of others. In some cases, they are
     intuitive of others' emotions and speak aloud what others are
     thinking or feeling. Honest characters are loath to tell lies and
     will refrain from cheating, even when there is no incentive for
-    doing so.]{.c2 .c0}
--   [Humble: ]{.c6 .c7}[Humble characters do not boast of their deeds
-    and accomplishments, and prefer to remain out of the limelight.]{.c2
-    .c0}
--   [Impulsive: ]{.c6 .c7}[This character acts first, and then ponders
-    the consequences of said actions after the fact.]{.c2 .c0}
--   [Insulting: ]{.c6 .c7}[This character sees no benefit to flattery;
+    doing so.
+-   **Humble:** Humble characters do not boast of their deeds
+    and accomplishments, and prefer to remain out of the limelight.
+-   **Impulsive:** This character acts first, and then ponders
+    the consequences of said actions after the fact.
+-   **Insulting:** This character sees no benefit to flattery;
     instead, they are perpetually sarcastic and insulting, rarely
-    finding anything complimentary to say about anyone or anything.]{.c2
-    .c0}
--   [Intellectual: ]{.c6 .c7}[This character is an expert in their field
+    finding anything complimentary to say about anyone or anything.
+-   **Intellectual:** This character is an expert in their field
     of knowledge, whether it be history, science, or something else.
     They cannot help but to lend their expertise when called upon, but
-    look down on the less-educated as brutes and imbeciles.]{.c2 .c0}
--   [Intolerant: ]{.c6 .c7}[This character subscribes to a narrow
+    look down on the less-educated as brutes and imbeciles.
+-   **Intolerant:** This character subscribes to a narrow
     worldview (social, religious, or ethical) and does not open their
     mind to other points of view. They are quick to judge others who
-    stray from their definition of the norm.]{.c2 .c0}
--   [Inquisitive: ]{.c6 .c7}[This character always seeks to know how
+    stray from their definition of the norm.
+-   **Inquisitive:** This character always seeks to know how
     things work, and what motivates others. They seek answers to even
     the simplest of questions, such as, "What is around that corner?" To
-    them, the constant question is "why?"]{.c2 .c0}
--   [Irritable: ]{.c6 .c7}[This character is easily bored and easily
+    them, the constant question is "why?"
+-   **Irritable:** This character is easily bored and easily
     annoyed. They feel that they have much better things to do than
-    whatever it is they are doing at the moment.]{.c2 .c0}
--   [Joker: ]{.c6 .c7}[This character prides themself on their sense of
+    whatever it is they are doing at the moment.
+-   **Joker:** This character prides themself on their sense of
     humor. They are constantly joking or pulling pranks on others, even
-    in situations where it is inopportune to do so.]{.c2 .c0}
--   [Kleptomaniac: ]{.c6 .c7}[This character is a compulsive stealer,
-    and tries to pickpocket anything that may be of value.]{.c2 .c0}
--   [Know-It-All: ]{.c6 .c7}[This character knows (or think they know)
+    in situations where it is inopportune to do so.
+-   **Kleptomaniac:** This character is a compulsive stealer,
+    and tries to pickpocket anything that may be of value.
+-   **Know-It-All:** This character knows (or think they know)
     nearly everything on every topic. They constantly (mis)quote facts,
     (in)accuracies, and data on whatever topic is up for discussion,
-    regardless of skill training.]{.c2 .c0}
--   [Lazy: ]{.c6 .c7}[A lazy character is disposed to idleness. They
+    regardless of skill training.
+-   **Lazy:** A lazy character is disposed to idleness. They
     would rather relax then exert themselves. They can be sluggish by
     nature, or they can be sort of person who actively goes out of their
-    way to avoid work.]{.c2 .c0}
--   [Leader: ]{.c6 .c7}[A leader is a natural commander, a take-charge
+    way to avoid work.
+-   **Leader:** A leader is a natural commander, a take-charge
     sort who relishes the responsibilities and duties of leadership.
     Leaders lead by example, word, and deed, guiding others in
-    accomplishing some specific task.]{.c2 .c0}
--   [Liar: ]{.c6 .c7}[This character is a compulsive liar, and
+    accomplishing some specific task.
+-   **Liar:** This character is a compulsive liar, and
     constantly try to deceive others, even when there is no good reason
-    for doing so.]{.c2 .c0}
--   [Loyal: ]{.c6 .c7}[This character is devoted to friends, family, or
+    for doing so.
+-   **Loyal:** This character is devoted to friends, family, or
     others. They will serve and protect those devotees to almost no
-    end.]{.c2 .c0}
--   [Miser: ]{.c6 .c7}[This character is so attached to their money that
-    they will constantly haggle or try to find a better deal.]{.c2 .c0}
--   [Modern: ]{.c6 .c7}[This character goes to great lengths to dress
+    end.
+-   **Miser:** This character is so attached to their money that
+    they will constantly haggle or try to find a better deal.
+-   **Modern:** This character goes to great lengths to dress
     fashionably, and to be up-to-date on current media and
-    technology.]{.c2 .c0}
--   [Mysterious: ]{.c6 .c7}[A mysterious character exudes an air of
+    technology.
+-   **Mysterious:** A mysterious character exudes an air of
     secrecy, sometimes talking in riddles, always keeping something
-    hidden from the rest of the world.]{.c2 .c0}
--   [Narcissist: ]{.c6 .c7}[This character is compelled to be the center
+    hidden from the rest of the world.
+-   **Narcissist:** This character is compelled to be the center
     of attention at all times, and is easily upset when they are
-    not.]{.c2 .c0}
--   [Naturalist: ]{.c6 .c7}[This character feels "at-home" when in a
+    not.
+-   **Naturalist:** This character feels "at-home" when in a
     natural environment, or when surrounded by animals. In some cases,
     this character may be intensely awkward when in a human, urban, or
-    other social setting.]{.c2 .c0}
--   [Observant: ]{.c6 .c7}[When in a new situation, this character's
+    other social setting.
+-   **Observant:** When in a new situation, this character's
     priority is to scout the area for exits, threats, valuables, or
     other items of interest. They also tend to notice things out of the
-    ordinary.]{.c2 .c0}
--   [Ominous: ]{.c6 .c7}[This character is menacing and threatening in
-    manner, appearance, or deed.]{.c2 .c0}
--   [Optimistic: ]{.c6 .c7}[This character is optimistic (maybe
+    ordinary.
+-   **Ominous:** This character is menacing and threatening in
+    manner, appearance, or deed.
+-   **Optimistic:** This character is optimistic (maybe
     insufferably so) in nearly all situations. They constantly see the
-    silver lining to every cloud.]{.c2 .c0}
--   [Pampered: ]{.c6 .c7}[This character is used to the good life: all
+    silver lining to every cloud.
+-   **Pampered:** This character is used to the good life: all
     the fine food, drink, luxuries, and entertainment that money can
     afford. They constantly expect such treatment, and are easily
     offended, disgruntled, or discouraged when such a lifestyle is
-    impossible, or when they are in crude situations.]{.c2 .c0}
--   [Passive: ]{.c6 .c7}[A passive character accepts the actions of
+    impossible, or when they are in crude situations.
+-   **Passive:** A passive character accepts the actions of
     others without objection, resistance or complaint. They tend to
     comply with others' commands and suggestions, unless the command or
-    suggestion is extreme in nature.]{.c2 .c0}
--   [Peacemaker: ]{.c6 .c7}[This character is always able to find common
+    suggestion is extreme in nature.
+-   **Peacemaker:** This character is always able to find common
     ground with others, and can relate with even the fiercest of foes.
     They seek to find peaceful and cooperative solutions to problems
-    rather than resort to opposition or violence.]{.c2 .c0}
--   [Perfectionist: ]{.c6 .c7}[This character strives for perfection in
+    rather than resort to opposition or violence.
+-   **Perfectionist:** This character strives for perfection in
     a certain area, or in all they do. If things do not go their way, or
     if their results are less than flawless, this character can become
     easily upset. Their perfectionist tendencies can also cause anxiety
-    about certain tasks. ]{.c2 .c0}
--   [Pessimistic: ]{.c6 .c7}[This character sees doom and gloom
+    about certain tasks. 
+-   **Pessimistic:** This character sees doom and gloom
     everywhere, believing that every situation is going to end in the
-    worst possible way.]{.c2 .c0}
--   [Prepared: ]{.c6 .c7}[This character always has a "plan B," or a
+    worst possible way.
+-   **Prepared:** This character always has a "plan B," or a
     "plan C," and so on. They rarely get flustered when their original
     schemes do not bear fruit because there are other alternate options
-    (or so the character thinks).]{.c2 .c0}
--   [Quiet: ]{.c6 .c7}[This character rarely speaks, preferring to use
+    (or so the character thinks).
+-   **Quiet:** This character rarely speaks, preferring to use
     body language, hand gestures, or grunts to make their meaning
-    known.]{.c2 .c0}
--   [Religious: ]{.c6 .c7}[This character is a sincere devotee to a
+    known.
+-   **Religious:** This character is a sincere devotee to a
     particular religion, and those religious beliefs affect how they see
     the world. For instance, a religious character would see omens and
-    the hand(s) of god(s) in their day-to-day lives.]{.c2 .c0}
--   [Risk-Taker: ]{.c6 .c7}["Fortune favors the bold," or so says this
+    the hand(s) of god(s) in their day-to-day lives.
+-   **Risk-Taker:** "Fortune favors the bold," or so says this
     character. They enjoy living their life on the edge, gambling, and
-    daring the odds, especially when the payoff is potentially big.]{.c2
+    daring the odds, especially when the payoff is potentially big.{.c2
     .c0}
--   [Romantic: ]{.c6 .c7}[This character has a tendency to fall in and
+-   **Romantic:** This character has a tendency to fall in and
     out of love (or infatuation) easily, and pursues the object(s) of
-    their affection to a sometimes detrimental degree.]{.c2 .c0}
--   [Rough: ]{.c6 .c7}[This character comes from humble stock, and never
+    their affection to a sometimes detrimental degree.
+-   **Rough:** This character comes from humble stock, and never
     fails to miss an opportunity to remind others of it. They tend to
     have a prejudice against others who do not share their roots among
-    the lower tiers of society.]{.c2 .c0}
--   [Sensitive: ]{.c6 .c7}[This character takes criticism and insults to
+    the lower tiers of society.
+-   **Sensitive:** This character takes criticism and insults to
     heart, and is easily discouraged or enraged when faced with
-    opposition.]{.c2 .c0}
--   [Sheltered: ]{.c6 .c7}[This character had an upbringing which
+    opposition.
+-   **Sheltered:** This character had an upbringing which
     sheltered them from the "real world." Perhaps they were raised in an
     isolated tribe somewhere, or joined a religious institution at a
     young age. As such, they possess a certain naivete and obliviousness
-    when outside of their familiar setting.]{.c2 .c0}
--   [Shop-Talker: ]{.c6 .c7}[This character can't help but talk about
+    when outside of their familiar setting.
+-   **Shop-Talker:** This character can't help but talk about
     their profession, job, career, etc., often to the dismay of others
-    outside of said profession.]{.c2 .c0}
--   [Shy: ]{.c6 .c7}[This character intentionally avoids social
+    outside of said profession.
+-   **Shy:** This character intentionally avoids social
     situations, and will sometimes even hide to remain unnoticed by
-    others in order to do so.]{.c2 .c0}
--   [Skeptical: ]{.c6 .c7}[A skeptical character demands proof of
+    others in order to do so.
+-   **Skeptical:** A skeptical character demands proof of
     everything. They doubt, question, and usually don't want to believe
-    anything at face value.]{.c2 .c0}
--   [Snob: ]{.c6 .c7}[This character is an aficionado of something:
+    anything at face value.
+-   **Snob:** This character is an aficionado of something:
     food, wine, art, music, etc., and looks down on others who do not
-    share their "expert" opinion.]{.c2 .c0}
--   [Storyteller: ]{.c6 .c7}[This character is familiar with a specific
+    share their "expert" opinion.
+-   **Storyteller:** This character is familiar with a specific
     cultural or religious body of knowledge, and frequently references
     or quotes stories and passages that apply or provide insight to
-    various situations.]{.c2 .c0}
--   [Tempestuous: ]{.c6 .c7}[This character undergoes many mood swings,
-    oftentimes for no good reason.]{.c2 .c0}
--   [Thinker: ]{.c6 .c7}[This character is so focused on their inner
+    various situations.
+-   **Tempestuous:** This character undergoes many mood swings,
+    oftentimes for no good reason.
+-   **Thinker:** This character is so focused on their inner
     mind, ideas, and its workings, that they often ignore what is going
-    on in the world outside them.]{.c2 .c0}
--   [Tolerant: ]{.c6 .c7}[This character is accepting of nearly all
+    on in the world outside them.
+-   **Tolerant:** This character is accepting of nearly all
     viewpoints, religions, and lifestyles, and does not pass judgment on
-    those who differ from their view of the norm.]{.c2 .c0}
--   [Traumatized: ]{.c6 .c7}[This character has experienced things that
+    those who differ from their view of the norm.
+-   **Traumatized:** This character has experienced things that
     few others have; as a result, they experience intense anxiety when
-    presented with similar situations.]{.c2 .c0}
--   [Trusting: ]{.c6 .c7}[This character is extremely gullible, and is
+    presented with similar situations.
+-   **Trusting:** This character is extremely gullible, and is
     inclined to believe or confide in anyone readily, without doubt or
-    hesitation.]{.c2 .c0}
--   [Uncivilized: ]{.c6 .c7}[This character has been (un)intentionally
+    hesitation.
+-   **Uncivilized:** This character has been (un)intentionally
     raised in situations that deemphasize or delegitimize social graces.
     As a result, they often eat and act like animals in such such
-    situations.]{.c2 .c0}
--   [Untrusting: ]{.c6 .c7}[This character finds it hard to place trust
+    situations.
+-   **Untrusting:** This character finds it hard to place trust
     in others, even those that they have known for a long time. When in
     situations with strangers, this character may be paranoid, or may
-    covet their possessions in order to avoid theft.]{.c2 .c0}
--   [Wanderlust: ]{.c6 .c7}[This character seeks new adventures, new
+    covet their possessions in order to avoid theft.
+-   **Wanderlust:** This character seeks new adventures, new
     experiences, and new places. They quickly become bored if cooped up,
-    or if in one place for too long.]{.c2 .c0}
--   [Wrathful: ]{.c6 .c7}[This character never forgets a wrong. If
+    or if in one place for too long.
+-   **Wrathful:** This character never forgets a wrong. If
     offended by another, they will go to extreme lengths to punish the
-    offender, or to exact retribution.]{.c2 .c0}
+    offender, or to exact retribution.
 
 ### Bonds
 
 
-[A bond is a deep connection that a character feels towards a person,
-group, place, or thing. Bonds may be positive in nature]{.c0}[ (i.e. the
+A bond is a deep connection that a character feels towards a person,
+group, place, or thing. Bonds may be positive in nature (i.e. the
 character is deeply grateful to their former military unit for their
 comradeship in combat) or negative (i.e. the character owes a
 significant debt to a criminal organization). In all cases, bonds
 establish a character's relationship with the rest of the world.
-]{.c6}[It is recommended that characters begin play with one strong
+It is recommended that characters begin play with one strong
 bond, and perhaps one or two weaker bonds. These help establish a
 character's backstory, and ground the character in the world. They may
-also be used as plot devices by the GM.]{.c0}
+also be used as plot devices by the GM.
 
 Standard Physical Abilities
 ---------------------------
 
-[The standards listed below are the maximum values in each category for
+The standards listed below are the maximum values in each category for
 each character. CyberWare adds to these standard abilities (see
 CyberWare for more information). Any attempts to perform physical feats
 within these parameters may necessitate an Athletics, Acrobatics, or
-Endurance check (GM discretion), and even so, may not be possible.]{.c2
+Endurance check (GM discretion), and even so, may not be possible.{.c2
 .c0}
 
--   [Standing Jump: ]{.c6 .c7 .c13}[A standing jump measures the
+-   **Standing Jump:** A standing jump measures the
     horizontal distance a character can leap from a standstill position.
     A character may make a second action in a combat phase while making
-    a standing jump, but the second action suffers DA.]{.c2 .c0}
--   [(FORT+AGI)/4 meters max distance]{.c1}
+    a standing jump, but the second action suffers DA.
+-   (FORT+AGI)/4 meters max distance
 
 +--------+--------+--------+--------+--------+--------+--------+--------+
-| [      |        | [FORT  |        |        |        |        |        |
-| ]{.c1} |        | Score  |        |        |        |        |        |
-|        |        | ]{.c1} |        |        |        |        |        |
-| [St    |        |        |        |        |        |        |        |
+|       |        | FORT  |        |        |        |        |        |
+|  |        | Score  |        |        |        |        |        |
+|        |        |  |        |        |        |        |        |
+| St    |        |        |        |        |        |        |        |
 | anding |        |        |        |        |        |        |        |
 | Jump   |        |        |        |        |        |        |        |
-| ]{.c1} |        |        |        |        |        |        |        |
+|  |        |        |        |        |        |        |        |
 +--------+--------+--------+--------+--------+--------+--------+--------+
-|        |        | [1     | [2     | [3     | [4     | [5     | [6     |
-|        |        | ]{.c1} | ]{.c1} | ]{.c1} | ]{.c1} | ]{.c1} | ]{.c1} |
+|        |        | 1     | 2     | 3     | 4     | 5     | 6     |
+|        |        |  |  |  |  |  |  |
 +--------+--------+--------+--------+--------+--------+--------+--------+
-| [AGI   | [1     | [0.5   | [0.7   | [1     | [1.25  | [1.5   | [1.75  |
-| Score  | ]{.c1} | m]{.c2 | 5]{.c2 | m]{.c2 | m]{.c2 | m]{.c2 | m]{.c2 |
-| ]{.c1} |        | .c0}   | .c0}   | .c0}   | .c0}   | .c0}   | .c0}   |
+| AGI   | 1     | 0.5   | 0.7   | 1     | 1.25  | 1.5   | 1.75  |
+| Score  |  | m{.c2 | 5{.c2 | m{.c2 | m{.c2 | m{.c2 | m{.c2 |
+|  |        | .c0}   | .c0}   | .c0}   | .c0}   | .c0}   | .c0}   |
 +--------+--------+--------+--------+--------+--------+--------+--------+
-|        | [2     | [0.7   | [1     | [1.25  | [1.5   | [1.75  | [2     |
-|        | ]{.c1} | 5]{.c2 | m]{.c2 | m]{.c2 | m]{.c2 | m]{.c2 | m]{.c2 |
+|        | 2     | 0.7   | 1     | 1.25  | 1.5   | 1.75  | 2     |
+|        |  | 5{.c2 | m{.c2 | m{.c2 | m{.c2 | m{.c2 | m{.c2 |
 |        |        | .c0}   | .c0}   | .c0}   | .c0}   | .c0}   | .c0}   |
 +--------+--------+--------+--------+--------+--------+--------+--------+
-|        | [3     | [1     | [1.25  | [1.5   | [1.75  | [2     | [2.25  |
-|        | ]{.c1} | m]{.c2 | m]{.c2 | m]{.c2 | m]{.c2 | m]{.c2 | m]{.c2 |
+|        | 3     | 1     | 1.25  | 1.5   | 1.75  | 2     | 2.25  |
+|        |  | m{.c2 | m{.c2 | m{.c2 | m{.c2 | m{.c2 | m{.c2 |
 |        |        | .c0}   | .c0}   | .c0}   | .c0}   | .c0}   | .c0}   |
 +--------+--------+--------+--------+--------+--------+--------+--------+
-|        | [4     | [1.25  | [1.5   | [1.75  | [2     | [2.25  | [2.5   |
-|        | ]{.c1} | m]{.c2 | m]{.c2 | m]{.c2 | m]{.c2 | m]{.c2 | m]{.c2 |
+|        | 4     | 1.25  | 1.5   | 1.75  | 2     | 2.25  | 2.5   |
+|        |  | m{.c2 | m{.c2 | m{.c2 | m{.c2 | m{.c2 | m{.c2 |
 |        |        | .c0}   | .c0}   | .c0}   | .c0}   | .c0}   | .c0}   |
 +--------+--------+--------+--------+--------+--------+--------+--------+
-|        | [5     | [1.5   | [1.75  | [2     | [2.25  | [2.5   | [2.75  |
-|        | ]{.c1} | m]{.c2 | m]{.c2 | m]{.c2 | m]{.c2 | m]{.c2 | m]{.c2 |
+|        | 5     | 1.5   | 1.75  | 2     | 2.25  | 2.5   | 2.75  |
+|        |  | m{.c2 | m{.c2 | m{.c2 | m{.c2 | m{.c2 | m{.c2 |
 |        |        | .c0}   | .c0}   | .c0}   | .c0}   | .c0}   | .c0}   |
 +--------+--------+--------+--------+--------+--------+--------+--------+
-|        | [6     | [1.7   | [2     | [2.25  | [2.25  | [2.75  | [3     |
-|        | ]{.c1} | 5]{.c2 | m]{.c2 | m]{.c2 | m]{.c2 | m]{.c2 | m]{.c2 |
+|        | 6     | 1.7   | 2     | 2.25  | 2.25  | 2.75  | 3     |
+|        |  | 5{.c2 | m{.c2 | m{.c2 | m{.c2 | m{.c2 | m{.c2 |
 |        |        | .c0}   | .c0}   | .c0}   | .c0}   | .c0}   | .c0}   |
 +--------+--------+--------+--------+--------+--------+--------+--------+
 
--   [Running Jump: ]{.c6 .c7 .c13}[A running jump measures the
+-   **Running Jump:** A running jump measures the
     horizontal distance a character can leap when given at least a 2m
     running start. A character may attempt a secondary action while
     making a running jump, but a character who attempts this action
     suffers DA on the check. Additionally, the next action taken by the
-    character in the next combat phase also suffers DA.]{.c2 .c0}
--   [(FORT+AGI)/2 meters max distance (need at least 2 meters running
-    start)]{.c1}
+    character in the next combat phase also suffers DA.
+-   (FORT+AGI)/2 meters max distance (need at least 2 meters running
+    start)
 
 +--------+--------+--------+--------+--------+--------+--------+--------+
-| [      |        | [FORT  |        |        |        |        |        |
-| ]{.c1} |        | Score  |        |        |        |        |        |
-|        |        | ]{.c1} |        |        |        |        |        |
-| [R     |        |        |        |        |        |        |        |
+|       |        | FORT  |        |        |        |        |        |
+|  |        | Score  |        |        |        |        |        |
+|        |        |  |        |        |        |        |        |
+| R     |        |        |        |        |        |        |        |
 | unning |        |        |        |        |        |        |        |
 | Jump   |        |        |        |        |        |        |        |
-| ]{.c1} |        |        |        |        |        |        |        |
+|  |        |        |        |        |        |        |        |
 +--------+--------+--------+--------+--------+--------+--------+--------+
-|        |        | [1     | [2     | [3     | [4     | [5     | [6     |
-|        |        | ]{.c1} | ]{.c1} | ]{.c1} | ]{.c1} | ]{.c1} | ]{.c1} |
+|        |        | 1     | 2     | 3     | 4     | 5     | 6     |
+|        |        |  |  |  |  |  |  |
 +--------+--------+--------+--------+--------+--------+--------+--------+
-| [AGI   | [1     | [1     | [1.5   | [2     | [2.5   | [3     | [3.5   |
-| Score  | ]{.c1} | m]{.c2 | m]{.c2 | m]{.c2 | m]{.c2 | m]{.c2 | m]{.c2 |
-| ]{.c1} |        | .c0}   | .c0}   | .c0}   | .c0}   | .c0}   | .c0}   |
+| AGI   | 1     | 1     | 1.5   | 2     | 2.5   | 3     | 3.5   |
+| Score  |  | m{.c2 | m{.c2 | m{.c2 | m{.c2 | m{.c2 | m{.c2 |
+|  |        | .c0}   | .c0}   | .c0}   | .c0}   | .c0}   | .c0}   |
 +--------+--------+--------+--------+--------+--------+--------+--------+
-|        | [2     | [1.5   | [2     | [2.5   | [3     | [3.5   | [4     |
-|        | ]{.c1} | m]{.c2 | m]{.c2 | m]{.c2 | m]{.c2 | m]{.c2 | m]{.c2 |
+|        | 2     | 1.5   | 2     | 2.5   | 3     | 3.5   | 4     |
+|        |  | m{.c2 | m{.c2 | m{.c2 | m{.c2 | m{.c2 | m{.c2 |
 |        |        | .c0}   | .c0}   | .c0}   | .c0}   | .c0}   | .c0}   |
 +--------+--------+--------+--------+--------+--------+--------+--------+
-|        | [3     | [2     | [2.5   | [3     | [3.5   | [4     | [4.5   |
-|        | ]{.c1} | m]{.c2 | m]{.c2 | m]{.c2 | m]{.c2 | m]{.c2 | m]{.c2 |
+|        | 3     | 2     | 2.5   | 3     | 3.5   | 4     | 4.5   |
+|        |  | m{.c2 | m{.c2 | m{.c2 | m{.c2 | m{.c2 | m{.c2 |
 |        |        | .c0}   | .c0}   | .c0}   | .c0}   | .c0}   | .c0}   |
 +--------+--------+--------+--------+--------+--------+--------+--------+
-|        | [4     | [2.5   | [3     | [3.5   | [4     | [4.5   | [5     |
-|        | ]{.c1} | m]{.c2 | m]{.c2 | m]{.c2 | m]{.c2 | m]{.c2 | m]{.c2 |
+|        | 4     | 2.5   | 3     | 3.5   | 4     | 4.5   | 5     |
+|        |  | m{.c2 | m{.c2 | m{.c2 | m{.c2 | m{.c2 | m{.c2 |
 |        |        | .c0}   | .c0}   | .c0}   | .c0}   | .c0}   | .c0}   |
 +--------+--------+--------+--------+--------+--------+--------+--------+
-|        | [5     | [3     | [3.5   | [4     | [4.5   | [5     | [5.5   |
-|        | ]{.c1} | m]{.c2 | m]{.c2 | m]{.c2 | m]{.c2 | m]{.c2 | m]{.c2 |
+|        | 5     | 3     | 3.5   | 4     | 4.5   | 5     | 5.5   |
+|        |  | m{.c2 | m{.c2 | m{.c2 | m{.c2 | m{.c2 | m{.c2 |
 |        |        | .c0}   | .c0}   | .c0}   | .c0}   | .c0}   | .c0}   |
 +--------+--------+--------+--------+--------+--------+--------+--------+
-|        | [6     | [3.5   | [4     | [4.5   | [5     | [5.5   | [6     |
-|        | ]{.c1} | m]{.c2 | m]{.c2 | m]{.c2 | m]{.c2 | m]{.c2 | m]{.c2 |
+|        | 6     | 3.5   | 4     | 4.5   | 5     | 5.5   | 6     |
+|        |  | m{.c2 | m{.c2 | m{.c2 | m{.c2 | m{.c2 | m{.c2 |
 |        |        | .c0}   | .c0}   | .c0}   | .c0}   | .c0}   | .c0}   |
 +--------+--------+--------+--------+--------+--------+--------+--------+
 
--   [Vertical jump: ]{.c6 .c7 .c13}[A vertical jump measures the
+-   **Vertical jump:** A vertical jump measures the
     vertical distance a character can leap from a standstill position.
     Note that the distances shown here apply to the character's feet and
     legs, and would therefore also expand a character's reach. A
     character may make a second action in a combat phase while making a
-    vertical jump, but the second action suffers DA.]{.c2 .c0}
--   [(FORT+AGI)/6 meters max height]{.c1}
+    vertical jump, but the second action suffers DA.
+-   (FORT+AGI)/6 meters max height
 
 +--------+--------+--------+--------+--------+--------+--------+--------+
-| [      |        | [FORT  |        |        |        |        |        |
-| ]{.c1} |        | Score  |        |        |        |        |        |
-|        |        | ]{.c1} |        |        |        |        |        |
-| [Ve    |        |        |        |        |        |        |        |
+|       |        | FORT  |        |        |        |        |        |
+|  |        | Score  |        |        |        |        |        |
+|        |        |  |        |        |        |        |        |
+| Ve    |        |        |        |        |        |        |        |
 | rtical |        |        |        |        |        |        |        |
 | Jump   |        |        |        |        |        |        |        |
-| ]{.c1} |        |        |        |        |        |        |        |
+|  |        |        |        |        |        |        |        |
 +--------+--------+--------+--------+--------+--------+--------+--------+
-|        |        | [1     | [2     | [3     | [4     | [5     | [6     |
-|        |        | ]{.c1} | ]{.c1} | ]{.c1} | ]{.c1} | ]{.c1} | ]{.c1} |
+|        |        | 1     | 2     | 3     | 4     | 5     | 6     |
+|        |        |  |  |  |  |  |  |
 +--------+--------+--------+--------+--------+--------+--------+--------+
-| [AGI   | [1     | [0.33  | [0.5   | [0.67  | [0.83  | [1     | [1.17  |
-| Score  | ]{.c1} | m]{.c2 | m]{.c2 | m]{.c2 | m]{.c2 | m]{.c2 | m]{.c2 |
-| ]{.c1} |        | .c0}   | .c0}   | .c0}   | .c0}   | .c0}   | .c0}   |
+| AGI   | 1     | 0.33  | 0.5   | 0.67  | 0.83  | 1     | 1.17  |
+| Score  |  | m{.c2 | m{.c2 | m{.c2 | m{.c2 | m{.c2 | m{.c2 |
+|  |        | .c0}   | .c0}   | .c0}   | .c0}   | .c0}   | .c0}   |
 +--------+--------+--------+--------+--------+--------+--------+--------+
-|        | [2     | [0.5   | [0.67  | [0.83  | [1     | [1.17  | [1.33  |
-|        | ]{.c1} | m]{.c2 | m]{.c2 | m]{.c2 | m]{.c2 | m]{.c2 | m]{.c2 |
+|        | 2     | 0.5   | 0.67  | 0.83  | 1     | 1.17  | 1.33  |
+|        |  | m{.c2 | m{.c2 | m{.c2 | m{.c2 | m{.c2 | m{.c2 |
 |        |        | .c0}   | .c0}   | .c0}   | .c0}   | .c0}   | .c0}   |
 +--------+--------+--------+--------+--------+--------+--------+--------+
-|        | [3     | [0.67  | [0.83  | [1     | [1.17  | [1.33  | [1.5   |
-|        | ]{.c1} | m]{.c2 | m]{.c2 | m]{.c2 | m]{.c2 | m]{.c2 | m]{.c2 |
+|        | 3     | 0.67  | 0.83  | 1     | 1.17  | 1.33  | 1.5   |
+|        |  | m{.c2 | m{.c2 | m{.c2 | m{.c2 | m{.c2 | m{.c2 |
 |        |        | .c0}   | .c0}   | .c0}   | .c0}   | .c0}   | .c0}   |
 +--------+--------+--------+--------+--------+--------+--------+--------+
-|        | [4     | [0.83  | [1     | [1.17  | [1.33  | [1.5   | [1.67  |
-|        | ]{.c1} | m]{.c2 | m]{.c2 | m]{.c2 | m]{.c2 | m]{.c2 | m]{.c2 |
+|        | 4     | 0.83  | 1     | 1.17  | 1.33  | 1.5   | 1.67  |
+|        |  | m{.c2 | m{.c2 | m{.c2 | m{.c2 | m{.c2 | m{.c2 |
 |        |        | .c0}   | .c0}   | .c0}   | .c0}   | .c0}   | .c0}   |
 +--------+--------+--------+--------+--------+--------+--------+--------+
-|        | [5     | [1     | [1.17  | [1.33  | [1.5   | [1.67  | [1.83  |
-|        | ]{.c1} | m]{.c2 | m]{.c2 | m]{.c2 | m]{.c2 | m]{.c2 | m]{.c2 |
+|        | 5     | 1     | 1.17  | 1.33  | 1.5   | 1.67  | 1.83  |
+|        |  | m{.c2 | m{.c2 | m{.c2 | m{.c2 | m{.c2 | m{.c2 |
 |        |        | .c0}   | .c0}   | .c0}   | .c0}   | .c0}   | .c0}   |
 +--------+--------+--------+--------+--------+--------+--------+--------+
-|        | [6     | [1.17  | [1.33  | [1.5   | [1.67  | [1.83  | [2     |
-|        | ]{.c1} | m]{.c2 | m]{.c2 | m]{.c2 | m]{.c2 | m]{.c2 | m]{.c2 |
+|        | 6     | 1.17  | 1.33  | 1.5   | 1.67  | 1.83  | 2     |
+|        |  | m{.c2 | m{.c2 | m{.c2 | m{.c2 | m{.c2 | m{.c2 |
 |        |        | .c0}   | .c0}   | .c0}   | .c0}   | .c0}   | .c0}   |
 +--------+--------+--------+--------+--------+--------+--------+--------+
 
--   [Encumbrance: ]{.c6 .c7 .c13}[As mentioned in the "Gear and Money"
+-   **Encumbrance:** As mentioned in the "Gear and Money"
     section, the Teleios system is not designed to be punitive in making
     characters account for each kg of gear they are carrying. Instead,
     the Encumbrance listed below would be used for cases in which a
     character would also be lugging along extra gear for story purposes
     (such as carrying out the unconscious body of a fallen comrade).
-    ]{.c2 .c0}
--   [FORTx6 kg without penalty]{.c1}
+    
+-   FORTx6 kg without penalty
 
   ------------------- ------------------------------------
-  [FORT Score]{.c1}   [Encumbrance without Penalty]{.c1}
-  [1]{.c2 .c0}        [6kg]{.c2 .c0}
-  [2]{.c2 .c0}        [12kg]{.c2 .c0}
-  [3]{.c2 .c0}        [18kg]{.c2 .c0}
-  [4]{.c2 .c0}        [24kg]{.c2 .c0}
-  [5]{.c2 .c0}        [30kg]{.c2 .c0}
-  [6]{.c2 .c0}        [36kg]{.c2 .c0}
+  FORT Score   Encumbrance without Penalty
+  1        6kg
+  2        12kg
+  3        18kg
+  4        24kg
+  5        30kg
+  6        36kg
   ------------------- ------------------------------------
 
--   [Climbing: ]{.c6 .c7 .c13}[A character's climbing rate measures the
+-   **Climbing:** A character's climbing rate measures the
     distance they can travel\--vertically, horizontally, or both\--while
     all of their limbs are engaged in the activity of climbing.
     Attempting to perform another action while climbing\--whether
     actively climbing or simply holding on\--imposes DA on the related
-    check.]{.c2 .c0}
--   [(FORT+AGI)/8 meters/phase]{.c1}
+    check.
+-   (FORT+AGI)/8 meters/phase
 
 +--------+--------+--------+--------+--------+--------+--------+--------+
-| [      |        | [FORT  |        |        |        |        |        |
-| ]{.c1} |        | Score  |        |        |        |        |        |
-|        |        | ]{.c1} |        |        |        |        |        |
-| [Cl    |        |        |        |        |        |        |        |
+|       |        | FORT  |        |        |        |        |        |
+|  |        | Score  |        |        |        |        |        |
+|        |        |  |        |        |        |        |        |
+| Cl    |        |        |        |        |        |        |        |
 | imbing |        |        |        |        |        |        |        |
 | /phase |        |        |        |        |        |        |        |
-| ]{.c1} |        |        |        |        |        |        |        |
+|  |        |        |        |        |        |        |        |
 +--------+--------+--------+--------+--------+--------+--------+--------+
-|        |        | [1     | [2     | [3     | [4     | [5     | [6     |
-|        |        | ]{.c1} | ]{.c1} | ]{.c1} | ]{.c1} | ]{.c1} | ]{.c1} |
+|        |        | 1     | 2     | 3     | 4     | 5     | 6     |
+|        |        |  |  |  |  |  |  |
 +--------+--------+--------+--------+--------+--------+--------+--------+
-| [AGI   | [1     | [0.25  | [0.38  | [0.5   | [0.63  | [0.75  | [0.88  |
-| Score  | ]{.c1} | m]{.c2 | m]{.c2 | m]{.c2 | m]{.c2 | m]{.c2 | m]{.c2 |
-| ]{.c1} |        | .c0}   | .c0}   | .c0}   | .c0}   | .c0}   | .c0}   |
+| AGI   | 1     | 0.25  | 0.38  | 0.5   | 0.63  | 0.75  | 0.88  |
+| Score  |  | m{.c2 | m{.c2 | m{.c2 | m{.c2 | m{.c2 | m{.c2 |
+|  |        | .c0}   | .c0}   | .c0}   | .c0}   | .c0}   | .c0}   |
 +--------+--------+--------+--------+--------+--------+--------+--------+
-|        | [2     | [0.38  | [0.5   | [0.63  | [0.75  | [0.88  | [1     |
-|        | ]{.c1} | m]{.c2 | m]{.c2 | m]{.c2 | m]{.c2 | m]{.c2 | m]{.c2 |
+|        | 2     | 0.38  | 0.5   | 0.63  | 0.75  | 0.88  | 1     |
+|        |  | m{.c2 | m{.c2 | m{.c2 | m{.c2 | m{.c2 | m{.c2 |
 |        |        | .c0}   | .c0}   | .c0}   | .c0}   | .c0}   | .c0}   |
 +--------+--------+--------+--------+--------+--------+--------+--------+
-|        | [3     | [0.5   | [0.63  | [0.75  | [0.88  | [1     | [1.13  |
-|        | ]{.c1} | m]{.c2 | m]{.c2 | m]{.c2 | m]{.c2 | m]{.c2 | m]{.c2 |
+|        | 3     | 0.5   | 0.63  | 0.75  | 0.88  | 1     | 1.13  |
+|        |  | m{.c2 | m{.c2 | m{.c2 | m{.c2 | m{.c2 | m{.c2 |
 |        |        | .c0}   | .c0}   | .c0}   | .c0}   | .c0}   | .c0}   |
 +--------+--------+--------+--------+--------+--------+--------+--------+
-|        | [4     | [0.63  | [0.75  | [0.88  | [1     | [1.13  | [12.5  |
-|        | ]{.c1} | m]{.c2 | m]{.c2 | m]{.c2 | m]{.c2 | m]{.c2 | m]{.c2 |
+|        | 4     | 0.63  | 0.75  | 0.88  | 1     | 1.13  | 12.5  |
+|        |  | m{.c2 | m{.c2 | m{.c2 | m{.c2 | m{.c2 | m{.c2 |
 |        |        | .c0}   | .c0}   | .c0}   | .c0}   | .c0}   | .c0}   |
 +--------+--------+--------+--------+--------+--------+--------+--------+
-|        | [5     | [0.75  | [0.88  | [1     | [1.13  | [1.25  | [1.38  |
-|        | ]{.c1} | m]{.c2 | m]{.c2 | m]{.c2 | m]{.c2 | m]{.c2 | m]{.c2 |
+|        | 5     | 0.75  | 0.88  | 1     | 1.13  | 1.25  | 1.38  |
+|        |  | m{.c2 | m{.c2 | m{.c2 | m{.c2 | m{.c2 | m{.c2 |
 |        |        | .c0}   | .c0}   | .c0}   | .c0}   | .c0}   | .c0}   |
 +--------+--------+--------+--------+--------+--------+--------+--------+
-|        | [6     | [0.88  | [1     | [1.13  | [1.25  | [1.38  | [1.55  |
-|        | ]{.c1} | m]{.c2 | m]{.c2 | m]{.c2 | m]{.c2 | m]{.c2 | m]{.c2 |
+|        | 6     | 0.88  | 1     | 1.13  | 1.25  | 1.38  | 1.55  |
+|        |  | m{.c2 | m{.c2 | m{.c2 | m{.c2 | m{.c2 | m{.c2 |
 |        |        | .c0}   | .c0}   | .c0}   | .c0}   | .c0}   | .c0}   |
 +--------+--------+--------+--------+--------+--------+--------+--------+
 
--   [Walking: ]{.c6 .c7 .c13}[In most situations, it is assumed that
+-   **Walking:** In most situations, it is assumed that
     characters are walking during combat. Secondary actions while
-    walking may be attempted and suffer no ordinary penalties.]{.c2 .c0}
--   [(FORT+AGI)/2 meters/phase]{.c1}
+    walking may be attempted and suffer no ordinary penalties.
+-   (FORT+AGI)/2 meters/phase
 
 +--------+--------+--------+--------+--------+--------+--------+--------+
-| [      |        | [FORT  |        |        |        |        |        |
-| ]{.c1} |        | Score  |        |        |        |        |        |
-|        |        | ]{.c1} |        |        |        |        |        |
-| [W     |        |        |        |        |        |        |        |
+|       |        | FORT  |        |        |        |        |        |
+|  |        | Score  |        |        |        |        |        |
+|        |        |  |        |        |        |        |        |
+| W     |        |        |        |        |        |        |        |
 | alking |        |        |        |        |        |        |        |
 | /phase |        |        |        |        |        |        |        |
-| ]{.c1} |        |        |        |        |        |        |        |
+|  |        |        |        |        |        |        |        |
 +--------+--------+--------+--------+--------+--------+--------+--------+
-|        |        | [1     | [2     | [3     | [4     | [5     | [6     |
-|        |        | ]{.c1} | ]{.c1} | ]{.c1} | ]{.c1} | ]{.c1} | ]{.c1} |
+|        |        | 1     | 2     | 3     | 4     | 5     | 6     |
+|        |        |  |  |  |  |  |  |
 +--------+--------+--------+--------+--------+--------+--------+--------+
-| [AGI   | [1     | [1     | [1.5   | [2     | [2.5   | [3     | [3.5   |
-| Score  | ]{.c1} | m]{.c2 | m]{.c2 | m]{.c2 | m]{.c2 | m]{.c2 | m]{.c2 |
-| ]{.c1} |        | .c0}   | .c0}   | .c0}   | .c0}   | .c0}   | .c0}   |
+| AGI   | 1     | 1     | 1.5   | 2     | 2.5   | 3     | 3.5   |
+| Score  |  | m{.c2 | m{.c2 | m{.c2 | m{.c2 | m{.c2 | m{.c2 |
+|  |        | .c0}   | .c0}   | .c0}   | .c0}   | .c0}   | .c0}   |
 +--------+--------+--------+--------+--------+--------+--------+--------+
-|        | [2     | [1.5   | [2     | [2.5   | [3     | [3.5   | [4     |
-|        | ]{.c1} | m]{.c2 | m]{.c2 | m]{.c2 | m]{.c2 | m]{.c2 | m]{.c2 |
+|        | 2     | 1.5   | 2     | 2.5   | 3     | 3.5   | 4     |
+|        |  | m{.c2 | m{.c2 | m{.c2 | m{.c2 | m{.c2 | m{.c2 |
 |        |        | .c0}   | .c0}   | .c0}   | .c0}   | .c0}   | .c0}   |
 +--------+--------+--------+--------+--------+--------+--------+--------+
-|        | [3     | [2     | [2.5   | [3     | [3.5   | [4     | [4.5   |
-|        | ]{.c1} | m]{.c2 | m]{.c2 | m]{.c2 | m]{.c2 | m]{.c2 | m]{.c2 |
+|        | 3     | 2     | 2.5   | 3     | 3.5   | 4     | 4.5   |
+|        |  | m{.c2 | m{.c2 | m{.c2 | m{.c2 | m{.c2 | m{.c2 |
 |        |        | .c0}   | .c0}   | .c0}   | .c0}   | .c0}   | .c0}   |
 +--------+--------+--------+--------+--------+--------+--------+--------+
-|        | [4     | [2.5   | [3     | [3.5   | [4     | [4.5   | [5     |
-|        | ]{.c1} | m]{.c2 | m]{.c2 | m]{.c2 | m]{.c2 | m]{.c2 | m]{.c2 |
+|        | 4     | 2.5   | 3     | 3.5   | 4     | 4.5   | 5     |
+|        |  | m{.c2 | m{.c2 | m{.c2 | m{.c2 | m{.c2 | m{.c2 |
 |        |        | .c0}   | .c0}   | .c0}   | .c0}   | .c0}   | .c0}   |
 +--------+--------+--------+--------+--------+--------+--------+--------+
-|        | [5     | [3     | [3.5   | [4     | [4.5   | [5     | [5.5   |
-|        | ]{.c1} | m]{.c2 | m]{.c2 | m]{.c2 | m]{.c2 | m]{.c2 | m]{.c2 |
+|        | 5     | 3     | 3.5   | 4     | 4.5   | 5     | 5.5   |
+|        |  | m{.c2 | m{.c2 | m{.c2 | m{.c2 | m{.c2 | m{.c2 |
 |        |        | .c0}   | .c0}   | .c0}   | .c0}   | .c0}   | .c0}   |
 +--------+--------+--------+--------+--------+--------+--------+--------+
-|        | [6     | [3.5   | [4     | [4.5   | [5     | [5.5   | [6     |
-|        | ]{.c1} | m]{.c2 | m]{.c2 | m]{.c2 | m]{.c2 | m]{.c2 | m]{.c2 |
+|        | 6     | 3.5   | 4     | 4.5   | 5     | 5.5   | 6     |
+|        |  | m{.c2 | m{.c2 | m{.c2 | m{.c2 | m{.c2 | m{.c2 |
 |        |        | .c0}   | .c0}   | .c0}   | .c0}   | .c0}   | .c0}   |
 +--------+--------+--------+--------+--------+--------+--------+--------+
 
--   [Running: ]{.c6 .c7 .c13}[Running greatly increases a character's
+-   **Running:** Running greatly increases a character's
     movement, but imposes DA on secondary actions taken in the same
-    combat phase.]{.c2 .c0}
--   [Walk x2 meters/phase]{.c1}
+    combat phase.
+-   Walk x2 meters/phase
 
 +--------+--------+--------+--------+--------+--------+--------+--------+
-| [      |        | [FORT  |        |        |        |        |        |
-| ]{.c1} |        | Score  |        |        |        |        |        |
-|        |        | ]{.c1} |        |        |        |        |        |
-| [R     |        |        |        |        |        |        |        |
+|       |        | FORT  |        |        |        |        |        |
+|  |        | Score  |        |        |        |        |        |
+|        |        |  |        |        |        |        |        |
+| R     |        |        |        |        |        |        |        |
 | unning |        |        |        |        |        |        |        |
 | /phase |        |        |        |        |        |        |        |
-| ]{.c1} |        |        |        |        |        |        |        |
+|  |        |        |        |        |        |        |        |
 +--------+--------+--------+--------+--------+--------+--------+--------+
-|        |        | [1     | [2     | [3     | [4     | [5     | [6     |
-|        |        | ]{.c1} | ]{.c1} | ]{.c1} | ]{.c1} | ]{.c1} | ]{.c1} |
+|        |        | 1     | 2     | 3     | 4     | 5     | 6     |
+|        |        |  |  |  |  |  |  |
 +--------+--------+--------+--------+--------+--------+--------+--------+
-| [AGI   | [1     | [2     | [3     | [4     | [5     | [6     | [7     |
-| Score  | ]{.c1} | m]{.c2 | m]{.c2 | m]{.c2 | m]{.c2 | m]{.c2 | m]{.c2 |
-| ]{.c1} |        | .c0}   | .c0}   | .c0}   | .c0}   | .c0}   | .c0}   |
+| AGI   | 1     | 2     | 3     | 4     | 5     | 6     | 7     |
+| Score  |  | m{.c2 | m{.c2 | m{.c2 | m{.c2 | m{.c2 | m{.c2 |
+|  |        | .c0}   | .c0}   | .c0}   | .c0}   | .c0}   | .c0}   |
 +--------+--------+--------+--------+--------+--------+--------+--------+
-|        | [2     | [3     | [4     | [5     | [6     | [7     | [8     |
-|        | ]{.c1} | m]{.c2 | m]{.c2 | m]{.c2 | m]{.c2 | m]{.c2 | m]{.c2 |
+|        | 2     | 3     | 4     | 5     | 6     | 7     | 8     |
+|        |  | m{.c2 | m{.c2 | m{.c2 | m{.c2 | m{.c2 | m{.c2 |
 |        |        | .c0}   | .c0}   | .c0}   | .c0}   | .c0}   | .c0}   |
 +--------+--------+--------+--------+--------+--------+--------+--------+
-|        | [3     | [4     | [5     | [6     | [7     | [8     | [9     |
-|        | ]{.c1} | m]{.c2 | m]{.c2 | m]{.c2 | m]{.c2 | m]{.c2 | m]{.c2 |
+|        | 3     | 4     | 5     | 6     | 7     | 8     | 9     |
+|        |  | m{.c2 | m{.c2 | m{.c2 | m{.c2 | m{.c2 | m{.c2 |
 |        |        | .c0}   | .c0}   | .c0}   | .c0}   | .c0}   | .c0}   |
 +--------+--------+--------+--------+--------+--------+--------+--------+
-|        | [4     | [5     | [6     | [7     | [8     | [9     | [10    |
-|        | ]{.c1} | m]{.c2 | m]{.c2 | m]{.c2 | m]{.c2 | m]{.c2 | m]{.c2 |
+|        | 4     | 5     | 6     | 7     | 8     | 9     | 10    |
+|        |  | m{.c2 | m{.c2 | m{.c2 | m{.c2 | m{.c2 | m{.c2 |
 |        |        | .c0}   | .c0}   | .c0}   | .c0}   | .c0}   | .c0}   |
 +--------+--------+--------+--------+--------+--------+--------+--------+
-|        | [5     | [6     | [7     | [8     | [9     | [10    | [11    |
-|        | ]{.c1} | m]{.c2 | m]{.c2 | m]{.c2 | m]{.c2 | m]{.c2 | m]{.c2 |
+|        | 5     | 6     | 7     | 8     | 9     | 10    | 11    |
+|        |  | m{.c2 | m{.c2 | m{.c2 | m{.c2 | m{.c2 | m{.c2 |
 |        |        | .c0}   | .c0}   | .c0}   | .c0}   | .c0}   | .c0}   |
 +--------+--------+--------+--------+--------+--------+--------+--------+
-|        | [6     | [7     | [8     | [9     | [10    | [11    | [12    |
-|        | ]{.c1} | m]{.c2 | m]{.c2 | m]{.c2 | m]{.c2 | m]{.c2 | m]{.c2 |
+|        | 6     | 7     | 8     | 9     | 10    | 11    | 12    |
+|        |  | m{.c2 | m{.c2 | m{.c2 | m{.c2 | m{.c2 | m{.c2 |
 |        |        | .c0}   | .c0}   | .c0}   | .c0}   | .c0}   | .c0}   |
 +--------+--------+--------+--------+--------+--------+--------+--------+
 
--   [Swimming: ]{.c6 .c7 .c13}[A swimming character is one who is
+-   **Swimming:** A swimming character is one who is
     engaged in the activity using all of their limbs. If a character who
     is swimming attempts another action in the same combat phase, that
-    action is rolled with DA.]{.c2 .c0}
--   [(FORT+AGI)/2 meters/phase]{.c1}
+    action is rolled with DA.
+-   (FORT+AGI)/2 meters/phase
 
 +--------+--------+--------+--------+--------+--------+--------+--------+
-| [      |        | [FORT  |        |        |        |        |        |
-| ]{.c1} |        | Score  |        |        |        |        |        |
-|        |        | ]{.c1} |        |        |        |        |        |
-| [Sw    |        |        |        |        |        |        |        |
+|       |        | FORT  |        |        |        |        |        |
+|  |        | Score  |        |        |        |        |        |
+|        |        |  |        |        |        |        |        |
+| Sw    |        |        |        |        |        |        |        |
 | imming |        |        |        |        |        |        |        |
 | /phase |        |        |        |        |        |        |        |
-| ]{.c1} |        |        |        |        |        |        |        |
+|  |        |        |        |        |        |        |        |
 +--------+--------+--------+--------+--------+--------+--------+--------+
-|        |        | [1     | [2     | [3     | [4     | [5     | [6     |
-|        |        | ]{.c1} | ]{.c1} | ]{.c1} | ]{.c1} | ]{.c1} | ]{.c1} |
+|        |        | 1     | 2     | 3     | 4     | 5     | 6     |
+|        |        |  |  |  |  |  |  |
 +--------+--------+--------+--------+--------+--------+--------+--------+
-| [AGI   | [1     | [1     | [1.5   | [2     | [2.5   | [3     | [3.5   |
-| Score  | ]{.c1} | m]{.c2 | m]{.c2 | m]{.c2 | m]{.c2 | m]{.c2 | m]{.c2 |
-| ]{.c1} |        | .c0}   | .c0}   | .c0}   | .c0}   | .c0}   | .c0}   |
+| AGI   | 1     | 1     | 1.5   | 2     | 2.5   | 3     | 3.5   |
+| Score  |  | m{.c2 | m{.c2 | m{.c2 | m{.c2 | m{.c2 | m{.c2 |
+|  |        | .c0}   | .c0}   | .c0}   | .c0}   | .c0}   | .c0}   |
 +--------+--------+--------+--------+--------+--------+--------+--------+
-|        | [2     | [1.5   | [2     | [2.5   | [3     | [3.5   | [4     |
-|        | ]{.c1} | m]{.c2 | m]{.c2 | m]{.c2 | m]{.c2 | m]{.c2 | m]{.c2 |
+|        | 2     | 1.5   | 2     | 2.5   | 3     | 3.5   | 4     |
+|        |  | m{.c2 | m{.c2 | m{.c2 | m{.c2 | m{.c2 | m{.c2 |
 |        |        | .c0}   | .c0}   | .c0}   | .c0}   | .c0}   | .c0}   |
 +--------+--------+--------+--------+--------+--------+--------+--------+
-|        | [3     | [2     | [2.5   | [3     | [3.5   | [4     | [4.5   |
-|        | ]{.c1} | m]{.c2 | m]{.c2 | m]{.c2 | m]{.c2 | m]{.c2 | m]{.c2 |
+|        | 3     | 2     | 2.5   | 3     | 3.5   | 4     | 4.5   |
+|        |  | m{.c2 | m{.c2 | m{.c2 | m{.c2 | m{.c2 | m{.c2 |
 |        |        | .c0}   | .c0}   | .c0}   | .c0}   | .c0}   | .c0}   |
 +--------+--------+--------+--------+--------+--------+--------+--------+
-|        | [4     | [2.5   | [3     | [3.5   | [4     | [4.5   | [5     |
-|        | ]{.c1} | m]{.c2 | m]{.c2 | m]{.c2 | m]{.c2 | m]{.c2 | m]{.c2 |
+|        | 4     | 2.5   | 3     | 3.5   | 4     | 4.5   | 5     |
+|        |  | m{.c2 | m{.c2 | m{.c2 | m{.c2 | m{.c2 | m{.c2 |
 |        |        | .c0}   | .c0}   | .c0}   | .c0}   | .c0}   | .c0}   |
 +--------+--------+--------+--------+--------+--------+--------+--------+
-|        | [5     | [3     | [3.5   | [4     | [4.5   | [5     | [5.5   |
-|        | ]{.c1} | m]{.c2 | m]{.c2 | m]{.c2 | m]{.c2 | m]{.c2 | m]{.c2 |
+|        | 5     | 3     | 3.5   | 4     | 4.5   | 5     | 5.5   |
+|        |  | m{.c2 | m{.c2 | m{.c2 | m{.c2 | m{.c2 | m{.c2 |
 |        |        | .c0}   | .c0}   | .c0}   | .c0}   | .c0}   | .c0}   |
 +--------+--------+--------+--------+--------+--------+--------+--------+
-|        | [6     | [3.5   | [4     | [4.5   | [5     | [5.5   | [6     |
-|        | ]{.c1} | m]{.c2 | m]{.c2 | m]{.c2 | m]{.c2 | m]{.c2 | m]{.c2 |
+|        | 6     | 3.5   | 4     | 4.5   | 5     | 5.5   | 6     |
+|        |  | m{.c2 | m{.c2 | m{.c2 | m{.c2 | m{.c2 | m{.c2 |
 |        |        | .c0}   | .c0}   | .c0}   | .c0}   | .c0}   | .c0}   |
 +--------+--------+--------+--------+--------+--------+--------+--------+
 
--   [Throwing: ]{.c6 .c7}[This measures the distance a character can
+-   **Throwing:** This measures the distance a character can
     throw a small object weighing up to 1-2 kg or so (such as a grenade
     or a baseball). Allowances should be made for items which reduce or
     increase air friction (like throwing a leather jacket versus a
     javelin). Also note that in order to make a throw accurately, a
-    character would need to use the Ranged skill.]{.c2 .c0}
--   [FORTx6 meters max distance]{.c1}
+    character would need to use the Ranged skill.
+-   FORTx6 meters max distance
 
 
 
   ------------------- --------------------------
-  [FORT Score]{.c1}   [Throwing Distance]{.c1}
-  [1]{.c2 .c0}        [6m]{.c2 .c0}
-  [2]{.c2 .c0}        [12m]{.c2 .c0}
-  [3]{.c2 .c0}        [18m]{.c2 .c0}
-  [4]{.c2 .c0}        [24m]{.c2 .c0}
-  [5]{.c2 .c0}        [30m]{.c2 .c0}
-  [6]{.c2 .c0}        [36m]{.c2 .c0}
+  FORT Score   Throwing Distance
+  1        6m
+  2        12m
+  3        18m
+  4        24m
+  5        30m
+  6        36m
   ------------------- --------------------------
 
 
 
--   [Lift: ]{.c6 .c7 .c13}[This measures how many kg a character can
+-   **Lift:** This measures how many kg a character can
     lift above their heads. A character who is lifting in this fashion
     may move at half of their Walk movement speed. Other actions while
     lifting may not be possible (if hands are required, for instance) or
-    they may suffer DA.]{.c2 .c0}
--   [FORTx24 kg max]{.c1}
+    they may suffer DA.
+-   FORTx24 kg max
 
 
 
 
 
   ------------------- ------------------
-  [FORT Score]{.c1}   [Max Lift]{.c1}
-  [1]{.c2 .c0}        [24kg]{.c2 .c0}
-  [2]{.c2 .c0}        [48kg]{.c2 .c0}
-  [3]{.c2 .c0}        [72kg]{.c2 .c0}
-  [4]{.c2 .c0}        [96kg]{.c2 .c0}
-  [5]{.c2 .c0}        [120kg]{.c2 .c0}
-  [6]{.c2 .c0}        [144kg]{.c2 .c0}
+  FORT Score   Max Lift
+  1        24kg
+  2        48kg
+  3        72kg
+  4        96kg
+  5        120kg
+  6        144kg
   ------------------- ------------------
 
 
 
--   [Holding Breath: ]{.c6 .c7 .c13}[The times listed here assume that
+-   **Holding Breath:** The times listed here assume that
     the character is not engaged in strenuous activity (like fighting,
     lifting, or running). In those cases, the GM should reduce the
-    listed times by 30 seconds for the duration.]{.c2 .c0}
--   [1 minute + (FORTx30 seconds)]{.c1}
+    listed times by 30 seconds for the duration.
+-   1 minute + (FORTx30 seconds)
 
 
 
 
 
   ------------------- ----------------------------
-  [FORT Score]{.c1}   [Holding Breath Time]{.c1}
-  [1]{.c2 .c0}        [1m 30s]{.c2 .c0}
-  [2]{.c2 .c0}        [2m]{.c2 .c0}
-  [3]{.c2 .c0}        [2m 30s]{.c2 .c0}
-  [4]{.c2 .c0}        [3m]{.c2 .c0}
-  [5]{.c2 .c0}        [3m 30s]{.c2 .c0}
-  [6]{.c2 .c0}        [4m]{.c2 .c0}
+  FORT Score   Holding Breath Time
+  1        1m 30s
+  2        2m
+  3        2m 30s
+  4        3m
+  5        3m 30s
+  6        4m
   ------------------- ----------------------------
 
 
 
--   [Languages: ]{.c6 .c7 .c13}[The GM in your campaign may have
+-   **Languages:** The GM in your campaign may have
     alternate rules when it comes to knowing languages, but in this
     context, knowing a language implies being able to read, write,
     speak, and understand it. A character who knows a language, but who
     wants to change their inflection or accent would need to use a skill
     such as Bureaucracy, Charm, Deception, or Streetwise. It is a good
     idea to check with your GM to see which language(s) might be good to
-    know in your campaign.]{.c2 .c0}
--   [INT number of languages fluently known]{.c1}
+    know in your campaign.
+-   INT number of languages fluently known
 
 
   ------------------ ------------------------
-  [INT Score]{.c1}   [Languages Known]{.c1}
-  [1]{.c2 .c0}       [1]{.c2 .c0}
-  [2]{.c2 .c0}       [2]{.c2 .c0}
-  [3]{.c2 .c0}       [3]{.c2 .c0}
-  [4]{.c2 .c0}       [4]{.c2 .c0}
-  [5]{.c2 .c0}       [5]{.c2 .c0}
-  [6]{.c2 .c0}       [6]{.c2 .c0}
+  INT Score   Languages Known
+  1       1
+  2       2
+  3       3
+  4       4
+  5       5
+  6       6
   ------------------ ------------------------
 
 
 
--   [Actions per Round: ]{.c6 .c7 .c13}[This chart determines how many
+-   **Actions per Round:** This chart determines how many
     actions a character gets to take in a round of combat. Remember, a
     round of combat lasts 20 seconds, and is divided into four phases,
     each lasting 5 seconds long. A character cannot have more than 4
     actions per combat round for any reason (not including a surprise
-    round).]{.c2 .c0}
--   [FORT+PERS/4 (rounded up (between 1-3))]{.c1}
+    round).
+-   FORT+PERS/4 (rounded up (between 1-3))
 
 ```{=html}
 <!-- -->
 ```
--   [FORT+PERS between 2-4 = 1 action per round]{.c1}
--   [FORT+PERS between 5-8 = 2 actions per round]{.c1}
--   [FORT+PERS between 9-12 = 3 actions per round]{.c1}=
+-   FORT+PERS between 2-4 = 1 action per round
+-   FORT+PERS between 5-8 = 2 actions per round
+-   FORT+PERS between 9-12 = 3 actions per round=
 
 +--------+--------+--------+--------+--------+--------+--------+--------+
-| [      |        | [FORT  |        |        |        |        |        |
-| ]{.c1} |        | Score  |        |        |        |        |        |
-|        |        | ]{.c1} |        |        |        |        |        |
-| [A     |        |        |        |        |        |        |        |
+|       |        | FORT  |        |        |        |        |        |
+|  |        | Score  |        |        |        |        |        |
+|        |        |  |        |        |        |        |        |
+| A     |        |        |        |        |        |        |        |
 | ctions |        |        |        |        |        |        |        |
 | /round |        |        |        |        |        |        |        |
-| ]{.c1} |        |        |        |        |        |        |        |
+|  |        |        |        |        |        |        |        |
 +--------+--------+--------+--------+--------+--------+--------+--------+
-|        |        | [1     | [2     | [3     | [4     | [5     | [6     |
-|        |        | ]{.c1} | ]{.c1} | ]{.c1} | ]{.c1} | ]{.c1} | ]{.c1} |
+|        |        | 1     | 2     | 3     | 4     | 5     | 6     |
+|        |        |  |  |  |  |  |  |
 +--------+--------+--------+--------+--------+--------+--------+--------+
-| [PERS  | [1     | [      | [      | [      | [      | [      | [      |
-| Score  | ]{.c1} | 1]{.c2 | 1]{.c2 | 1]{.c2 | 2]{.c2 | 2]{.c2 | 2]{.c2 |
-| ]{.c1} |        | .c0}   | .c0}   | .c0}   | .c0}   | .c0}   | .c0}   |
+| PERS  | 1     |       |       |       |       |       |       |
+| Score  |  | 1{.c2 | 1{.c2 | 1{.c2 | 2{.c2 | 2{.c2 | 2{.c2 |
+|  |        | .c0}   | .c0}   | .c0}   | .c0}   | .c0}   | .c0}   |
 +--------+--------+--------+--------+--------+--------+--------+--------+
-|        | [2     | [      | [      | [      | [      | [      | [      |
-|        | ]{.c1} | 1]{.c2 | 1]{.c2 | 2]{.c2 | 2]{.c2 | 2]{.c2 | 2]{.c2 |
+|        | 2     |       |       |       |       |       |       |
+|        |  | 1{.c2 | 1{.c2 | 2{.c2 | 2{.c2 | 2{.c2 | 2{.c2 |
 |        |        | .c0}   | .c0}   | .c0}   | .c0}   | .c0}   | .c0}   |
 +--------+--------+--------+--------+--------+--------+--------+--------+
-|        | [3     | [      | [      | [      | [      | [      | [      |
-|        | ]{.c1} | 1]{.c2 | 2]{.c2 | 2]{.c2 | 2]{.c2 | 2]{.c2 | 3]{.c2 |
+|        | 3     |       |       |       |       |       |       |
+|        |  | 1{.c2 | 2{.c2 | 2{.c2 | 2{.c2 | 2{.c2 | 3{.c2 |
 |        |        | .c0}   | .c0}   | .c0}   | .c0}   | .c0}   | .c0}   |
 +--------+--------+--------+--------+--------+--------+--------+--------+
-|        | [4     | [      | [      | [      | [      | [      | [      |
-|        | ]{.c1} | 2]{.c2 | 2]{.c2 | 2]{.c2 | 2]{.c2 | 3]{.c2 | 3]{.c2 |
+|        | 4     |       |       |       |       |       |       |
+|        |  | 2{.c2 | 2{.c2 | 2{.c2 | 2{.c2 | 3{.c2 | 3{.c2 |
 |        |        | .c0}   | .c0}   | .c0}   | .c0}   | .c0}   | .c0}   |
 +--------+--------+--------+--------+--------+--------+--------+--------+
-|        | [5     | [      | [      | [      | [      | [      | [      |
-|        | ]{.c1} | 2]{.c2 | 2]{.c2 | 2]{.c2 | 3]{.c2 | 3]{.c2 | 3]{.c2 |
+|        | 5     |       |       |       |       |       |       |
+|        |  | 2{.c2 | 2{.c2 | 2{.c2 | 3{.c2 | 3{.c2 | 3{.c2 |
 |        |        | .c0}   | .c0}   | .c0}   | .c0}   | .c0}   | .c0}   |
 +--------+--------+--------+--------+--------+--------+--------+--------+
-|        | [6     | [      | [      | [      | [      | [      | [      |
-|        | ]{.c1} | 2]{.c2 | 2]{.c2 | 3]{.c2 | 3]{.c2 | 3]{.c2 | 3]{.c2 |
+|        | 6     |       |       |       |       |       |       |
+|        |  | 2{.c2 | 2{.c2 | 3{.c2 | 3{.c2 | 3{.c2 | 3{.c2 |
 |        |        | .c0}   | .c0}   | .c0}   | .c0}   | .c0}   | .c0}   |
 +--------+--------+--------+--------+--------+--------+--------+--------+
 

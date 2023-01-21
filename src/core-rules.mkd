@@ -492,36 +492,33 @@ characters rested, or that an upcoming task will be more difficult for
 the characters due to their dalliance. This evens the odds, since the
 characters will be stronger, but so will their opposition.]{.c2 .c0}
 
-
-+-----------------------------------+-----------------------------------+
-| [Quick Reference when             |                                   |
-| Resting]{.c1}                     |                                   |
-+-----------------------------------+-----------------------------------+
-| [Luck Points]{.c1}                | -   [Automatically restore 1 Luck |
-|                                   |     Point, if able]{.c2 .c0}      |
-+-----------------------------------+-----------------------------------+
-| [Stun Durability]{.c1}            | -   [Automatically restore all    |
-|                                   |     STUN durability]{.c2 .c0}     |
-+-----------------------------------+-----------------------------------+
-| [Endurance (1x)]{.c1}             | -   [Success: Restore 1 BODY      |
-|                                   |     durability in self]{.c2 .c0}  |
-+-----------------------------------+-----------------------------------+
-| [Medicine (1x)]{.c1}              | -   [Success: Restore 1d3 BODY    |
-|                                   |     durability (or 1d6 with a     |
-|                                   |     medical kit) in self or other |
-|                                   |     (all characters)]{.c2 .c0}    |
-+-----------------------------------+-----------------------------------+
-| [Resolve (1x)]{.c1}               | -   [Success: Restore 3           |
-|                                   |     psychovolts to self (psionic  |
-|                                   |     characters only)]{.c2 .c0}    |
-+-----------------------------------+-----------------------------------+
-| [Technology (1x)]{.c1}            | -   [Success: Repair one broken   |
-|                                   |     item or piece of              |
-|                                   |     CyberWare]{.c2 .c0}           |
-|                                   | -   [Success: Restore 3 batteries |
-|                                   |     to self (cybered characters   |
-|                                   |     only)]{.c2 .c0}               |
-+-----------------------------------+-----------------------------------+
+### Quick Reference when Resting
++-------------------------------+-----------------------------------+
+| [Luck Points]{.c1}            | -   [Automatically restore 1 Luck |
+|                               |     Point, if able]{.c2 .c0}      |
++-------------------------------+-----------------------------------+
+| [Stun Durability]{.c1}        | -   [Automatically restore all    |
+|                               |     STUN durability]{.c2 .c0}     |
++-------------------------------+-----------------------------------+
+| [Endurance (1x)]{.c1}         | -   [Success: Restore 1 BODY      |
+|                               |     durability in self]{.c2 .c0}  |
++-------------------------------+-----------------------------------+
+| [Medicine (1x)]{.c1}          | -   [Success: Restore 1d3 BODY    |
+|                               |     durability (or 1d6 with a     |
+|                               |     medical kit) in self or other |
+|                               |     (all characters)]{.c2 .c0}    |
++-------------------------------+-----------------------------------+
+| [Resolve (1x)]{.c1}           | -   [Success: Restore 3           |
+|                               |     psychovolts to self (psionic  |
+|                               |     characters only)]{.c2 .c0}    |
++-------------------------------+-----------------------------------+
+| [Technology (1x)]{.c1}        | -   [Success: Repair one broken   |
+|                               |     item or piece of              |
+|                               |     CyberWare]{.c2 .c0}           |
+|                               | -   [Success: Restore 3 batteries |
+|                               |     to self (cybered characters   |
+|                               |     only)]{.c2 .c0}               |
++-------------------------------+-----------------------------------+
 
 Milestones
 ----------
