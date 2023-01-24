@@ -27,15 +27,14 @@ which details the minimum and maximum attribute scores for each species.
 Additionally, brief descriptions are included of the history,
 physiology, and sociology of each species.
 
-  --------   ------    ------    ------    ------    ------    ------
-             FORT      AGI       INT       PERS      CYB       PSI
-  Android    1 -- 6    1 -- 6    1 -- 6    1 -- 6    1 -- 6    0 -- 5
-  Fraal      1 -- 6    1 -- 6    1 -- 6    1 -- 6    0 -- 5    1 -- 6
-  Human      1 -- 6    1 -- 6    1 -- 6    2 -- 6    0 -- 6    0 -- 6
-  Sesheyan   1 -- 6    2 -- 6    1 -- 6    1 -- 6    0 -- 6    0 -- 6
-  Tesa       1 -- 6    1 -- 6    2 -- 6    1 -- 6    0 -- 6    0 -- 6
-  Weren      2 -- 6    1 -- 6    1 -- 6    1 -- 6    0 -- 6    0 -- 6
-  --------   ------    ------    ------    ------    ------    ------
+   species | FORT    | AGI     | INT     | PERS    | CYB     | PSI
+  :------- | :----:  | :----:  | :----:  | :----:  | :----:  | :----:
+  Android  | 1 -- 6  | 1 -- 6  | 1 -- 6  | 1 -- 6 |  1 -- 6  | 0 -- 5
+  Fraal    | 1 -- 6  | 1 -- 6  | 1 -- 6  | 1 -- 6 |  0 -- 5  | 1 -- 6
+  Human    | 1 -- 6  | 1 -- 6  | 1 -- 6  | 2 -- 6 |  0 -- 6  | 0 -- 6
+  Sesheyan | 1 -- 6  | 2 -- 6  | 1 -- 6  | 1 -- 6 |  0 -- 6  | 0 -- 6
+  Tesa     | 1 -- 6  | 1 -- 6  | 2 -- 6  | 1 -- 6 |  0 -- 6  | 0 -- 6
+  Weren    | 2 -- 6  | 1 -- 6  | 1 -- 6  | 1 -- 6 |  0 -- 6  | 0 -- 6
 
 ### Android
 
@@ -314,12 +313,11 @@ remember that impulsive purchases are costly to retrain (see
 "Retraining" below). The costs to improve skills, psionic powers,
 and attributes are below:
 
-  -----------------------   ------ --------------   -----------
-  Cost to Improve (in XP)   Skills Psionic Powers   Attributes
-  to Ranks 1-3              1 XP   2 XP             3 XP
-  to Ranks 4-5              2 XP   3 XP             4 XP
-  to Rank 6                 3 XP   4 XP             5 XP
-  -----------------------   ------ --------------   -----------
+  Cost to Improve (in XP) | Skills | Psionic Powers | Attributes
+  ----------------------- | :----  | :------------  | :----------
+  to Ranks 1-3            | 1 XP   | 2 XP           | 3 XP
+  to Ranks 4-5            | 2 XP   | 3 XP           | 4 XP
+  to Rank 6               | 3 XP   | 4 XP           | 5 XP
 
 
 All CyberWare costs 2 XP to acquire (see "Cyberware" below), and since
@@ -338,8 +336,7 @@ guidelines:
     important to note that this should not be punitive in any way on
     players, but instead should reward good storytelling and
     developments that tie in to character ideals, traits, and bonds. 1
-    XP (or 2 for exceptional role-playing) is a good rule of thumb.{.c2
-    .c0}
+    XP (or 2 for exceptional role-playing) is a good rule of thumb.
 -   **Awesome Moment:** Every player and GM has been in a game
     when something truly awesome happens. Maybe a character makes a
     one-in-a-million shot, or pilots their ship with verve and skill.
@@ -667,8 +664,8 @@ a starting point for players to choose their character's traits.
     the hand(s) of god(s) in their day-to-day lives.
 -   **Risk-Taker:** "Fortune favors the bold," or so says this
     character. They enjoy living their life on the edge, gambling, and
-    daring the odds, especially when the payoff is potentially big.{.c2
-    .c0}
+    daring the odds, especially when the payoff is potentially big.
+   
 -   **Romantic:** This character has a tendency to fall in and
     out of love (or infatuation) easily, and pursues the object(s) of
     their affection to a sometimes detrimental degree.
@@ -740,7 +737,7 @@ significant debt to a criminal organization). In all cases, bonds
 establish a character's relationship with the rest of the world.
 It is recommended that characters begin play with one strong
 bond, and perhaps one or two weaker bonds. These help establish a
-character's backstory, and ground the character in the world. They may
+character's backstory, and ground the character in the world. They  may
 also be used as plot devices by the GM.
 
 Standard Physical Abilities
@@ -750,97 +747,38 @@ The standards listed below are the maximum values in each category for
 each character. CyberWare adds to these standard abilities (see
 CyberWare for more information). Any attempts to perform physical feats
 within these parameters may necessitate an Athletics, Acrobatics, or
-Endurance check (GM discretion), and even so, may not be possible.{.c2
+Endurance check (GM discretion), and even so, may not be possible.
 .c0}
 
--   **Standing Jump:** A standing jump measures the
-    horizontal distance a character can leap from a standstill position.
-    A character may make a second action in a combat phase while making
-    a standing jump, but the second action suffers DA.
--   (FORT+AGI)/4 meters max distance
+#### **Standig Jump**
+ A standing jump measures the horizontal distance a character can leap from a standstill position.  A character may make a second action in a combat phase while making a standing jump, but the second action suffers DA.
 
-+--------+--------+--------+--------+--------+--------+--------+--------+
-|       |        | FORT  |        |        |        |        |        |
-|  |        | Score  |        |        |        |        |        |
-|        |        |  |        |        |        |        |        |
-| St    |        |        |        |        |        |        |        |
-| anding |        |        |        |        |        |        |        |
-| Jump   |        |        |        |        |        |        |        |
-|  |        |        |        |        |        |        |        |
-+--------+--------+--------+--------+--------+--------+--------+--------+
-|        |        | 1     | 2     | 3     | 4     | 5     | 6     |
-|        |        |  |  |  |  |  |  |
-+--------+--------+--------+--------+--------+--------+--------+--------+
-| AGI   | 1     | 0.5   | 0.7   | 1     | 1.25  | 1.5   | 1.75  |
-| Score  |  | m{.c2 | 5{.c2 | m{.c2 | m{.c2 | m{.c2 | m{.c2 |
-|  |        | .c0}   | .c0}   | .c0}   | .c0}   | .c0}   | .c0}   |
-+--------+--------+--------+--------+--------+--------+--------+--------+
-|        | 2     | 0.7   | 1     | 1.25  | 1.5   | 1.75  | 2     |
-|        |  | 5{.c2 | m{.c2 | m{.c2 | m{.c2 | m{.c2 | m{.c2 |
-|        |        | .c0}   | .c0}   | .c0}   | .c0}   | .c0}   | .c0}   |
-+--------+--------+--------+--------+--------+--------+--------+--------+
-|        | 3     | 1     | 1.25  | 1.5   | 1.75  | 2     | 2.25  |
-|        |  | m{.c2 | m{.c2 | m{.c2 | m{.c2 | m{.c2 | m{.c2 |
-|        |        | .c0}   | .c0}   | .c0}   | .c0}   | .c0}   | .c0}   |
-+--------+--------+--------+--------+--------+--------+--------+--------+
-|        | 4     | 1.25  | 1.5   | 1.75  | 2     | 2.25  | 2.5   |
-|        |  | m{.c2 | m{.c2 | m{.c2 | m{.c2 | m{.c2 | m{.c2 |
-|        |        | .c0}   | .c0}   | .c0}   | .c0}   | .c0}   | .c0}   |
-+--------+--------+--------+--------+--------+--------+--------+--------+
-|        | 5     | 1.5   | 1.75  | 2     | 2.25  | 2.5   | 2.75  |
-|        |  | m{.c2 | m{.c2 | m{.c2 | m{.c2 | m{.c2 | m{.c2 |
-|        |        | .c0}   | .c0}   | .c0}   | .c0}   | .c0}   | .c0}   |
-+--------+--------+--------+--------+--------+--------+--------+--------+
-|        | 6     | 1.7   | 2     | 2.25  | 2.25  | 2.75  | 3     |
-|        |  | 5{.c2 | m{.c2 | m{.c2 | m{.c2 | m{.c2 | m{.c2 |
-|        |        | .c0}   | .c0}   | .c0}   | .c0}   | .c0}   | .c0}   |
-+--------+--------+--------+--------+--------+--------+--------+--------+
+**(FORT+AGI)/4 meters max distance**
 
--   **Running Jump:** A running jump measures the
-    horizontal distance a character can leap when given at least a 2m
-    running start. A character may attempt a secondary action while
-    making a running jump, but a character who attempts this action
-    suffers DA on the check. Additionally, the next action taken by the
-    character in the next combat phase also suffers DA.
--   (FORT+AGI)/2 meters max distance (need at least 2 meters running
-    start)
+  FORT/AGI|1|2|3|4|5|6|
+ -|-|-|-|-|-|-| 
+ 1|0.5m|0.75|1m|1.25m|1.5m|1.75m
+ 2|0.75|1m|1.25m|1.5m|1.75m|2m
+ 3|1m|1.25m|1.5m|1.75m|2m|2.25m
+ 4|1.25m|1.5m|1.75m|2m|2.25m|2.5m
+ 5|1.5m|1.75m|2m|2.25m|2.5m|2.75m
+ 6|1.75|2m|2.25m|2.25m|2.75m|3m
 
-+--------+--------+--------+--------+--------+--------+--------+--------+
-|       |        | FORT  |        |        |        |        |        |
-|  |        | Score  |        |        |        |        |        |
-|        |        |  |        |        |        |        |        |
-| R     |        |        |        |        |        |        |        |
-| unning |        |        |        |        |        |        |        |
-| Jump   |        |        |        |        |        |        |        |
-|  |        |        |        |        |        |        |        |
-+--------+--------+--------+--------+--------+--------+--------+--------+
-|        |        | 1     | 2     | 3     | 4     | 5     | 6     |
-|        |        |  |  |  |  |  |  |
-+--------+--------+--------+--------+--------+--------+--------+--------+
-| AGI   | 1     | 1     | 1.5   | 2     | 2.5   | 3     | 3.5   |
-| Score  |  | m{.c2 | m{.c2 | m{.c2 | m{.c2 | m{.c2 | m{.c2 |
-|  |        | .c0}   | .c0}   | .c0}   | .c0}   | .c0}   | .c0}   |
-+--------+--------+--------+--------+--------+--------+--------+--------+
-|        | 2     | 1.5   | 2     | 2.5   | 3     | 3.5   | 4     |
-|        |  | m{.c2 | m{.c2 | m{.c2 | m{.c2 | m{.c2 | m{.c2 |
-|        |        | .c0}   | .c0}   | .c0}   | .c0}   | .c0}   | .c0}   |
-+--------+--------+--------+--------+--------+--------+--------+--------+
-|        | 3     | 2     | 2.5   | 3     | 3.5   | 4     | 4.5   |
-|        |  | m{.c2 | m{.c2 | m{.c2 | m{.c2 | m{.c2 | m{.c2 |
-|        |        | .c0}   | .c0}   | .c0}   | .c0}   | .c0}   | .c0}   |
-+--------+--------+--------+--------+--------+--------+--------+--------+
-|        | 4     | 2.5   | 3     | 3.5   | 4     | 4.5   | 5     |
-|        |  | m{.c2 | m{.c2 | m{.c2 | m{.c2 | m{.c2 | m{.c2 |
-|        |        | .c0}   | .c0}   | .c0}   | .c0}   | .c0}   | .c0}   |
-+--------+--------+--------+--------+--------+--------+--------+--------+
-|        | 5     | 3     | 3.5   | 4     | 4.5   | 5     | 5.5   |
-|        |  | m{.c2 | m{.c2 | m{.c2 | m{.c2 | m{.c2 | m{.c2 |
-|        |        | .c0}   | .c0}   | .c0}   | .c0}   | .c0}   | .c0}   |
-+--------+--------+--------+--------+--------+--------+--------+--------+
-|        | 6     | 3.5   | 4     | 4.5   | 5     | 5.5   | 6     |
-|        |  | m{.c2 | m{.c2 | m{.c2 | m{.c2 | m{.c2 | m{.c2 |
-|        |        | .c0}   | .c0}   | .c0}   | .c0}   | .c0}   | .c0}   |
-+--------+--------+--------+--------+--------+--------+--------+--------+
+#### **Running Jump** 
+
+A running jump measures the horizontal distance a character can leap when given at least a 2m running start. A character may attempt a secondary action while making a running jump, but a character who attempts this action suffers DA on the check. Additionally, the next action taken by the character in the next combat phase also suffers DA.
+
+**(FORT+AGI)/2 meters max distance** (need at least 2 meters running start)
+
+FORT/AGI|1|2|3|4|5|6
+-|-|-|-|-|-|-
+1|1m|1.5m|2m|2.5m|3m|3.5m
+2|1.5m|2m|2.5m|3m|3.5m|4m
+3|2m|2.5m|3m|3.5m|4m|4.5m
+4|2.5m|3m|3.5m|4m|4.5m|5m
+5|3m|3.5m|4m|4.5m|5m|5.5m
+6|3.5m|4m|4.5m|5m|5.5m|6m
+
 
 -   **Vertical jump:** A vertical jump measures the
     vertical distance a character can leap from a standstill position.
@@ -849,43 +787,6 @@ Endurance check (GM discretion), and even so, may not be possible.{.c2
     character may make a second action in a combat phase while making a
     vertical jump, but the second action suffers DA.
 -   (FORT+AGI)/6 meters max height
-
-+--------+--------+--------+--------+--------+--------+--------+--------+
-|       |        | FORT  |        |        |        |        |        |
-|  |        | Score  |        |        |        |        |        |
-|        |        |  |        |        |        |        |        |
-| Ve    |        |        |        |        |        |        |        |
-| rtical |        |        |        |        |        |        |        |
-| Jump   |        |        |        |        |        |        |        |
-|  |        |        |        |        |        |        |        |
-+--------+--------+--------+--------+--------+--------+--------+--------+
-|        |        | 1     | 2     | 3     | 4     | 5     | 6     |
-|        |        |  |  |  |  |  |  |
-+--------+--------+--------+--------+--------+--------+--------+--------+
-| AGI   | 1     | 0.33  | 0.5   | 0.67  | 0.83  | 1     | 1.17  |
-| Score  |  | m{.c2 | m{.c2 | m{.c2 | m{.c2 | m{.c2 | m{.c2 |
-|  |        | .c0}   | .c0}   | .c0}   | .c0}   | .c0}   | .c0}   |
-+--------+--------+--------+--------+--------+--------+--------+--------+
-|        | 2     | 0.5   | 0.67  | 0.83  | 1     | 1.17  | 1.33  |
-|        |  | m{.c2 | m{.c2 | m{.c2 | m{.c2 | m{.c2 | m{.c2 |
-|        |        | .c0}   | .c0}   | .c0}   | .c0}   | .c0}   | .c0}   |
-+--------+--------+--------+--------+--------+--------+--------+--------+
-|        | 3     | 0.67  | 0.83  | 1     | 1.17  | 1.33  | 1.5   |
-|        |  | m{.c2 | m{.c2 | m{.c2 | m{.c2 | m{.c2 | m{.c2 |
-|        |        | .c0}   | .c0}   | .c0}   | .c0}   | .c0}   | .c0}   |
-+--------+--------+--------+--------+--------+--------+--------+--------+
-|        | 4     | 0.83  | 1     | 1.17  | 1.33  | 1.5   | 1.67  |
-|        |  | m{.c2 | m{.c2 | m{.c2 | m{.c2 | m{.c2 | m{.c2 |
-|        |        | .c0}   | .c0}   | .c0}   | .c0}   | .c0}   | .c0}   |
-+--------+--------+--------+--------+--------+--------+--------+--------+
-|        | 5     | 1     | 1.17  | 1.33  | 1.5   | 1.67  | 1.83  |
-|        |  | m{.c2 | m{.c2 | m{.c2 | m{.c2 | m{.c2 | m{.c2 |
-|        |        | .c0}   | .c0}   | .c0}   | .c0}   | .c0}   | .c0}   |
-+--------+--------+--------+--------+--------+--------+--------+--------+
-|        | 6     | 1.17  | 1.33  | 1.5   | 1.67  | 1.83  | 2     |
-|        |  | m{.c2 | m{.c2 | m{.c2 | m{.c2 | m{.c2 | m{.c2 |
-|        |        | .c0}   | .c0}   | .c0}   | .c0}   | .c0}   | .c0}   |
-+--------+--------+--------+--------+--------+--------+--------+--------+
 
 -   **Encumbrance:** As mentioned in the "Gear and Money"
     section, the Teleios system is not designed to be punitive in making
@@ -896,16 +797,6 @@ Endurance check (GM discretion), and even so, may not be possible.{.c2
     
 -   FORTx6 kg without penalty
 
-  ------------------- ------------------------------------
-  FORT Score   Encumbrance without Penalty
-  1        6kg
-  2        12kg
-  3        18kg
-  4        24kg
-  5        30kg
-  6        36kg
-  ------------------- ------------------------------------
-
 -   **Climbing:** A character's climbing rate measures the
     distance they can travel\--vertically, horizontally, or both\--while
     all of their limbs are engaged in the activity of climbing.
@@ -914,169 +805,21 @@ Endurance check (GM discretion), and even so, may not be possible.{.c2
     check.
 -   (FORT+AGI)/8 meters/phase
 
-+--------+--------+--------+--------+--------+--------+--------+--------+
-|       |        | FORT  |        |        |        |        |        |
-|  |        | Score  |        |        |        |        |        |
-|        |        |  |        |        |        |        |        |
-| Cl    |        |        |        |        |        |        |        |
-| imbing |        |        |        |        |        |        |        |
-| /phase |        |        |        |        |        |        |        |
-|  |        |        |        |        |        |        |        |
-+--------+--------+--------+--------+--------+--------+--------+--------+
-|        |        | 1     | 2     | 3     | 4     | 5     | 6     |
-|        |        |  |  |  |  |  |  |
-+--------+--------+--------+--------+--------+--------+--------+--------+
-| AGI   | 1     | 0.25  | 0.38  | 0.5   | 0.63  | 0.75  | 0.88  |
-| Score  |  | m{.c2 | m{.c2 | m{.c2 | m{.c2 | m{.c2 | m{.c2 |
-|  |        | .c0}   | .c0}   | .c0}   | .c0}   | .c0}   | .c0}   |
-+--------+--------+--------+--------+--------+--------+--------+--------+
-|        | 2     | 0.38  | 0.5   | 0.63  | 0.75  | 0.88  | 1     |
-|        |  | m{.c2 | m{.c2 | m{.c2 | m{.c2 | m{.c2 | m{.c2 |
-|        |        | .c0}   | .c0}   | .c0}   | .c0}   | .c0}   | .c0}   |
-+--------+--------+--------+--------+--------+--------+--------+--------+
-|        | 3     | 0.5   | 0.63  | 0.75  | 0.88  | 1     | 1.13  |
-|        |  | m{.c2 | m{.c2 | m{.c2 | m{.c2 | m{.c2 | m{.c2 |
-|        |        | .c0}   | .c0}   | .c0}   | .c0}   | .c0}   | .c0}   |
-+--------+--------+--------+--------+--------+--------+--------+--------+
-|        | 4     | 0.63  | 0.75  | 0.88  | 1     | 1.13  | 12.5  |
-|        |  | m{.c2 | m{.c2 | m{.c2 | m{.c2 | m{.c2 | m{.c2 |
-|        |        | .c0}   | .c0}   | .c0}   | .c0}   | .c0}   | .c0}   |
-+--------+--------+--------+--------+--------+--------+--------+--------+
-|        | 5     | 0.75  | 0.88  | 1     | 1.13  | 1.25  | 1.38  |
-|        |  | m{.c2 | m{.c2 | m{.c2 | m{.c2 | m{.c2 | m{.c2 |
-|        |        | .c0}   | .c0}   | .c0}   | .c0}   | .c0}   | .c0}   |
-+--------+--------+--------+--------+--------+--------+--------+--------+
-|        | 6     | 0.88  | 1     | 1.13  | 1.25  | 1.38  | 1.55  |
-|        |  | m{.c2 | m{.c2 | m{.c2 | m{.c2 | m{.c2 | m{.c2 |
-|        |        | .c0}   | .c0}   | .c0}   | .c0}   | .c0}   | .c0}   |
-+--------+--------+--------+--------+--------+--------+--------+--------+
-
 -   **Walking:** In most situations, it is assumed that
     characters are walking during combat. Secondary actions while
     walking may be attempted and suffer no ordinary penalties.
 -   (FORT+AGI)/2 meters/phase
-
-+--------+--------+--------+--------+--------+--------+--------+--------+
-|       |        | FORT  |        |        |        |        |        |
-|  |        | Score  |        |        |        |        |        |
-|        |        |  |        |        |        |        |        |
-| W     |        |        |        |        |        |        |        |
-| alking |        |        |        |        |        |        |        |
-| /phase |        |        |        |        |        |        |        |
-|  |        |        |        |        |        |        |        |
-+--------+--------+--------+--------+--------+--------+--------+--------+
-|        |        | 1     | 2     | 3     | 4     | 5     | 6     |
-|        |        |  |  |  |  |  |  |
-+--------+--------+--------+--------+--------+--------+--------+--------+
-| AGI   | 1     | 1     | 1.5   | 2     | 2.5   | 3     | 3.5   |
-| Score  |  | m{.c2 | m{.c2 | m{.c2 | m{.c2 | m{.c2 | m{.c2 |
-|  |        | .c0}   | .c0}   | .c0}   | .c0}   | .c0}   | .c0}   |
-+--------+--------+--------+--------+--------+--------+--------+--------+
-|        | 2     | 1.5   | 2     | 2.5   | 3     | 3.5   | 4     |
-|        |  | m{.c2 | m{.c2 | m{.c2 | m{.c2 | m{.c2 | m{.c2 |
-|        |        | .c0}   | .c0}   | .c0}   | .c0}   | .c0}   | .c0}   |
-+--------+--------+--------+--------+--------+--------+--------+--------+
-|        | 3     | 2     | 2.5   | 3     | 3.5   | 4     | 4.5   |
-|        |  | m{.c2 | m{.c2 | m{.c2 | m{.c2 | m{.c2 | m{.c2 |
-|        |        | .c0}   | .c0}   | .c0}   | .c0}   | .c0}   | .c0}   |
-+--------+--------+--------+--------+--------+--------+--------+--------+
-|        | 4     | 2.5   | 3     | 3.5   | 4     | 4.5   | 5     |
-|        |  | m{.c2 | m{.c2 | m{.c2 | m{.c2 | m{.c2 | m{.c2 |
-|        |        | .c0}   | .c0}   | .c0}   | .c0}   | .c0}   | .c0}   |
-+--------+--------+--------+--------+--------+--------+--------+--------+
-|        | 5     | 3     | 3.5   | 4     | 4.5   | 5     | 5.5   |
-|        |  | m{.c2 | m{.c2 | m{.c2 | m{.c2 | m{.c2 | m{.c2 |
-|        |        | .c0}   | .c0}   | .c0}   | .c0}   | .c0}   | .c0}   |
-+--------+--------+--------+--------+--------+--------+--------+--------+
-|        | 6     | 3.5   | 4     | 4.5   | 5     | 5.5   | 6     |
-|        |  | m{.c2 | m{.c2 | m{.c2 | m{.c2 | m{.c2 | m{.c2 |
-|        |        | .c0}   | .c0}   | .c0}   | .c0}   | .c0}   | .c0}   |
-+--------+--------+--------+--------+--------+--------+--------+--------+
 
 -   **Running:** Running greatly increases a character's
     movement, but imposes DA on secondary actions taken in the same
     combat phase.
 -   Walk x2 meters/phase
 
-+--------+--------+--------+--------+--------+--------+--------+--------+
-|       |        | FORT  |        |        |        |        |        |
-|  |        | Score  |        |        |        |        |        |
-|        |        |  |        |        |        |        |        |
-| R     |        |        |        |        |        |        |        |
-| unning |        |        |        |        |        |        |        |
-| /phase |        |        |        |        |        |        |        |
-|  |        |        |        |        |        |        |        |
-+--------+--------+--------+--------+--------+--------+--------+--------+
-|        |        | 1     | 2     | 3     | 4     | 5     | 6     |
-|        |        |  |  |  |  |  |  |
-+--------+--------+--------+--------+--------+--------+--------+--------+
-| AGI   | 1     | 2     | 3     | 4     | 5     | 6     | 7     |
-| Score  |  | m{.c2 | m{.c2 | m{.c2 | m{.c2 | m{.c2 | m{.c2 |
-|  |        | .c0}   | .c0}   | .c0}   | .c0}   | .c0}   | .c0}   |
-+--------+--------+--------+--------+--------+--------+--------+--------+
-|        | 2     | 3     | 4     | 5     | 6     | 7     | 8     |
-|        |  | m{.c2 | m{.c2 | m{.c2 | m{.c2 | m{.c2 | m{.c2 |
-|        |        | .c0}   | .c0}   | .c0}   | .c0}   | .c0}   | .c0}   |
-+--------+--------+--------+--------+--------+--------+--------+--------+
-|        | 3     | 4     | 5     | 6     | 7     | 8     | 9     |
-|        |  | m{.c2 | m{.c2 | m{.c2 | m{.c2 | m{.c2 | m{.c2 |
-|        |        | .c0}   | .c0}   | .c0}   | .c0}   | .c0}   | .c0}   |
-+--------+--------+--------+--------+--------+--------+--------+--------+
-|        | 4     | 5     | 6     | 7     | 8     | 9     | 10    |
-|        |  | m{.c2 | m{.c2 | m{.c2 | m{.c2 | m{.c2 | m{.c2 |
-|        |        | .c0}   | .c0}   | .c0}   | .c0}   | .c0}   | .c0}   |
-+--------+--------+--------+--------+--------+--------+--------+--------+
-|        | 5     | 6     | 7     | 8     | 9     | 10    | 11    |
-|        |  | m{.c2 | m{.c2 | m{.c2 | m{.c2 | m{.c2 | m{.c2 |
-|        |        | .c0}   | .c0}   | .c0}   | .c0}   | .c0}   | .c0}   |
-+--------+--------+--------+--------+--------+--------+--------+--------+
-|        | 6     | 7     | 8     | 9     | 10    | 11    | 12    |
-|        |  | m{.c2 | m{.c2 | m{.c2 | m{.c2 | m{.c2 | m{.c2 |
-|        |        | .c0}   | .c0}   | .c0}   | .c0}   | .c0}   | .c0}   |
-+--------+--------+--------+--------+--------+--------+--------+--------+
-
 -   **Swimming:** A swimming character is one who is
     engaged in the activity using all of their limbs. If a character who
     is swimming attempts another action in the same combat phase, that
     action is rolled with DA.
 -   (FORT+AGI)/2 meters/phase
-
-+--------+--------+--------+--------+--------+--------+--------+--------+
-|       |        | FORT  |        |        |        |        |        |
-|  |        | Score  |        |        |        |        |        |
-|        |        |  |        |        |        |        |        |
-| Sw    |        |        |        |        |        |        |        |
-| imming |        |        |        |        |        |        |        |
-| /phase |        |        |        |        |        |        |        |
-|  |        |        |        |        |        |        |        |
-+--------+--------+--------+--------+--------+--------+--------+--------+
-|        |        | 1     | 2     | 3     | 4     | 5     | 6     |
-|        |        |  |  |  |  |  |  |
-+--------+--------+--------+--------+--------+--------+--------+--------+
-| AGI   | 1     | 1     | 1.5   | 2     | 2.5   | 3     | 3.5   |
-| Score  |  | m{.c2 | m{.c2 | m{.c2 | m{.c2 | m{.c2 | m{.c2 |
-|  |        | .c0}   | .c0}   | .c0}   | .c0}   | .c0}   | .c0}   |
-+--------+--------+--------+--------+--------+--------+--------+--------+
-|        | 2     | 1.5   | 2     | 2.5   | 3     | 3.5   | 4     |
-|        |  | m{.c2 | m{.c2 | m{.c2 | m{.c2 | m{.c2 | m{.c2 |
-|        |        | .c0}   | .c0}   | .c0}   | .c0}   | .c0}   | .c0}   |
-+--------+--------+--------+--------+--------+--------+--------+--------+
-|        | 3     | 2     | 2.5   | 3     | 3.5   | 4     | 4.5   |
-|        |  | m{.c2 | m{.c2 | m{.c2 | m{.c2 | m{.c2 | m{.c2 |
-|        |        | .c0}   | .c0}   | .c0}   | .c0}   | .c0}   | .c0}   |
-+--------+--------+--------+--------+--------+--------+--------+--------+
-|        | 4     | 2.5   | 3     | 3.5   | 4     | 4.5   | 5     |
-|        |  | m{.c2 | m{.c2 | m{.c2 | m{.c2 | m{.c2 | m{.c2 |
-|        |        | .c0}   | .c0}   | .c0}   | .c0}   | .c0}   | .c0}   |
-+--------+--------+--------+--------+--------+--------+--------+--------+
-|        | 5     | 3     | 3.5   | 4     | 4.5   | 5     | 5.5   |
-|        |  | m{.c2 | m{.c2 | m{.c2 | m{.c2 | m{.c2 | m{.c2 |
-|        |        | .c0}   | .c0}   | .c0}   | .c0}   | .c0}   | .c0}   |
-+--------+--------+--------+--------+--------+--------+--------+--------+
-|        | 6     | 3.5   | 4     | 4.5   | 5     | 5.5   | 6     |
-|        |  | m{.c2 | m{.c2 | m{.c2 | m{.c2 | m{.c2 | m{.c2 |
-|        |        | .c0}   | .c0}   | .c0}   | .c0}   | .c0}   | .c0}   |
-+--------+--------+--------+--------+--------+--------+--------+--------+
 
 -   **Throwing:** This measures the distance a character can
     throw a small object weighing up to 1-2 kg or so (such as a grenade
@@ -1088,18 +831,6 @@ Endurance check (GM discretion), and even so, may not be possible.{.c2
 
 
 
-  ------------------- --------------------------
-  FORT Score   Throwing Distance
-  1        6m
-  2        12m
-  3        18m
-  4        24m
-  5        30m
-  6        36m
-  ------------------- --------------------------
-
-
-
 -   **Lift:** This measures how many kg a character can
     lift above their heads. A character who is lifting in this fashion
     may move at half of their Walk movement speed. Other actions while
@@ -1108,41 +839,11 @@ Endurance check (GM discretion), and even so, may not be possible.{.c2
 -   FORTx24 kg max
 
 
-
-
-
-  ------------------- ------------------
-  FORT Score   Max Lift
-  1        24kg
-  2        48kg
-  3        72kg
-  4        96kg
-  5        120kg
-  6        144kg
-  ------------------- ------------------
-
-
-
 -   **Holding Breath:** The times listed here assume that
     the character is not engaged in strenuous activity (like fighting,
     lifting, or running). In those cases, the GM should reduce the
     listed times by 30 seconds for the duration.
 -   1 minute + (FORTx30 seconds)
-
-
-
-
-
-  ------------------- ----------------------------
-  FORT Score   Holding Breath Time
-  1        1m 30s
-  2        2m
-  3        2m 30s
-  4        3m
-  5        3m 30s
-  6        4m
-  ------------------- ----------------------------
-
 
 
 -   **Languages:** The GM in your campaign may have
@@ -1156,18 +857,6 @@ Endurance check (GM discretion), and even so, may not be possible.{.c2
 -   INT number of languages fluently known
 
 
-  ------------------ ------------------------
-  INT Score   Languages Known
-  1       1
-  2       2
-  3       3
-  4       4
-  5       5
-  6       6
-  ------------------ ------------------------
-
-
-
 -   **Actions per Round:** This chart determines how many
     actions a character gets to take in a round of combat. Remember, a
     round of combat lasts 20 seconds, and is divided into four phases,
@@ -1175,49 +864,7 @@ Endurance check (GM discretion), and even so, may not be possible.{.c2
     actions per combat round for any reason (not including a surprise
     round).
 -   FORT+PERS/4 (rounded up (between 1-3))
-
-```{=html}
-<!-- -->
-```
 -   FORT+PERS between 2-4 = 1 action per round
 -   FORT+PERS between 5-8 = 2 actions per round
 -   FORT+PERS between 9-12 = 3 actions per round=
-
-+--------+--------+--------+--------+--------+--------+--------+--------+
-|       |        | FORT  |        |        |        |        |        |
-|  |        | Score  |        |        |        |        |        |
-|        |        |  |        |        |        |        |        |
-| A     |        |        |        |        |        |        |        |
-| ctions |        |        |        |        |        |        |        |
-| /round |        |        |        |        |        |        |        |
-|  |        |        |        |        |        |        |        |
-+--------+--------+--------+--------+--------+--------+--------+--------+
-|        |        | 1     | 2     | 3     | 4     | 5     | 6     |
-|        |        |  |  |  |  |  |  |
-+--------+--------+--------+--------+--------+--------+--------+--------+
-| PERS  | 1     |       |       |       |       |       |       |
-| Score  |  | 1{.c2 | 1{.c2 | 1{.c2 | 2{.c2 | 2{.c2 | 2{.c2 |
-|  |        | .c0}   | .c0}   | .c0}   | .c0}   | .c0}   | .c0}   |
-+--------+--------+--------+--------+--------+--------+--------+--------+
-|        | 2     |       |       |       |       |       |       |
-|        |  | 1{.c2 | 1{.c2 | 2{.c2 | 2{.c2 | 2{.c2 | 2{.c2 |
-|        |        | .c0}   | .c0}   | .c0}   | .c0}   | .c0}   | .c0}   |
-+--------+--------+--------+--------+--------+--------+--------+--------+
-|        | 3     |       |       |       |       |       |       |
-|        |  | 1{.c2 | 2{.c2 | 2{.c2 | 2{.c2 | 2{.c2 | 3{.c2 |
-|        |        | .c0}   | .c0}   | .c0}   | .c0}   | .c0}   | .c0}   |
-+--------+--------+--------+--------+--------+--------+--------+--------+
-|        | 4     |       |       |       |       |       |       |
-|        |  | 2{.c2 | 2{.c2 | 2{.c2 | 2{.c2 | 3{.c2 | 3{.c2 |
-|        |        | .c0}   | .c0}   | .c0}   | .c0}   | .c0}   | .c0}   |
-+--------+--------+--------+--------+--------+--------+--------+--------+
-|        | 5     |       |       |       |       |       |       |
-|        |  | 2{.c2 | 2{.c2 | 2{.c2 | 3{.c2 | 3{.c2 | 3{.c2 |
-|        |        | .c0}   | .c0}   | .c0}   | .c0}   | .c0}   | .c0}   |
-+--------+--------+--------+--------+--------+--------+--------+--------+
-|        | 6     |       |       |       |       |       |       |
-|        |  | 2{.c2 | 2{.c2 | 3{.c2 | 3{.c2 | 3{.c2 | 3{.c2 |
-|        |        | .c0}   | .c0}   | .c0}   | .c0}   | .c0}   | .c0}   |
-+--------+--------+--------+--------+--------+--------+--------+--------+
-
 \newpage
