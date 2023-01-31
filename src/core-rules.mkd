@@ -4,334 +4,303 @@ Core Rules
 The Game Mechanic
 -----------------
 
-[Players]{.c6}[ roll ]{.c0}[no fewer than one]{.c6 .c7}[ but ]{.c6}[no
-more than twelve ]{.c6 .c7}[six-sided dice in or]{.c0}[der to perform
-]{.c6}[actions]{.c6 .c7}[. Rolling dice is called a ]{.c0}[check]{.c6
-.c7 .c13}[. The number of dice rolled is equal to ]{.c0}[the sum of a
-character's rank in a Skill or psionic Power and its corresponding
-Attribute, so more talent and training allows characters to roll more
-dice, giving a greater chance of success. ]{.c6}[A result of 5 on a die
-scores one ]{.c0}[hit]{.c6 .c7 .c13}[ and a result of 6 on a die scores
-two hits. A result of 1 on a die subtracts one hit. Results of 2, 3, and
-4 have no effect. After the check is made, the player adds all hits
-together. The resulting number of hits determines, by degree, the level
-of success (or failure) that results from the attempted action. ]{.c2
-.c0}
+**Players** roll **no fewer than one** but **no more than twelve**
+six-sided dice in order to perform actions. Rolling dice is called a
+**check**. The number of dice rolled is equal to the sum of a character's
+rank in a Skill or psionic Power and its corresponding Attribute, so more talent
+and training allows characters to roll more dice, giving a greater chance of
+success. A result of 5 on a die scores one **hit** and a result of 6 on a
+die scores two hits. A result of 1 on a die subtracts one hit. Results of 2, 3,
+and 4 have no effect. After the check is made, the player adds all hits
+together. The resulting number of hits determines, by degree, the level of
+success (or failure) that results from the attempted action.
 
--   [≤0 hits = Marginal/Failure.]{.c6 .c7 .c13}[ The attempted action
-    does not succeed, and the GM gets to ]{.c0}[t]{.c6}[ake ]{.c0}[a
-    ]{.c6}[reaction]{.c6 .c7}[. ]{.c0}[Reactions made by the
-    GM]{.c6}[ ]{.c0}[are usually]{.c6}[ some sort of complication or
-    detrimental effect to the characters. ]{.c0}[GM reactions]{.c6}[ can
-    take many forms; for instance, the GM may decide that an enemy
-    attacks a character, or that the character is noticed by an enemy.
-    Conversely, maybe the GM decides that there is unwelcome news for
-    the character, or the character suffers monetary or equipment loss.
-    Generally speaking, the GM should design ]{.c0}[their
-    reactions]{.c6}[ around the attempted action that a character
-    attempted. Also no]{.c0}[te that depending on the circumstances, it
-    may be impossible (or otherwise undesirable, for story reasons) for
-    a character to "fail" a check outright; in such cases Teleios allows
-    for a "marginal" success in which the player's action succeeds, but
-    the GM is allowed to take ]{.c6}[two]{.c6 .c7}[ reactions as a
-    result. ]{.c2 .c0}
 
-```{=html}
-<!-- -->
-```
--   [More about reactions: GM reactions may be "saved" for a later time,
-    but the GM can only carry up to three saved reactions between game
-    sessions. Like mentioned in "The Story" above, GM reactions, while
-    proposed by the GM, should be ultimately agreed upon by the players
-    and GM. ]{.c2 .c0}
+### ≤0 hits = Marginal/Failure. 
+The attempted action does not succeed, and the GM gets to take a **reaction**. Reactions made by the
+GM **are usually** some sort of complication or
+detrimental effect to the characters. **GM reactions** can
+take many forms; for instance, the GM may decide that an enemy
+attacks a character, or that the character is noticed by an enemy.
+Conversely, maybe the GM decides that there is unwelcome news for
+the character, or the character suffers monetary or equipment loss.
+Generally speaking, the GM should design their
+reactions around the attempted action that a character
+attempted. Also note that depending on the circumstances, it
+may be impossible (or otherwise undesirable, for story reasons) for
+a character to "fail" a check outright; in such cases Teleios allows
+for a "marginal" success in which the player's action succeeds, but
+the GM is allowed to take **two** reactions as a
+result. 
 
-```{=html}
-<!-- -->
-```
--   [1-3 hits = Ordinary.]{.c6 .c7 .c13}[ The attempted action succeeds,
-    but the GM gets to ]{.c0}[take one reaction]{.c6}[ as well.]{.c2
-    .c0}
--   [4-5 hits = Good. ]{.c6 .c7 .c13}[The attempted action
-    succeeds]{.c0}[ with no accompanying GM reaction.]{.c6}
--   [6≤ hits = Amazing. ]{.c6 .c7 .c13}[The attempted action succeeds
-    with an added ]{.c0}[bonus]{.c6 .c7 .c13}[ to the character. The
-    character can choose the form of the bonus
-    (]{.c0}[considerin]{.c6}[g GM and group ]{.c0}[advice and
-    consent]{.c6}[). For example, a character may decide that the
-    attempted action succeeds to such a degree that the action requires
-    less time, or stays in effect longer, or deals more damage, etc. As
-    a rule of thumb, any bonus that adds to the efficacy of the
-    attempted action should be no more than ]{.c0}[33% better]{.c6 .c7
-    .c13}[. For example, if a Melee attack normally deals 1d6 (LI) body
-    damage, an Amazing result would deal 1d6+2 (LI) body damage. The
-    character might also decide that as a result of their
-    a]{.c0}[maz]{.c6}[ing success, the next related action they]{.c0}[,
-    or an ally, attempts]{.c6}[ has advantage.]{.c2 .c0}
+-   More about reactions: GM reactions may be "saved" for a later time,
+but the GM can only carry up to three saved reactions between game
+sessions. Like mentioned in "The Story" above, GM reactions, while
+proposed by the GM, should be ultimately agreed upon by the players
+and GM. 
+
+
+### 1-3 hits = Ordinary.
+ The attempted action succeeds,but the GM gets to **take one reaction** as well.
+   
+
+### 4-5 hits = Good. 
+The attempted action **succeeds** with no accompanying GM reaction.
+
+### 6≤ hits = Amazing. 
+The attempted action succeeds with an added **bonus** to the character. The character can choose the form of the bonus (considering GM and group advice and
+consent). 
+
+> For example, a character may decide that the
+attempted action succeeds to such a degree that the action requires
+less time, or stays in effect longer, or deals more damage, etc. As
+a rule of thumb, any bonus that adds to the efficacy of the
+attempted action should be no more than **33% better**
+
+> For example, if a Melee attack normally deals 1d6 (LI) body
+damage, an Amazing result would deal 1d6+2 (LI) body damage. The
+character might also decide that as a result of their
+amazing success, the next related action they,
+or an ally, attempts has advantage.
 
 
 
-[It is important to note that t]{.c6}[he GM n]{.c0}[ever
-rolls]{.c6}[ dice. GM reactions are only taken as a result of
-Marginal/Failure and Ordinary results from ]{.c0}[player actions.
-]{.c6}[In cases where an enemy would attack a character, ]{.c0}[a player
-rolls that]{.c6}[ character's appropriate defense to determine the
+It is important to note that the GM never
+rolls dice. GM reactions are only taken as a result of
+Marginal/Failure and Ordinary results from player actions.
+In cases where an enemy would attack a character, a player
+rolls that character's appropriate defense to determine the
 enemy's degree of success. The player would then roll damage dice for
-their character as well. ]{.c2 .c0}
+their character as well. 
 
 
-
-[A note on rounding: In cases where rounding needs to take place,
-]{.c6}[round in the way which tells a good story]{.c6 .c7}[. In other
-cases, ]{.c6}[round to the benefit of the characters]{.c6 .c7}[. For
+A note on rounding: In cases where rounding needs to take place,
+**round in the way which tells a good story**. In other
+cases, **round to the benefit of the characters**. For
 instance, if a character recovers half of their three used Luck points
-during a rest, they would recover two of the used three. ]{.c6}
-
-
+during a rest, they would recover two of the used three. 
 
 Advantage And Disadvantage
 --------------------------
 
-[Certain situations may make it more or less likely for a character to
-succeed at an action. In cases where the character has a greater chance
-to succeed, this is called ]{.c0}[advantage ]{.c6 .c7 .c13}[(abbreviated
-]{.c0}[AD]{.c6 .c7 .c13}[), and in cases where the character has a
-smaller chance to succeed, this is called ]{.c0}[disadvantage]{.c6 .c7
-.c13}[ (abbreviated ]{.c0}[DA]{.c6 .c7 .c13}[). When making a check with
-advantage, results of 4 add one hit to the total, whereas normally they
-have no effect. When making a check with disadvantage, results of 5 have
-no effect, whereas normally they score one hit. If a character would be
-granted advantage or disadvantage from multiple sources, its effects are
-only applied once\--]{.c0}[there is no such thing as "super
-advantage]{.c6}[!]{.c0}["]{.c6}[ If a character has both advantage and
-disadvantage on a check, even from ]{.c0}[multiple sources,]{.c6}[ the
-two cancel each other out and the check is rolled as normal.]{.c2 .c0}
+Certain situations may make it more or less likely for a character to succeed at
+an action. In cases where the character has a greater chance to succeed, this is
+called **advantage **(abbreviated **AD**), and in cases where the character has
+a smaller chance to succeed, this is called **disadvantage** (abbreviated
+**DA**). When making a check with advantage, results of 4 add one hit to the
+total, whereas normally they have no effect. When making a check with
+disadvantage, results of 5 have no effect, whereas normally they score one hit.
+If a character would be granted advantage or disadvantage from multiple sources,
+its effects are only applied once\--there is no such thing as "super
+advantage!" If a character has both advantage and disadvantage on a check, even
+from **multiple sources,** the two cancel each other out and the check is rolled
+as normal.
 
 Luck
 ----
 
-[Characters have a number of luck points (LP) equal to their AGI+3. When
-a character makes a check and dislikes the result, they may choose to
-spend a luck point to do one of the following actions:]{.c2 .c0}
+Characters have a number of luck points (LP) equal to their AGI+3. When a
+character makes a check and dislikes the result, they may choose to spend a luck
+point to do one of the following actions:
 
--   [Automatically add two hits to the result of the check]{.c2 .c0}
--   [Re-roll any dice of the player's choosing in the check and use the
-    new result]{.c2 .c0}
 
-[Only one luck point may be spent on any given check; for instance, a
+* Automatically add two hits to the result of the check
+* Re-roll any dice of the player's choosing in the check and use the new result
+
+Only one luck point may be spent on any given check; for instance, a
 character could not spend two luck points to add four hits to a check.
 Likewise, if a player chooses to reroll some dice from their check, they
 must use the new result and cannot use a second luck point to reroll
-again. Characters regain one used luck point ]{.c0}[when taking a rest,
+again. Characters regain one used luck point when taking a rest,
 and restore all of their available luck points upon achieving a
-milestone.]{.c6}
+milestone.
 
--   [NOTE: ]{.c6 .c7 .c13}[Cybered characters who activate a piece of
-    ]{.c0}[CyberWare]{.c6}[ (and therefore add dice to their pool)
-    ]{.c0}[are able to]{.c6}[ reroll ALL of their dice when spending LP,
-    including their added dice from their
-    ]{.c0}[CyberWare]{.c6}[ activation.]{.c2 .c0}
+
+> NOTE: 
+Cybered characters who activate a piece of **CyberWare** (and therefore add dice to their pool) **are able to** reroll ALL of their dice when spending LP,
+including their added dice from their **CyberWare** activation
 
 
 Attributes
 ----------
 
-[All characters have four basic attributes: Fortitude (FORT), Agility
+All characters have four basic attributes: Fortitude (FORT), Agility
 (AGI), Intellect (INT), and Personality (PERS). Character scores in
-these attributes can range from 1-6; however, as a ]{.c0}[starting
-character]{.c6 .c7}[ no attribute may begin play above rank 4. Details
-on the attributes are below.]{.c2 .c0}
+these attributes can range from 1-6; however, as a starting
+character no attribute may begin play above rank 4. Details
+on the attributes are below.
 
--   [Fortitude (FORT)]{.c6 .c7 .c13}[ represents a character's strength,
-    toughness, and stamina. FORT is important for the Athletics,
-    Endurance, and Melee skills. It is also a factor in melee damage,
-    calculating ma]{.c0}[ximum pieces of]{.c6}[ ]{.c0}[CyberWare]{.c6}[,
-    body and stun durability, actions per round, and physical
-    defense.]{.c2 .c0}
 
-```{=html}
-<!-- -->
-```
--   [Expertise Perks: ]{.c1}
+### Fortitude (FORT)
+ represents a character's strength,
+toughness, and stamina. FORT is important for the Athletics,
+Endurance, and Melee skills. It is also a factor in melee damage,
+calculating ma**ximum pieces of** **CyberWare**,
+body and stun durability, actions per round, and physical
+defense.
 
-```{=html}
-<!-- -->
-```
--   [When FORT is referenced as part of a check for skills  (for
-    example, when rolling damage for the Melee skill), this perk allows
-    the character to use 2x their FORT score, rather than just their
-    FORT score. So a character with this Expertise Perk and a FORT score
-    of 4 would add 8 to damage from the Melee skill rather than 4.]{.c2
-    .c0}
+
+#### Expertise Perks:
+-   When FORT is referenced as part of a check for skills  (for
+example, when rolling damage for the Melee skill), this perk allows
+the character to use 2x their FORT score, rather than just their
+FORT score. So a character with this Expertise Perk and a FORT score
+of 4 would add 8 to damage from the Melee skill rather than 4.
+   
 -   
 
+### Agility (AGI) 
+represents a character's quickness,
+balance, and speed. AGI is important for the Acrobatics, Ranged,
+Stealth, Thievery, and Vehicles skills. It is also used to calculate
+luck points, initiative order, and physical defense.
 
 
--   [Agility (AGI) ]{.c6 .c7 .c13}[represents a character's quickness,
-    balance, and speed. AGI is important for the Acrobatics, Ranged,
-    Stealth, Thievery, and Vehicles skills. It is also used to calculate
-    luck points, initiative order, and physical defense.]{.c2 .c0}
-
-```{=html}
-<!-- -->
-```
--   [Expertise Perks:]{.c1}
-
-```{=html}
-<!-- -->
-```
--   [When AGI is used to add to a roll as part of a skill check (for
-    example, when rolling ranged damage), this perk allows the character
-    to use 2x their AGI score, rather than just their AGI score. So a
-    character with this Expertise Perk and an AGI score of 4 would add 8
-    to Ranged damage.]{.c6}
+#### Expertise Perks:
+-   When AGI is used to add to a roll as part of a skill check (for
+example, when rolling ranged damage), this perk allows the character
+to use 2x their AGI score, rather than just their AGI score. So a
+character with this Expertise Perk and an AGI score of 4 would add 8
+to Ranged damage.
 
 
+### Intellect (INT) 
+represents a character's knowledge,
+adaptability, and rational thinking. INT is important for the
+Bureaucracy, Computers, Deduce, **Humanities**, Medicine,
+Outdoors, Science, Search, Tactics, and Technology skills. It is
+also important for calculating beginning XP, initiative order, some
+psionic** skills**, and mental defense.**
 
--   [Intellect (INT) ]{.c6 .c7 .c13}[represents a character's knowledge,
-    adaptability, and rational thinking. INT is important for the
-    Bureaucracy, Computers, Deduce, ]{.c0}[Humanities]{.c6}[, Medicine,
-    Outdoors, Science, Search, Tactics, and Technology skills. It is
-    also important for calculating beginning XP, initiative order, some
-    psionic]{.c0}[ skills]{.c6}[, and mental defense.]{.c2 .c0}
+#### Expertise Perks:
 
-```{=html}
-<!-- -->
-```
--   [Expertise Perks:]{.c1}
+- Linguist:The character knows an additional 2 languages
+    (this perk may be taken more than once).
 
-```{=html}
-<!-- -->
-```
--   [Linguist: ]{.c6 .c7}[The character knows an additional 2 languages
-    (this perk may be taken more than once).]{.c2 .c0}
-
-
-
--   [Personality (PERS)]{.c6 .c7 .c13}[ represents a character's
-    willpower, sanity, and charisma. PERS is important for the Animals,
-    Charm, Deception, Occult, Resolve, and Streetwise skills. It factors
-    into a character's mental defense, actions per round]{.c0}[,
-    some]{.c6}[ psionic]{.c0}[ skills]{.c6}[, and stun durability.]{.c2
-    .c0}
-
-```{=html}
-<!-- -->
-```
--   [Expertise Perks:]{.c1}
+### Personality (PERS)
+represents a character's
+willpower, sanity, and charisma. PERS is important for the Animals,
+Charm, Deception, Occult, Resolve, and Streetwise skills. It factors
+into a character's mental defense, actions per round,
+some **psionic** skills, and stun durability.
+   
+#### Expertise Perks:
 
 Optional Attributes
 -------------------
 
-[Additionally, all characters have two optional attributes: Cyberware
+Additionally, all characters have two optional attributes: Cyberware
 (CYB) and Psionics (PSI). A player may choose to acquire ranks in PSI or
 CYB or both (or neither), whether at character creation or later as the
 character gains XP. Both PSI and CYB may be increased in rank from 1-6;
-however, if a character has ranks in both PSI and CYB, the]{.c0}[ sum of
-those two cannot exceed 6]{.c6 .c7}[. For instance, a character choosing
-to specialize in ]{.c0}[CyberWare]{.c6}[ may have a CYB score of 6, but
+however, if a character has ranks in both PSI and CYB, the sum of
+those two cannot exceed 6. For instance, a character choosing
+to specialize in **CyberWare** may have a CYB score of 6, but
 that same character would then be prohibited from acquiring any psionic
 abilities whatsoever. Specific details on the optional attributes are
-described later ]{.c0}[in the Psionics and CyberWare sections,
-respectively]{.c6}[.]{.c2 .c0}
+described later in the Psionics and CyberWare sections,
+respectively.
 
 Defenses
 --------
 
-[Characters have two defenses that are checked when they are attacked by
-enemies or by the environment: physical defense (]{.c0}[PD]{.c6 .c7
-.c13}[) and mental defense (]{.c0}[MD]{.c6 .c7 .c13}[). A character
+Characters have two defenses that are checked when they are attacked by
+enemies or by the environment: physical defense (**PD**
+**) and mental defense (**MD**). A character
 checks their physical defense when an enemy targets their body (such as
-with a ]{.c0}[M]{.c6}[elee or ]{.c0}[R]{.c6}[anged attack). A character
+with a Melee or Ranged attack). A character
 checks their mental defense when an enemy targets their willpower or
-sanity (such as with Deception or certain psionic attacks). Both
-physical and mental defense range from 2-12 dice (FORT+AGI for physical
+sanity (such as with Deception or certain psionic attacks). 
+
+Bothphysical and mental defense range from 2-12 dice (FORT+AGI for physical
 defense and INT+PERS for mental defense). When a check is necessary, the
 character rolls the appropriate defense and calculates levels of success
 as normal. The result (Failure, Ordinary, Good, or Amazing) dictates the
-effect of the attack on the character.]{.c2 .c0}
+effect of the attack on the character.
 
--   [Marginal/Failure = ]{.c6 .c7}[The character suffers the negative
-    effects of the attack, and also suffers an additional setback from
-    the attack. Examples might include rolling DA on their next check,
-    or else amplifying the negative effects of the attack by an
-    additional 33%. The additional setback should be story-driven and
-    should be collaboratively decided between the player and GM.]{.c2
-    .c0}
--   [Ordinary = ]{.c6 .c7}[The character suffers the negative effects of
-    the attack, but no further setback.]{.c2 .c0}
--   [Good = ]{.c6 .c7}[The character does not suffer any negative
-    effects from the attack.]{.c2 .c0}
--   [Amazing = ]{.c6 .c7}[The character does not suffer any negative
-    effects from the attack. Additionally, the character may roll their
-    next check with AD ]{.c6}[or]{.c6 .c7}[ may negate the next reaction
-    taken by the GM (player chooses).]{.c2 .c0}
+
+### Marginal/Failure
+The character suffers the negative
+effects of the attack, and also suffers an additional setback from
+the attack. Examples might include rolling DA on their next check,
+or else amplifying the negative effects of the attack by an
+additional 33%. The additional setback should be story-driven and
+should be collaboratively decided between the player and GM.
+   
+
+### Ordinary
+The character suffers the negative effects of
+the attack, but no further setback.
+
+### Good 
+The character does not suffer any negative
+effects from the attack.
+
+### Amazing
+The character does not suffer any negative
+effects from the attack. Additionally, the character may roll their
+next check with AD *or* may negate the next reaction
+taken by the GM (player chooses).
 
 Initiative & Actions
 --------------------
 
-[Combat encounters are divided into "rounds." Each round in combat is
-equal to ]{.c0}[20]{.c6}[ seconds in game time; therefore,
-]{.c0}[3]{.c6}[ rounds equal 1 minute. Furthermore, each round of 20
-seconds is divided into ]{.c0}[four]{.c6}[ "phases," each lasting
-]{.c0}[5]{.c6}[ seconds. The ]{.c0}[four]{.c6}[ phases in each round
+Combat encounters are divided into "rounds." Each round in combat is
+equal to **20** seconds in game time; therefore,
+3 rounds equal 1 minute. Furthermore, each round of 20
+seconds is divided into **four** "phases," each lasting
+5** seconds. The **four** phases in each round
 relate to one of the degrees of success; in order, the Amazing, Good,
-Ordinary, and Margina]{.c0}[l degrees]{.c6}[. In cases where it is
+Ordinary, and Margina**l degrees**. In cases where it is
 important to know who acts first, such as in a combat, characters roll
-an initiative (]{.c0}[INIT]{.c6 .c7 .c13}[) check. Initiative ranges
-from 2-12 dice, and is calculated by ]{.c0}[AGI+INT]{.c6 .c7}[. When a
+an initiative (**INIT**) check. Initiative ranges
+from 2-12 dice, and is calculated by **AGI+INT**. When a
 check is necessary, the character rolls initiative and calculates levels
 of success as normal. The result (Amazing, Good, Ordinary, or Marginal)
-]{.c0}[dictates the phase]{.c6}[ in which characters may make their
-actions. ]{.c2 .c0}
+**dictates the phase** in which characters may make their
+actions. 
 
-[When combat begins, all characters involved roll INIT. The result of
-that check (Amazing, Good,]{.c0}[ Ordinary, or Marginal]{.c6}[)
+When combat begins, all characters involved roll INIT. The result of
+that check (Amazing, Good, Ordinary, or Marginal)
 determines the phase in which that character can first act. Thereafter,
 characters may make an action in any subsequent phase (provided they
 have actions available). So, if a character rolls a Good result on
-th]{.c0}[eir initiative check]{.c6}[, they cannot act in the Amazing
+their initiative check, they cannot act in the Amazing
 phase (which comes first), but can take an action when the Good phase
-comes up. Since there are only ]{.c0}[four]{.c6}[ phases per combat
+comes up. Since there are only **four** phases per combat
 round, it is likely that multiple characters (and enemies) will act in
 the same phase. All actions in a phase are considered to occur
 simultaneously, with the effects of those actions taking effect at the
 end of the phase. So, if a character and an enemy NPC both successfully
 attack each other in the Ordinary phase, both receive damage at the end
-of th]{.c0}[at]{.c6}[ phase but before the start of the Marginal phase.
-]{.c2 .c0}
+of **that** phase but before the start of the Marginal phase.
 
 
-
-[In all combat phases, a character ]{.c0}[may]{.c6}[ move and attempt an
-action. Some mo]{.c0}[des of movement (running, jumping, etc.) can
-impose disadvantage on various checks. ]{.c6}[A character can make as
+In all combat phases, a character **may** move and attempt an
+action. Some modes of movement (running, jumping, etc.) can
+impose disadvantage on various checks. A character can make as
 many actions per round as they have actions available (see Actions per
 Round). So, if a character has two actions per round and rolls a Good
 result on their INIT check, they can begin to take actions beginning in
 the Good phase. Thereafter, the second action could be taken in the
-Ordinary phase or the Marginal phase (]{.c0}[player choice)]{.c6}[. That
-equates to (as an example):]{.c2 .c0}
+Ordinary phase or the Marginal phase (**player choice)**. That
+equates to (as an example):
 
 
+> One action in each the Good and Ordinary phases
+> -   One action in each the Good and Marginal phases (delaying the second action)
+> -   One action in each the Ordinary and Marginal phases (delaying both actions)
 
--   [One action in each the Good and Ordinary phases]{.c0}
--   [One action in each the Good and Marginal phases (delaying the
-    second action)]{.c0}
--   [One action in each the Ordinary and Marginal phases (delaying both
-    actions)]{.c0}
-
-
-
-[Note that if a character first acts in the Marginal phase (the last
+Note that if a character first acts in the Marginal phase (the last
 combat phase), they can only take one action that round. This may mean
 that characters lose actions because they didn't act quickly enough. At
 the end of the Marginal phase (and therefore the combat round), all
 participating combatants re-roll their INIT and the next round begins
-with the Amazing phase. ]{.c2 .c0}
+with the Amazing phase. 
 
 
 
-[Some situations, skills, and CyberWare can grant characters a Surprise
+Some situations, skills, and CyberWare can grant characters a Surprise
 round. A Surprise round in combat is granted due to superior
 positioning, preparation, and/or guile. A Surprise round occurs before
 the Amazing round in a combat scene. Each character and NPC
@@ -339,322 +308,231 @@ participating in a Surprise round can move and take one action as
 normal, but those actions are rolled with advantage against all who do
 not act. A character acting in a Surprise round against an NPC also
 acting in the Surprise round would gain the extra movement and action,
-but would not roll that action with advantage. ]{.c2 .c0}
+but would not roll that action with advantage. 
 
 
 Skills
 ------
 
-[Nearly everything characters can do in ]{.c0}[Teleios]{.c6}[ is
-represented by skills. Each skill is tied to one of the four basic
-attributes and can have a rank of 0 (untrained) to 6. ]{.c0}[A beginning
-character cannot have a skill with a rank higher than 4.]{.c6 .c7}[ When
+**Nearly everything characters can do in *Teleios* is
+represented by skills.** Each skill is tied to one of the four basic
+attributes and can have a rank of 0 (untrained) to 6. A beginning
+character cannot have a skill with a rank higher than 4. When
 making a skill check, the character adds the number of ranks in the
 selected skill (between 0 and 6) with their rank in the linked attribute
 (between 1 and 6) and rolls that many dice for the check. As an example,
 a character who makes a Ranged check adds their ranks in the Ranged
 skill with their ranks in AGI (the linked attribute). Note that this
-same basic system is used for psionic powers, w]{.c0}[ith a couple of
-notable changes (see Psionics below).]{.c6}
+same basic system is used for psionic powers, with a couple of
+notable changes (see Psionics below).
 
-Untrained
----------
+### Untrained
 
-[When a character has 0 ranks in a skill or psionic power, they are
-considered to be ]{.c0}[untrained]{.c6 .c7}[. In some cases a character
+When a character has 0 ranks in a skill or psionic power, they are
+considered to be **untrained**. In some cases a character
 may not use a skill untrained (as in the case of psionic powers). In all
-other cases, ]{.c0}[using a skill untrained imposes disadvantage]{.c6
-.c7}[ on the skill check.]{.c2 .c0}
+other cases, **using a skill untrained imposes disadvantage on the skill check.**
 
 Perks
 -----
 
-[Perks are special, unique abilities associated with skills, psionic
+Perks are special, unique abilities associated with skills, psionic
 powers, and attributes that players can tailor to their character
 concept and style of play (pending GM approval). There are
-t]{.c0}[wo]{.c6}[ levels of perks: training
-perks]{.c0}[ and]{.c6}[ expertise perks.]{.c2 .c0}
+**two** levels of perks: **training perks** and **expertise perks.**
 
-Training Perks
---------------
+### Training Perks
 
-[Training perks only apply to skills. When a character is trained (has
+Training perks only apply to skills. When a character is trained (has
 at least one rank) in a skill, they have the opportunity to purchase
-training perks. Training perks are]{.c0}[ ]{.c6}[not very powerful, but
+training perks. Training perks are not very powerful, but
 they should incentivize and encourage creative playing. Training perks
 must be purchased at the cost of one XP each, and some players may
 choose to spend XP elsewhere rather than specialize on training perks. A
-character ]{.c0}[is not limited to the number of training perks they
+character is not limited to the number of training perks they
 purchase, but a player cannot obtain multiple training perks that grant
-the same benefit for the same skill]{.c6}[. Each training perk should be
+the same benefit for the same skill. Each training perk should be
 unique, and should be collaboratively decided between the player and the
-GM, but generally speaking, training perks can do the following:]{.c2
-.c0}
+GM, but generally speaking, training perks can do the following:
 
--   [Specialization: ]{.c6 .c7 .c13}[Provide advantage on skill checks
-    in certain situations.]{.c2 .c0}
 
-```{=html}
-<!-- -->
-```
--   [Example:]{.c6 .c7 .c13}[ A character gains a perk in Melee that
-    gives them advantage to attacking an enemy who is currently
-    ]{.c0}[fighting]{.c6}[ with at least one other ally.]{.c2 .c0}
--   [Example:]{.c6 .c7 .c13}[ A character gains a perk in
-    ]{.c0}[Humanities]{.c6}[ that gives them advantage on checks dealing
-    with native Mesoamerican tribes.]{.c2 .c0}
--   [Example:]{.c6 .c7 .c13}[ A character gains a perk in Search that
-    gives them advantage when using the skill ]{.c0}[in desert
-    environments]{.c6}[.]{.c0}
+#### Specialization: 
+Provide advantage on skill checks in certain situations.
 
-```{=html}
-<!-- -->
-```
--   [Contacts: ]{.c6 .c7 .c13}[Give the character beneficial contacts in
-    the world. ]{.c0}[In some cases the contact can provide shelter,
-    information, or other resources to benefit the character. The use of
-    a contact should be limited to once per milestone, or as the story
-    dictates.]{.c6}
 
-```{=html}
-<!-- -->
-```
--   [Example: ]{.c6 .c7 .c13}[A character gains a perk in Ranged that
-    gives them a beneficial contact in a military or police force
-    (perhaps as a shooting range instructor) that can provide aid and
-    assistance to the character as the plot of the campaign dictates,
-    and assuming the character is able to communicate with their
-    contact. ]{.c2 .c0}
+> Example A character gains a perk in Melee that gives them advantage to
+ attacking an enemy who is currently **fighting** with at least one other
+ally.**
 
-```{=html}
-<!-- -->
-```
--   [Gear: ]{.c6 .c7 .c13}[Acquire gear associated with that particular
-    skill, or improve gear once acquired.]{.c2 .c0}
+> Example: A character gains a perk in **Humanities** that gives them advantage
+ on checks dealing with native Mesoamerican tribes.
 
-```{=html}
-<!-- -->
-```
--   [Example: ]{.c6 .c7 .c13}[A character gains a perk in the Computers
-    skill and acquires a personal computer as described in the "Gear"
-    section.]{.c2 .c0}
--   [Example:]{.c6 .c7 .c13}[ A character gains a perk in Medicine, and
-    so they improve an already-purchased medkit, ]{.c0}[and ]{.c6}[no
-    longer roll DA when using the medkit to heal damage on
-    the]{.c0}[mselves, as per normal]{.c6}[. (Note that in order to
-    improve gear, the character must have already purchased an earlier
-    perk to acquire it.)]{.c2 .c0}
+> Example: A character gains a perk in Search that gives them advantage when
+ using the skill in desert environments.
 
-Expertise Perks
----------------
 
-[As a character grows and becomes better in their
-]{.c0}[talents]{.c6}[ they become "experts." ]{.c0}[Once a character
-reaches]{.c6}[ rank 4 in a skill]{.c0}[, ]{.c6}[psionic power, or
-attribute ]{.c0}[they]{.c6}[ ]{.c0}[may then purchase ]{.c6}[expertise
-perks for 1XP each. ]{.c0}[However, ]{.c6}[a character can only have one
-expertise perk for each rank between 4 and 6]{.c6 .c7}[. In other words,
-a character with a rank of 5 in Deception could have up to 2 expertise
-perks (one each for rank 4 and rank 5), but they could not have a third
-expertise perk until attaining rank 6 in that skill. Of course, that
-same character with a rank 5 in Deception could choose to have no
-expertise perks in that skill\--they are optional just as training
-perks. This also means that no skill, psionic power, or attribute may
-have more than three expertise perks. ]{.c6}[Expertise perks are listed
-for all skills, powers, and attributes, but ]{.c0}[other
-options]{.c6}[ ]{.c0}[c]{.c6}[ould be collaboratively created between
-the player and the GM if none of the listed perks suit your
-character]{.c0}['s style of play]{.c6}[. ]{.c0}[Characters who choose to
-retrain an expertise perk for another would still need to spend 1 XP in
-order to do so.]{.c6}
+#### Contacts: 
+Give the character beneficial contacts in the world. In some cases the contact
+can provide shelter, information, or other resources to benefit the character.
+The use of a contact should be limited to once per milestone, or as the story
+dictates.
+
+
+> Example: A character gains a perk in Ranged that gives them a beneficial
+contact in a military or police force (perhaps as a shooting range instructor)
+that can provide aid and assistance to the character as the plot of the campaign
+dictates, and assuming the character is able to communicate with their contact. 
+
+
+#### Gear: 
+Acquire gear associated with that particular
+skill, or improve gear once acquired.
+
+
+> Example: A character gains a perk in the Computers skill and acquires a
+personal computer as described in the "Gear" section.
+
+> Example: A character gains a perk in Medicine, and so they improve an
+ already-purchased medkit, **and **no longer roll DA when using the medkit to
+heal damage on the**mselves, as per normal**. (Note that in order to improve
+gear, the character must have already purchased an earlier perk to acquire it.)
+
+### Expertise Perks
+
+As a character grows and becomes better in their **talents** they become
+"experts." **Once a character reaches rank 4 in a skill**, **psionic power**, or
+**attribute** they may then purchase **expertise perks for 1XP each.** However,
+**a character can only have one expertise perk for each rank between 4 and 6**.
+In other words, a character with a rank of 5 in Deception could have up to 2
+expertise perks (one each for rank 4 and rank 5), but they could not have a
+third expertise perk until attaining rank 6 in that skill. Of course, that same
+character with a rank 5 in Deception could choose to have no expertise perks in
+that skill\--they are optional just as training perks. This also means that no
+skill, psionic power, or attribute may have more than three expertise perks.
+Expertise perks are listed for all skills, powers, and attributes, but other
+options could be collaboratively created between the player and the GM if none
+of the listed perks suit your character**'s style of play**. **Characters who
+choose to retrain an expertise perk for another would still need to spend 1 XP
+in order to do so.
 
 Resting
 -------
 
-[During the course of play, characters will want to (and need to) take a
-break from the action in order to restore lost durability, psychovolts,
-and batteries. In game terms, these characters "rest" from their
-activities. In order to rest, characters need to declare that they are
-resting. Doing so means that the characters spend the next six hours of
-game-time sleeping, relaxing, meditating, or otherwise not performing
-arduous tasks. While resting, characters can attempt to use skills and
-powers to recover lost durability, batteries, and psychovolts; more
-detail on recovery is provided in the following sections. Additionally,
-all characters automatically restore one Luck Point when resting, not to
-exceed their maximums. In some cases (GM discretion) it may not be
-possible for characters to rest. For example, if the characters are
-sneaking their way into a hostile organization's secret military base, a
-rest in the middle of that scene would not be appropriate. Resting is
-not without consequence; whenever characters rest, the GM is able to
-advance the plot without the characters' interference. This may mean
-(for instance) that an enemy gets closer to their goal while the
-characters rested, or that an upcoming task will be more difficult for
-the characters due to their dalliance. This evens the odds, since the
-characters will be stronger, but so will their opposition.]{.c2 .c0}
+During the course of play, characters will want to (and need to) take a break
+from the action in order to restore lost durability, psychovolts, and batteries.
+In game terms, these characters "rest" from their activities. In order to rest,
+characters need to declare that they are resting. Doing so means that the
+characters spend the next six hours of game-time sleeping, relaxing, meditating,
+or otherwise not performing arduous tasks. While resting, characters can attempt
+to use skills and powers to recover lost durability, batteries, and psychovolts;
+more detail on recovery is provided in the following sections. Additionally, all
+characters automatically restore one Luck Point when resting, not to exceed
+their maximums. In some cases (GM discretion) it may not be possible for
+characters to rest. For example, if the characters are sneaking their way into a
+hostile organization's secret military base, a rest in the middle of that scene
+would not be appropriate. Resting is not without consequence; whenever
+characters rest, the GM is able to advance the plot without the characters'
+interference. This may mean (for instance) that an enemy gets closer to their
+goal while the characters rested, or that an upcoming task will be more
+difficult for the characters due to their dalliance. This evens the odds, since
+the characters will be stronger, but so will their opposition.
 
 ### Quick Reference when Resting
-+-------------------------------+-----------------------------------+
-| [Luck Points]{.c1}            | -   [Automatically restore 1 Luck |
-|                               |     Point, if able]{.c2 .c0}      |
-+-------------------------------+-----------------------------------+
-| [Stun Durability]{.c1}        | -   [Automatically restore all    |
-|                               |     STUN durability]{.c2 .c0}     |
-+-------------------------------+-----------------------------------+
-| [Endurance (1x)]{.c1}         | -   [Success: Restore 1 BODY      |
-|                               |     durability in self]{.c2 .c0}  |
-+-------------------------------+-----------------------------------+
-| [Medicine (1x)]{.c1}          | -   [Success: Restore 1d3 BODY    |
-|                               |     durability (or 1d6 with a     |
-|                               |     medical kit) in self or other |
-|                               |     (all characters)]{.c2 .c0}    |
-+-------------------------------+-----------------------------------+
-| [Resolve (1x)]{.c1}           | -   [Success: Restore 3           |
-|                               |     psychovolts to self (psionic  |
-|                               |     characters only)]{.c2 .c0}    |
-+-------------------------------+-----------------------------------+
-| [Technology (1x)]{.c1}        | -   [Success: Repair one broken   |
-|                               |     item or piece of              |
-|                               |     CyberWare]{.c2 .c0}           |
-|                               | -   [Success: Restore 3 batteries |
-|                               |     to self (cybered characters   |
-|                               |     only)]{.c2 .c0}               |
-+-------------------------------+-----------------------------------+
+Skill|Effect
+:---------------------:|---------------------------------------------------------
+| **Luck Points**     | Automatically restore 1 Luck Point, if able
+| **Stun Durability** |Automatically restore all STUN durability 
+| **Endurance (1x)**  | Success: Restore 1 BODY durability in self 
+| **Medicine (1x)**   | Success: Restore 1d3 BODY durability (or 1d6 with a medical kit) in self or other (all characters)    
+| **Resolve (1x)**     | Success: Restore 3 psychovolts to self (psionic  characters only)    
+| **Technology (1x)**  | Success: Repair one broken item or piece of CyberWare   
+|                      | Success: Restore 3 batteries to self (cybered characters only)               
 
 Milestones
 ----------
 
-[Since the Teleios game system is a story-driven system, there will come
+Since the Teleios game system is a story-driven system, there will come
 various times when the characters will resolve certain plotlines, or
 will otherwise move the direction of the story to new areas. Such
-occurrences are called ]{.c6}[milestones]{.c6 .c7}[. The GM decides when
+occurrences are called **milestones**. The GM decides when
 the characters have achieved a milestone. At each milestone, all lost
 durability, luck, psychovolts, and batteries are restored. If characters
 possess Gear which "recharges" at each milestone, then those do so.
 Additionally, it is recommended that the GM award characters between 1-3
-XP which aligns to the significance of the milestone. ]{.c2 .c0}
+XP which aligns to the significance of the milestone. 
 
 Durability & Damage
 --------------------
 
-[Characters have two stats which represent their health and
-well-being:]{.c2 .c0}
-
--   [Body (BODY) Durability:]{.c6 .c7 .c13}[ This represents
-    (relatively) permanent physical harm to a character. Damage to
-    B]{.c0}[ODY durability generally occurs when a character is
-    physically attacked by another, or when the character suffers pain
-    as a result of environmental factors (accidents, heat, cold, etc.).
-    All BODY durability are restored at each milestone, but restoring
-    BODY during a rest requires the use of other skills and powers.
-    ]{.c6}[When a character's BODY drops to 0, they die.]{.c2 .c0}
-
-```{=html}
-<!-- -->
-```
--   [A character's Body Durability is equal to their (FORTx3)+12]{.c2
-    .c0}
+Characters have two stats which represent their health and
+well-being:
 
 
+### Body (BODY) Durability:
+ This represents (relatively) permanent physical harm to a character. Damage to
+    BODY durability generally occurs when a character is physically attacked by
+another, or when the character suffers pain as a result of environmental factors
+(accidents, heat, cold, etc.). All BODY durability are restored at each
+milestone, but restoring BODY during a rest requires the use of other skills and
+powers. 
+
+**When a character's BODY drops to 0, they die.**
 
 
+#### A character's Body Durability is equal to their (FORTx3)+12
+FORT Score | BODY Durability
+-----------|----------------
+  1        | **15**
+  2        | **18**
+  3        | **21**
+  4        | **24**
+  5        | **27**
+  6        | **30**
 
-  ------------------- ------------------------
-  [FORT Score]{.c1}   [BODY Durability]{.c1}
-  [1]{.c2 .c0}        [15]{.c2 .c0}
-  [2]{.c2 .c0}        [18]{.c2 .c0}
-  [3]{.c2 .c0}        [21]{.c2 .c0}
-  [4]{.c2 .c0}        [24]{.c2 .c0}
-  [5]{.c2 .c0}        [27]{.c2 .c0}
-  [6]{.c2 .c0}        [30]{.c2 .c0}
-  ------------------- ------------------------
+### Stun (STUN) Durability : 
+This represents a character's physical and mental strain and exhaustion. Damage
+to STUN durability occurs as a result of physical attacks and the environment.
+STUN damage can also happen as a result of shock, exhaustion, horror, or some
+psionic effects. STUN damage is fleeting; during a rest, all STUN points are
+automatically restored. When a character's STUN drops to 0, they fall
+unconscious.
 
+#### A character's Stun Durability is equal to their ((FORT+PERS)x3)+12
 
-
--   [Stun (STUN) Durability : ]{.c6 .c7 .c13}[This represents a
-    character's physical and mental strain and exhaustion. ]{.c0}[Damage
-    to STUN durability occurs as a result of physical attacks and the
-    environment. STUN damage can also happen as a result of shock,
-    exhaustion, horror, or some psionic effects. STUN damage is
-    fleeting; during a rest, all STUN points are automatically restored.
-    ]{.c6}[When a character's STUN drops to 0, they fall
-    unconscious.]{.c2 .c0}
-
-```{=html}
-<!-- -->
-```
--   [A character's Stun Durability is equal to their
-    ((FORT+PERS)x3)+12]{.c0}
-
-
-
-
-
-+--------+--------+--------+--------+--------+--------+--------+--------+
-| [      |        | [FORT  |        |        |        |        |        |
-| ]{.c1} |        | Score  |        |        |        |        |        |
-|        |        | ]{.c1} |        |        |        |        |        |
-| [STUN  |        |        |        |        |        |        |        |
-| Dura   |        |        |        |        |        |        |        |
-| bility |        |        |        |        |        |        |        |
-| ]{.c1} |        |        |        |        |        |        |        |
-+--------+--------+--------+--------+--------+--------+--------+--------+
-|        |        | [1     | [2     | [3     | [4     | [5     | [6     |
-|        |        | ]{.c1} | ]{.c1} | ]{.c1} | ]{.c1} | ]{.c1} | ]{.c1} |
-+--------+--------+--------+--------+--------+--------+--------+--------+
-| [PERS  | [1     | [1     | [2     | [2     | [2     | [3     | [3     |
-| Score  | ]{.c1} | 8]{.c2 | 1]{.c2 | 4]{.c2 | 7]{.c2 | 0]{.c2 | 3]{.c2 |
-| ]{.c1} |        | .c0}   | .c0}   | .c0}   | .c0}   | .c0}   | .c0}   |
-+--------+--------+--------+--------+--------+--------+--------+--------+
-|        | [2     | [2     | [2     | [2     | [3     | [3     | [3     |
-|        | ]{.c1} | 1]{.c2 | 4]{.c2 | 7]{.c2 | 0]{.c2 | 3]{.c2 | 6]{.c2 |
-|        |        | .c0}   | .c0}   | .c0}   | .c0}   | .c0}   | .c0}   |
-+--------+--------+--------+--------+--------+--------+--------+--------+
-|        | [3     | [2     | [2     | [3     | [3     | [3     | [3     |
-|        | ]{.c1} | 4]{.c2 | 7]{.c2 | 0]{.c2 | 3]{.c2 | 6]{.c2 | 9]{.c2 |
-|        |        | .c0}   | .c0}   | .c0}   | .c0}   | .c0}   | .c0}   |
-+--------+--------+--------+--------+--------+--------+--------+--------+
-|        | [4     | [2     | [3     | [3     | [3     | [3     | [4     |
-|        | ]{.c1} | 7]{.c2 | 0]{.c2 | 3]{.c2 | 6]{.c2 | 9]{.c2 | 2]{.c2 |
-|        |        | .c0}   | .c0}   | .c0}   | .c0}   | .c0}   | .c0}   |
-+--------+--------+--------+--------+--------+--------+--------+--------+
-|        | [5     | [3     | [3     | [3     | [3     | [4     | [4     |
-|        | ]{.c1} | 0]{.c2 | 3]{.c2 | 6]{.c2 | 9]{.c2 | 2]{.c2 | 5]{.c2 |
-|        |        | .c0}   | .c0}   | .c0}   | .c0}   | .c0}   | .c0}   |
-+--------+--------+--------+--------+--------+--------+--------+--------+
-|        | [6     | [3     | [3     | [3     | [4     | [4     | [4     |
-|        | ]{.c1} | 3]{.c2 | 6]{.c2 | 9]{.c2 | 2]{.c2 | 5]{.c2 | 8]{.c2 |
-|        |        | .c0}   | .c0}   | .c0}   | .c0}   | .c0}   | .c0}   |
-+--------+--------+--------+--------+--------+--------+--------+--------+
-
-
+FORT/PERS|1|2|3|4|5
+-|-|-|-|-|-
+1|18|21|24|27|30
+2|21|24|27|30|33
+3|24|27|30|33|36
+4|27|30|33|36|39
+5|30|33|36|39|42
 
 ### Damage Types
+In the course of a campaign it is likely that characters take damage.
+There are four damage types:
 
+#### Low-Impact (LI) Damage:
+This is damage caused by things such as melee attacks and other
+**subsonic** projectiles. Armor is generally effective at blocking this type of
+damage.
 
-[In the course of a campaign it is likely that characters take damage.
-There are four damage types:]{.c2 .c0}
+#### High-Impact (HI) Damage:
+This is damage caused by high-velocity projectiles, such as ranged weapon
+attacks and explosions. Armor is less-effective at blocking HI damage, but it is
+better than nothing.
 
--   [Low-Impact (LI) Damage: ]{.c6 .c7 .c13}[This is damage caused by
-    things such as melee attacks and other
-    ]{.c0}[subsonic]{.c6}[ projectiles. Armor is generally effective at
-    blocking this type of damage.]{.c2 .c0}
--   [High-Impact (HI) Damage:]{.c6 .c7 .c13}[ This is damage caused by
-    high-velocity projectiles, such as ranged weapon attacks and
-    explosions. Armor is less-effective at blocking HI damage, but it is
-    better than nothing.]{.c2 .c0}
--   [Energy (EN) Damage: ]{.c6 .c7 .c13}[This is damage caused by varied
-    forms of energy, like fire, electricity, extreme cold,
-    psion]{.c0}[ic energy, ]{.c6}[etc. Armor is generally effective at
-    blocking this damage, but ce]{.c0}[rtain types of energy may be more
-    or less harmful to your character, depending on different
-    situations]{.c6}[.]{.c2 .c0}
--   [Mental (ME) Damage: ]{.c6 .c7 .c13}[This is damage caused by some
-    psionic powers and mental strain as dictated by the GM. No type of
-    armor or shield can block ME damage.]{.c2 .c0}
+#### Energy (EN) Damage:
+This is damage caused by varied forms of energy, like fire, electricity, extreme
+cold, psionic energy, etc. Armor is generally effective at blocking this damage,
+but certain types of energy may be more or less harmful to your character,
+depending on different situations.
+
+#### Mental (ME) Damage: 
+This is damage caused by some psionic powers and mental strain as dictated by
+the GM. No type of armor or shield can block ME damage.
 
 ### Armor and Soaking Damage
-
-[Characters who wear Armor, or who have other means of protection, can
+Characters who wear Armor, or who have other means of protection, can
 absorb some or all of the damage they receive. The Armor provided in the
 Gear section has a rating of 1d6 LI/1d3 HI/1d6 EN, meaning that if the
 character would receive low-impact (LI) damage, they would first roll
@@ -663,24 +541,22 @@ remaining damage would be incurred to the character as normal. Note that
 soaking damage using armor has no effect on secondary damage (see
 below), nor does Armor protect against mental (ME) damage. A character
 can generally only benefit from Armor once, although some rare
-circumstances may allow multiple ways to absorb harm.]{.c2 .c0}
+circumstances may allow multiple ways to absorb harm.
 
 
 ### Secondary Damage
-
-[When a character incurs BODY damage, they may also incur some STUN
+When a character incurs BODY damage, they may also incur some STUN
 damage by the sheer impact of the damage; this is known as secondary
 damage. For every 3 points of BODY damage that a character takes from a
 single source, they also take 1 additional point of STUN damage
 secondarily. This secondary damage follows the normal rules of rounding
 in the characters' favors, so an attack that deals 5 BODY damage would
 only deal 1 additional STUN damage. Armor is not effective at absorbing
-secondary damage.]{.c2 .c0}
+secondary damage.
 
 
 ### Knockouts
-
-[As mentioned above, a character is knocked unconscious when their STUN
+As mentioned above, a character is knocked unconscious when their STUN
 durability rating drops to zero. A character who is knocked out cannot
 take any actions, and any attacks targeted against them automatically
 succeed. A character remains unconscious for 6 combat phases (30
@@ -691,21 +567,20 @@ also regains STUN durability equal to their FORT+PERS. Unconscious
 characters who continue to receive physical damage (low-impact,
 high-impact, or energy) incur all damage to their remaining BODY
 durability. (Since mental damage only affects STUN, an unconscious
-character does not suffer mental damage.)]{.c2 .c0}
+character does not suffer mental damage.)
 
 
 ### Early Knockouts
-
-[Some attacks are so powerful that, in addition to causing secondary
+Some attacks are so powerful that, in addition to causing secondary
 damage, they run the risk of knocking characters out, even if their STUN
 durability is well above zero. If a character ever incurs damage equal
-to or greater than one-third of their total ]{.c6}[remaining
-durability]{.c6 .c7}[, they run the risk of an early knockout. In such a
+to or greater than one-third of their total remaining
+durability, they run the risk of an early knockout. In such a
 case, after taking the requisite damage, the character in question would
 either roll an Endurance check (for BODY damage) or a Resolve check (for
 STUN damage). Any success on those checks means that the character
 remains conscious. A Failure would result in the character losing their
 remaining STUN durability points and falling unconscious (see
-"Knockouts" above).]{.c2 .c0}
+"Knockouts" above).
 
 \newpage
