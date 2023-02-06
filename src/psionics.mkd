@@ -1,837 +1,717 @@
 Psionics
 ========
+Psionics (PSI) is an optional attribute that can be raised from 1-6 as can the
+basic attributes. Even if a starting character begins with 0 PSI, ranks can be
+added later by purchasing ranks in the PSI attribute as normal. A starting
+character cannot have a PSI score higher than rank m4. PERS is the attribute
+most important for psionic characters, as it is used to calculate psychovolts
+and adds to some powers; however, INT is also a key attribute for many psionic
+powers. The following rules apply to characters with a PSI score of at least
+one:
 
-[Psionics (PSI) is an optional attribute that can be raised from 1-6 as
-can the basic attributes. Even if a starting character begins with 0
-PSI, ranks can be added later by purchasing ranks in the PSI attribute
-as normal. A starting character cannot have a PSI score higher than rank
-4. PERS is the attribute most important for psionic characters, as it is
-used to calculate psychovolts and adds to some powers; however, INT is
-also a key attri]{.c0}[bute for many psionic powers. ]{.c6}[The
-following rules apply to characters with a PSI score of at leas]{.c0}[t
-one]{.c6}[:]{.c2 .c0}
+A character's PSI score = the maximum number of psionic powers that the
+character can have ranks in. For example, a character with a PSI of 3 can have
+up to three different powers available to them, but cannot gain a fourth power
+until their PSI score increases to 4. Of course, that same character might
+choose to only have 1 or 2 psionic powers available. Note that this means
+(technically) that a character could have a PSI score of at least one, but have
+no trained psionic powers to use\--not very optimal. Also note that this means
+that the maximum number of psionic powers available to a character is 6, because
+a character's maximum PSI score is 6 (although Fraal characters can have up to 7
+psionic powers because of their free use of Telepathy). Psionic characters tend
+to specialize in certain powers at the expense of others. Choose wisely!
 
--   [A character's PSI score = the maximum number of psionic powers that
-    the character can have ranks in. For example, a character with a PSI
-    of 3 can have up to three different powers available to them, but
-    cannot gain a fourth power until their PSI score increases to 4. Of
-    course, that same character might choose to only have 1 or 2 psionic
-    powers available. Note that this means (technically) that a
-    character could have a PSI score of at least one, but ]{.c0}[have no
-    trained psionic powers to use\--not very optimal. Also n]{.c6}[ote
-    that this means that the maximum number of psionic powers available
-    to a character is 6, because a character's maximum PSI score is 6
-    (although Fraal ]{.c0}[characters can have up to 7 psionic powers
-    because of their free use of Telepathy)]{.c6}[. ]{.c0}[Psionic
-    characters tend to specialize in certain powers at the expense of
-    others. C]{.c6}[hoose wisel]{.c0}[y!]{.c6}
--   [When making a check with a psionic power, the character adds their
-    ranks in the power itself along with the character's PSI score (2-12
-    dice). This operates the same way ]{.c0}[as normal
-    ]{.c6}[skills.]{.c2 .c0}
--   [Psionic powers may]{.c0}[ not]{.c6 .c7}[ be used
-    untrained]{.c0}[ under any circumstances.]{.c6}
--   [Training perks are ]{.c6}[not]{.c6 .c7}[ available for purchase for
-    psionic powers, nor is there gear associated with psionic powers.
-    Psionic characters may, however, purchase expertise perks at ranks
-    4, 5, and 6 normally.]{.c6}
--   [Psionic powers require psychovolts to use. A character's total
-    psychovolts (PV) are equal to their PERS+3. ]{.c0}[C]{.c6}[haracters
-    with no PSI sc]{.c0}[ore and no ]{.c6}[psionic powers have no need
-    ]{.c0}[to calculate PV.]{.c6}
--   [For every usage (]{.c0}[regardless ]{.c6}[of success degree or
-    failure) of a psionic power, a character subtracts 1 psychovolt (PV)
-    from their total. If 0 PV remain, the character may still attempt to
-    use a power, but suffers DA on the check. In such a case, the
-    psionic character also incurs 2 (ME) stun damage for every usage
-    (whether success or failure) of a psionic power. This stun damage
-    cannot be absorb]{.c0}[ed by any means.]{.c6}
--   [All PV are restored after the GM gives the character a
-    ]{.c0}[milestone]{.c6}[. Additionally, a psionic character may use
-    the Resolve skill ]{.c0}[once ]{.c6}[during a rest to restore lost
-    PV. Success restores 3 PV (not to exceed the character's maximum).
-    See the Resolve skill for more information.]{.c2 .c0}
--   [A psionic power that has the ]{.c0}["extend"]{.c6 .c7
-    .c13}[ keyword may have its effects extended beyond the normal
-    duration of the power. Upon the expiry of the power's normal
-    duration, a psionic character may spend 1 additional PV to continue
-    the use of that power uninterrupted for a length of time equal to
-    the power's normal duration. No additional check needs to be made
-    when extending a power. For example, if a character with an INT of 2
-    has been using Telepathy to speak with another (for up to 5 minutes)
-    and wants to continue doing so beyond those 5 minutes, they would
-    simply declare that intent and spend an additional PV to continue
-    the power's use for up to another 5 minutes. In cases where a
-    psionic character wishes to extend a power but has no psychovolts
-    remaining, they may choose to extend the power for half of the
-    normal duration, ]{.c0}[and]{.c6}[ must incur 2 (ME) stun damage.
-    ]{.c0}[Regardless of situation, psionic p]{.c6}[owers may only be
-    extended once before the strain is too much and]{.c0}[ the psionic
-    character needs to end the usage of that power]{.c6}[.]{.c2 .c0}
--   [Multiple uses of psionic powers with the "extend" keyword may be in
-    effect at any one time. For example, a psionic character may be
-    utilizing both Cloak and Metabolism (after having paid the cost in
-    psychovolts), or may be using Metabolism twice in order to increase
-    both FORT and AGI separately. In such ]{.c0}[cases, the psionic
-    character may choose to pay additional PV to keep the powers in
-    effect after their normal duration.]{.c6}
--   [Psionic characters ]{.c6}[must]{.c6 .c7}[ choose a psionic
-    detriment, listed below. A detriment may be later removed through
-    the acquisition of an Expertise Perk, otherwise it remains.]{.c2
-    .c0}
+When making a check with a psionic power, the character adds their ranks in the
+power itself along with the character's PSI score (2-12 dice). This operates the
+same way as normal skills.
 
-```{=html}
-<!-- -->
-```
--   [Expertise Perks (ranks 4, 5, ]{.c6 .c7 .c13}[and 6)]{.c6
-    .c7}[:]{.c6 .c7 .c13}
+Psionic powers may not be used untrained under any circumstances.
 
-```{=html}
-<!-- -->
-```
--   [Boost: ]{.c6 .c7}[When a character chooses this Perk, they pick
-    between PERS and INT, which determines its effect listed below. (A
-    character may choose this Perk a second time, selecting the other
-    attribute.) Any reference to PERS or INT as a part of a psionic
-    power's targeting, duration, or effects is doubled. So a character
-    with a PERS score of 2 would add 4 to damage from Bolt, rather than
-    2, and a character with an INT of 3 would have a base duration of 6
-    hours, rather than 3, with Persuasion.]{.c2 .c0}
--   [Conservationist: ]{.c6 .c7}[Three times per milestone, when the
-    psionic character fails a check with a psionic power, they do not
-    expend PV. Obviously the pionic character would wait until after the
-    check failed before opting for this.]{.c2 .c0}
--   [Extra Power: ]{.c6 .c7}[This character may learn up to seven
-    psionic powers (eight for Fraal characters). Note that this is an
-    extra power, not an increase to the character's PSI score.]{.c2 .c0}
--   [Fast Recovery: ]{.c6 .c7}[This character may use the Resolve skill
-    twice (instead of once) during rests to regain spent PV. Remember
-    that every successful use of Resolve restores 3 PV not to exceed the
-    character's maximum.]{.c6}
--   [Psi-Resistance: ]{.c6 .c7}[This character has innate ability which
-    functions similarly to the Psionic Shield in the Gear description
-    (see the Occult skill for more information). They receive AD on any
-    defense checks when targeted by a psionic power, regardless of
-    range.]{.c2 .c0}
--   [Unfettered: ]{.c6 .c7}[This character may remove their psionic
-    detriment they chose. ]{.c2 .c0}
+Training perks are not available for purchase for psionic powers, nor is there
+gear associated with psionic powers. Psionic characters may, however, purchase
+expertise perks at ranks 4, 5, and 6 normally.
+
+Psionic powers require psychovolts to use. A character's total psychovolts (PV)
+are equal to their PERS+3. Characters with no PSI score and no psionic powers
+have no need to calculate PV.
+
+For every usage (regardless of success degree or failure) of a psionic power, a
+character subtracts 1 psychovolt (PV) from their total. If 0 PV remain, the
+character may still attempt to use a power, but suffers DA on the check. In such
+a case, the psionic character also incurs 2 (ME) stun damage for every usage
+(whether success or failure) of a psionic power. This stun damage cannot be
+absorbed by any means.
+
+All PV are restored after the GM gives the character a milestone. Additionally,
+a psionic character may use the Resolve skill once during a rest to restore lost
+PV. Success restores 3 PV (not to exceed the character's maximum). See the
+Resolve skill for more information.
+
+A psionic power that has the "extend" keyword may have its effects extended
+beyond the normal duration of the power. Upon the expiry of the power's normal
+duration, a psionic character may spend 1 additional PV to continue the use of
+that power uninterrupted for a length of time equal to the power's normal
+duration. No additional check needs to be made when extending a power. For
+example, if a character with an INT of 2 has been using Telepathy to speak with
+another (for up to 5 minutes) and wants to continue doing so beyond those 5
+minutes, they would simply declare that intent and spend an additional PV to
+continue the power's use for up to another 5 minutes. In cases where a psionic
+character wishes to extend a power but has no psychovolts remaining, they may
+choose to extend the power for half of the normal duration, and must incur 2
+(ME) stun damage. Regardless of situation, psionic powers may only be extended
+once before the strain is too much and the psionic character needs to end the
+usage of that power.
+
+Multiple uses of psionic powers with the "extend" keyword may be in effect at
+any one time. For example, a psionic character may be utilizing both Cloak and
+Metabolism (after having paid the cost in psychovolts), or may be using
+Metabolism twice in order to increase both FORT and AGI separately. In such
+cases, the psionic character may choose to pay additional PV to keep the powers
+in effect after their normal duration.
+
+Psionic characters must choose a psionic detriment, listed below. A detriment
+may be later removed through the acquisition of an Expertise Perk, otherwise it
+remains.   
+
+Expertise Perks (ranks 4, 5, and 6)
+------------------------------------
+
+### Boost 
+When a character chooses this Perk, they pick between PERS and INT, which
+determines its effect listed below. (A character may choose this Perk a second
+time, selecting the other attribute.) Any reference to PERS or INT as a part of
+a psionic power's targeting, duration, or effects is doubled. So a character
+with a PERS score of 2 would add 4 to damage from Bolt, rather than 2, and a
+character with an INT of 3 would have a base duration of 6 hours, rather than 3,
+with Persuasion.
+
+### Conservationist
+Three times per milestone, when the psionic character fails a check with a
+psionic power, they do not expend PV. Obviously the pionic character would wait
+until after the check failed before opting for this.
+
+### Extra Power
+This character may learn up to seven psionic powers (eight for Fraal
+characters). Note that this is an extra power, not an increase to the
+character's PSI score.
+
+### Fast Recovery
+This character may use the Resolve skill twice (instead of once) during rests to
+regain spent PV. Remember that every successful use of Resolve restores 3 PV not
+to exceed the character's maximum.
+
+### Psi-Resistance
+This character has innate ability which functions similarly to the Psionic
+Shield in the Gear description (see the Occult skill for more information). They
+receive AD on any defense checks when targeted by a psionic power, regardless of
+range.
+
+### Unfettered
+This character may remove their psionic detriment they chose. 
 
 Psionic Detriments
 ------------------
-
-[Any character who has a PSI score of at least 1 must choose one of the
-following detriments, or may work with the G]{.c0}[M]{.c6}[ to create
-their own psionic detriment:]{.c2 .c0}
-
--   [Audible:]{.c6 .c7}[ The character must speak aloud an incantation
-    or other phrase in order for psionic powers to be used. The
-    character's voice is audible up to 12m away. Whispering or muttering
-    imposes DA on a check, but is only audible up to 3m away.]{.c2 .c0}
--   [Low Psychovoltage: ]{.c6 .c7 .c13}[PV are equal to their PERS
-    score, not PERS+3 as normal.]{.c2 .c0}
--   [Slow Recovery: ]{.c6 .c7}[The character regains psychovolts slowly.
-    The character only regains PV by benefit of a milestone, and does
-    not regain PV by the use of the Resolve skill during a rest.]{.c2
-    .c0}
--   [Talisman:]{.c6 .c7}[ The character requires an object weighing
-    between 1-2 kg in order to use psionic powers. This talisman cannot
-    be a simple mundane item, like a tennis shoe or an electronic
-    device; it must be unique and obviously special to observers, though
-    its role as a talisman is not readily evident. Examples might
-    include a heavy jewel on the end of a necklace or a crystal ball.
-    The talisman must be carried or worn by the character in order to
-    use psionic powers normally. Additionally, the talisman cannot serve
-    any other purpose (such as acting as a melee weapon or a personal
-    computer). A character with this detriment who attempts to use a
-    power without their talisman suffers DA. If a character's talisman
-    is lost or otherwise permanently destroyed, the psionic character
-    may make another via the Occult skill. Generally, the talisman
-    should not be lost unless it advances the story of the game.]{.c2
-    .c0}
--   [Uncontrollable Power: ]{.c6 .c7 .c13}[When the character fails a
-    defense check (whether physical or mental), or when the character
-    fails an Endurance or a Resolve check, one of their psionic powers
-    activates uncontrollably for its normal duration. ]{.c0}[If the
-    psionic character has more than one psionic power, the power that
-    activates is determined randomly (or GM chooses for
-    effect).]{.c6}[ The psionic character still suffers the psychovolt
-    loss as normal for such an event.]{.c2 .c0}
--   [Unreliable Power: ]{.c6 .c7 .c13}[The character must successfully
-    make a Resolve check before using a psionic power. A su]{.c0}[ccess
-    means they can use the power as normal, while a failure means
-    ]{.c6}[they suffer disadvantage on the psionic power check.]{.c0}
+Any character who has a PSI score of at least 1 must choose one of the
+following detriments, or may work with the GM to create
+their own psionic detriment:
 
 
+### Audible
+The character must speak aloud an incantation or other phrase in order for
+psionic powers to be used. The character's voice is audible up to 12m away.
+Whispering or muttering imposes DA on a check, but is only audible up to 3m
+away.
+
+### Low Psychovoltage
+PV are equal to their PERS score, not PERS+3 as normal.
+
+### Slow Recovery
+The character regains psychovolts slowly. The character only regains PV by
+benefit of a milestone, and does not regain PV by the use of the Resolve skill
+during a rest.   
+
+### Talisman
+The character requires an object weighing between 1-2 kg in order to use psionic
+powers. This talisman cannot be a simple mundane item, like a tennis shoe or an
+electronic device; it must be unique and obviously special to observers, though
+its role as a talisman is not readily evident. Examples might include a heavy
+jewel on the end of a necklace or a crystal ball. The talisman must be carried
+or worn by the character in order to use psionic powers normally. Additionally,
+the talisman cannot serve any other purpose (such as acting as a melee weapon or
+a personal computer). A character with this detriment who attempts to use a
+power without their talisman suffers DA. If a character's talisman is lost or
+otherwise permanently destroyed, the psionic character may make another via the
+Occult skill. Generally, the talisman should not be lost unless it advances the
+story of the game.   
+
+### Uncontrollable
+Power When the character fails a defense check (whether physical or mental), or
+when the character fails an Endurance or a Resolve check, one of their psionic
+powers activates uncontrollably for its normal duration. If the psionic
+character has more than one psionic power, the power that activates is
+determined randomly (or GM chooses for effect). The psionic character still
+suffers the psychovolt loss as normal for such an event.
+
+### Unreliable Power
+The character must successfully make a Resolve check before using a psionic
+power. A success means they can use the power as normal, while a failure means
+they suffer disadvantage on the psionic power check.
 
 Psionic Power Descriptions
 --------------------------
 
-Augury
-
--   [Range: 30 meters]{.c2 .c0}
--   [Target: 1 individual]{.c2 .c0}
--   [Duration:]{.c0}[ ]{.c6}[INT minutes (extend)]{.c2 .c0}
-
-```{=html}
-<!-- -->
-```
--   [This power enables a psionic character to read the thoughts,
-    memories, emotions, and physical state of others]{.c0}[, ]{.c6}[AKA
-    ]{.c0}["]{.c6}[mindreading]{.c0}[" (though psionic characters would
-    describe a sentient mind as something that cannot be "read"]{.c6}[).
-    A successful use of this power will reveal to the character secrets,
-    memories, etc. from one target. While this power is active, the
-    psionic character remains conscious, but is in a trancelike state.
-    The psionic character cannot take other actions while Augury is in
-    use, and the character rolls DA on any defense checks (whether
-    physical or mental) while in the trance. Once per ]{.c0}[combat
-    round]{.c6}[ (20 seconds) for the duration, the character may ask
-    the GM a specific question about the target and the GM must answer
-    truthfully. ]{.c0}[Targets of Augury immediately know that their
-    mind is being probed; as such some targets may wish to close their
-    mind to the psionic character. ]{.c6}[An unwilling target imposes DA
-    on the character's initial check]{.c0}[, and]{.c6}[ if the Augury
-    check against an unwilling target is successful, the target will
-    attempt to mentally expel the user after 1 minute. In such a
-    circumstance, a psionic character must succeed on another Augury
-    check to maintain the power for each additional minute of the
-    power's duration, but would not ]{.c0}[s]{.c6}[pend PV unless the
-    original duration of the power has been reached. If the psionic
-    character comes into physical contact (skin-to-skin) with their
-    target the check is rolled with AD. Augury can only be used on
-    intelligent lifeforms; it cannot be used against artificial
-    intelligence (AI) constructs or animals. ]{.c2 .c0}
--   [Expertise Perks:]{.c1}
-
-```{=html}
-<!-- -->
-```
--   [Deeper Mind: ]{.c6 .c7}[The base duration for Augury is now
-    ]{.c6}[INTx2]{.c6 .c7}[ minutes.]{.c2 .c0}
--   [ ]{.c6}[Split Consciousness: ]{.c6 .c7}[The psionic character no
-    longer suffers DA on defense checks while Augury is in use. However,
-    no other actions can be taken unless the character chooses to end
-    Augury early.]{.c2 .c0}
--   [Dominance: ]{.c6 .c7}[An unwilling target is wholly and completely
-    open to the psionic character. Once the character succeeds on the
-    initial Augury check (with DA), they are no longer subject to mental
-    expulsion by the target. Note that the duration of Augury does not
-    change.]{.c2 .c0}
--   [Rapid Search: ]{.c6 .c7}[The psionic character can ask one question
-    of the target every combat phase (every 5 seconds) rather than every
-    combat round. ]{.c2 .c0}
--   [Ghost in the Machine: ]{.c6 .c7}[The psionic character can use
-    Augury to manipulate electronic systems, such as computers, security
-    devices, drones, etc. By making skin-to-device contact and making
-    the Augury check as normal, the psionic character gains control of
-    the targeted device for the power's duration. Once per combat round,
-    they can program instructions into the targeted device which must
-    then be carried out within the next INT hours, even after the
-    psionic character is no longer using Augury. ]{.c2 .c0}
--   [Psychometry: ]{.c6 .c7}[This character can use Augury to "read"
-    objects and locations the same way they can use it on individuals.
-    To use Augury with an object, the character must make skin-to-skin
-    contact with it. Once the check is successful, the psionic character
-    may ask the GM one question per round about the object, and the GM
-    must answer truthfully. Examples could include, "Has this weapon
-    killed anyone?" or "Who used to own this necklace?" To use Augury on
-    a location, the character must be physically present. The location
-    size is limited to a small building or less (i.e. the character
-    could not successfully use Augury in this way in a sports arena or a
-    space station). All other rules about Augury apply.]{.c2 .c0}
-
-
-[Bolt                                ]{.c1}
-
--   [Range: 120 meters]{.c2 .c0}
--   [Target: 1 ]{.c0}[target]{.c6}
-
-```{=html}
-<!-- -->
-```
--   [Duration: Instant]{.c2 .c0}
-
-```{=html}
-<!-- -->
-```
--   [This power causes a glowing bolt of psionic energy to fly from the
-    psionic character's hand to a target in range. Because the bolt
-    emanates from the user's hand, the psionic character must have full
-    use of at least one of their arms and hands in order to use this
-    power, or else DA is imposed on the check. The psionic bolt does
-    1d6+PERS (EN) body damage or 2d6+PERS (EN) stun damage. The psionic
-    character chooses which durability type to affect before
-    m]{.c0}[aking the check and ]{.c6}[rolling damage dice. The psionic
-    character must have a clear line of sight to the target, and the
-    path from the psionic character to the target must be free from
-    obstructions that would otherwise impede the bolt. If obstructions
-    exist (at the GM's discretion) then DA is imposed on the check and
-    the obs]{.c0}[tructions may receive damage or be
-    destroyed]{.c6}[.]{.c2 .c0}
--   [Expertise Perks:]{.c1}
-
-```{=html}
-<!-- -->
-```
--   [Distance: ]{.c6 .c7}[The range of Bolt expands to 180 meters.]{.c2
-    .c0}
--   [Nimble Fingers: ]{.c6 .c7}[The psionic character no longer needs
-    the use of a hand to use Bolt, and suffers no DA in cases where
-    their hands are not available.]{.c2 .c0}
--   [Magic Missile: ]{.c6 .c7}[The psionic character unleashes two Bolts
-    in the same action. The additional Bolt can be aimed at the same
-    target or at a different one within range. The psionic character
-    must make the check and roll damage for each bolt separately, but
-    only expends one PV for the attack. This perk may be taken up to
-    twice; in such a case, the psionic character attacks three times
-    with one action.]{.c2 .c0}
--   [Psychobomb: ]{.c6 .c7}[Once per milestone, the character can use
-    Bolt to create an "explosive device" made of psychic energy. The
-    bomb is roughly the size and shape of a basketball, and glows the
-    same as a normal bolt of energy, but can be handled by the psionic
-    character safely. If anyone else tries to handle the psychobomb, or
-    if the psionic character loses consciousness, it detonates. The bomb
-    remains in this state for up to PERS+3 minutes, or until the psionic
-    character chooses to detonate it. The bomb, when detonated, deals
-    4d6 (EN) stun damage or 2d6 (EN) body damage to creatures in its
-    vicinity. The character chooses which damage type to deal upon
-    detonation.]{.c2 .c0}
--   [Invisible Bolt: ]{.c6 .c7}[The character's Bolt does not have a
-    glowing color as normal. Instead, only the most observant witnesses
-    would see a transparent shimmer in the air as a result of this
-    character's attack (not unlike gazing across hot pavement). This
-    perk makes the character's Bolt against cameras with normal,
-    infrared, or thermal vision, but any devices which detect psionic
-    energy would still be triggered by the attack.]{.c2 .c0}
--   [Piercing Bolt: ]{.c6 .c7}[The psionic character no longer rolls DA
-    when attacking a target that is obscured, obstructed, or otherwise
-    covered. Instead, the Bolt makes a straight shot to the target,
-    passing through any obstacles (damaging and/or destroying them)
-    before making contact. If the Bolt passes through any obstacle, its
-    damage is halved (determined after rolling damage dice).  ]{.c2 .c0}
-
-
-
-Clairvoyance
-
--   [Range: 120 kilometers]{.c2 .c0}
--   [Target: N/A]{.c2 .c0}
--   [Duration: 3+INT minutes (extend)]{.c2 .c0}
-
-```{=html}
-<!-- -->
-```
--   [This power enables a character to migrate their consciousness to a
-    specific location within range. At this location, the character can
-    see and hear as normal, but is otherwise unnoticed by others in that
-    location. Meanwhile, the character's body remains in an otherwise
-    unconscious state; the character cannot take other actions while
-    Clairvoyance is in use, and ]{.c0}[any attacks against the character
-    automatically succeed]{.c6}[. When used, the character must name a
-    specific location within range; otherwise the character has DA to
-    the roll. For example, if the psionic character chooses to use
-    Clairvoyance on "311 East Main St., Cairo, IL," the power would work
-    normally. If the character chooses to use Clairvoyance on "wherever
-    my enemy is right now" DA would be imposed. If the character places
-    their consciousness inside ]{.c0}[a moving vehicle within range
-    (such as a train or shuttle), the power works normally for the
-    duration, unless the vehicle travels beyond the 120km limit.
-    ]{.c6}[If the character chooses to move their consciousness to a
-    second location within range during the power's duration, another
-    psychovolt must be spent but no additional check needs to be made
-    unless that second location is non-specific. ]{.c2 .c0}
--   [Expertise Perks:]{.c1}
-
-```{=html}
-<!-- -->
-```
--   [Ambiguity: ]{.c6 .c7}[The character no longer suffers disadvantage
-    when using Clairvoyance on a non-specific location within
-    range.]{.c2 .c0}
--   [Distance: ]{.c6 .c7}[Once per milestone, a psionic character can
-    use Clairvoyance to project their consciousness into any specific
-    location in a star system. All other rules regarding the use of
-    Clairvoyance remain unchanged.]{.c2 .c0}
--   [Duration: ]{.c6 .c7}[The duration of Clairvoyance is now (INT+3)x2
-    minutes.]{.c2 .c0}
--   [Aware State: ]{.c6 .c7}[The psionic character who uses Clairvoyance
-    now rolls defense checks with DA when attacked while the power is in
-    use. Attackers no longer have an automatic success against the
-    character.]{.c2 .c0}
--   [Remote Power: ]{.c6 .c7}[This character has improved their ability
-    to the point where they can use another psionic power using the
-    remote location of their consciousness as the locus point. After
-    successfully using Clairvoyance to migrate their consciousness, the
-    character may then use any of the following powers from that
-    location: Augury, Daze, Foresight, Persuasion, and Telepathy. Note
-    that since just the character's consciousness is present, DA will be
-    imposed to the secondary check. The additional power still requires
-    the psionic character to spend PV as well.]{.c2 .c0}
--   [Remote Superiority: ]{.c6 .c7}[This perk must be purchased after
-    purchasing "Remote Power" above. When the psionic character has
-    already migrated their consciousness to an alternate location, they
-    may then utilize the secondary psionic powers of Augury, Daze,
-    Foresight, Persuasion, or Telepathy without the additional
-    disadvantage on the check.]{.c2 .c0}
-
-
-
-[Cloak                ]{.c1}
-
--   [Range: Personal]{.c2 .c0}
--   [Target: Self]{.c2 .c0}
--   [Duration: PERS minutes (extend)]{.c2 .c0}
-
-```{=html}
-<!-- -->
-```
--   [This power causes the character and any items being held or worn by
-    the character (within reason) at the time of usage to turn
-    invisible. If the character is unmoving and quiet, they
-    automatically remain unnoticed by others in their surroundings. If
-    the character moves or makes noise while using Cloak]{.c0}[,
-    ]{.c6}[the character rolls AD on any Stealth check for the duration.
-    ]{.c0}[Additional actions taken while using Cloak may also be
-    subject to a Stealth check with AD, depending on whether significant
-    motion is produced. Significant sound or smells would require the
-    Stealth check rolled as normal. Finally, a Cloaked character may
-    make an attack in a Surprise round of combat, but doing so
-    immediately ends the Cloak.]{.c6}
--   [Expertise Perks:]{.c1}
-
-```{=html}
-<!-- -->
-```
--   [Expanded Cloak: ]{.c6 .c7}[The psionic character can now use Cloak
-    to conceal PERS number of other individuals and their belongings at
-    close range (any targets must be within 6 meters of the psionic
-    character). If the psionic character moves more than 6 meters away
-    from another individual cloaked in this manner, they become visible
-    again. The psionic character can choose which target(s) apply to
-    this benefit and which do not at the time of activation, if
-    needed.]{.c2 .c0}
--   [Illusory Background: ]{.c6 .c7}[The character may use Cloak to
-    create an illusory scene that measures 6x6x6 cubic meters. The
-    illusory scene must be within 30 meters of the character. The
-    illusion may only affect the senses of sight and sound. If skeptical
-    individuals examine the illusion, the psionic character may make an
-    additional Cloak check with DA (for no cost of PV) to maintain the
-    illusion. If the Cloak check fails, the illusion immediately
-    ends.]{.c2 .c0}
--   [Mobile Cloak: ]{.c6 .c7}[The psionic character may now move slowly
-    (half speed) and make minimal noise while Cloaked without the need
-    to make a Stealth check. It is assumed that the character remains
-    undetected.]{.c2 .c0}
--   [Muffle: ]{.c6 .c7}[The character may use Cloak to dampen sounds
-    created within 6 meters of themselves. Casual listeners\--even those
-    within the 6 meter radius\--will not notice a change to their
-    hearing, and will not react. Those who are actively searching or
-    listening would have DA on any applicable checks. This muffling
-    ability is in addition to the normal usage of Cloak, and the psionic
-    character can choose whether or not to muffle when they use the
-    power. There is no additional cost in PV.]{.c2 .c0}
--   [Duration: ]{.c6 .c7}[The duration of Cloak is now PERSx2
-    minutes.]{.c2 .c0}
--   [Far Illusion: ]{.c6 .c7}[The psionic character may now use Cloak
-    centered on a point of origin up to 30 meters away. The character
-    must be able to see the target location when using Cloak. All other
-    rules of Cloak apply.]{.c2 .c0}
-
-
-
-Daze
-
--   [Range: 30 meters]{.c2 .c0}
--   [Target: 1 creature]{.c2 .c0}
--   [Duration: Instant]{.c2 .c0}
-
-```{=html}
-<!-- -->
-```
--   [By using this power, the character psionically inflicts 1d6+INT
-    (ME) stun damage onto a target. Because this attack is mental in
-    nature it cannot be blocked, nor the damage reduced, by physical
-    means (armor, shields, etc.). This power cannot
-    ]{.c0}[target]{.c6}[ AI constructs.]{.c2 .c0}
--   [Expertise Perks:]{.c1}
-
-```{=html}
-<!-- -->
-```
--   [Stun: ]{.c6 .c7}[A psionic character with this perk may use Daze to
-    "stun" a target; in game terms, that target is still conscious, but
-    may not voluntarily move nor act for INT+3 combat phases.]{.c6}
--   [Mental Shield: ]{.c6 .c7}[The psionic character has trained their
-    mind to be more protected against attack. This character
-    automatically soaks the first 1d3 ME damage from any single source.
-    Any other ME damage is taken as normal.]{.c2 .c0}
--   [Knockout: ]{.c6 .c7}[Once per milestone, the psionic character may
-    use Daze to instantly knock out another individual. This works as an
-    "early knockout" (see below). ]{.c2 .c0}
-
-
-
-Foresight
-
--   [Range: Personal]{.c0}
--   [Target: Self]{.c0}
--   [Duration: Instant, extra LP to INT hours]{.c0}
-
-```{=html}
-<!-- -->
-```
--   [This power grants the psionic character insight into future events.
-    Because the future is constantly in flux, the character's insight is
-    limited, however. A successful use of this power grants the
-    character three extra Luck Points through the duration of the power.
-    If the extra LPs are not used by that point, the power is wasted.
-    Because of the ambiguity in seeing the pattern of the future, this
-    power may only be used once ]{.c0}[in between]{.c6}[ rests,
-    regardless of success or failure.]{.c0}
--   [Expertise Perks:]{.c1}
-
-```{=html}
-<!-- -->
-```
--   [Deja Vu: ]{.c6 .c7}[This character has already been here and
-    already knows things about the current scene. Once in between rests,
-    the player can invoke Deja Vu, which allows them to create details
-    in the scenario which are useful to the player and their allies. For
-    instance, a psionic character with this perk could declare that
-    there is a flaw in the hull integrity of the cruiser that is chasing
-    the players, thus opening an opportunity for an attack. Or perhaps
-    the player invoking Deja Vu announces that there is a hidden doorway
-    at the end of the otherwise dead-ended alleyway which permits
-    escape. This ability should always grant a benefit to the player,
-    and the story change should meet with approval from the GM as well
-    as the other players.]{.c2 .c0}
--   [Back That Up: ]{.c6 .c7}[A psionic character with this perk can use
-    Foresight retroactively. If the psionic character has not used
-    Foresight since their last rest, they may use this power as part of
-    another action to gain two (rather than three) Luck points. One of
-    those Luck points may be then used immediately to affect the current
-    situation. For example, if the psionic character fails a physical
-    defense roll against an enemy, they may retroactively call for a
-    Foresight check. If that check is successful, the character could
-    then use one of the gained Luck points to modify their physical
-    defense check. The other extra Luck point must be spent within INT
-    hours, as normal.]{.c2 .c0}
-
-
-
-[Heal                                ]{.c1}
-
--   [Range: Personal]{.c2 .c0}
--   [Target: Self]{.c2 .c0}
--   [Duration: Instant]{.c2 .c0}
-
-```{=html}
-<!-- -->
-```
--   [This power uses a character's psionic energy to enact rapid
-    cellular regeneration. A successful use of this power heals the
-    character by 1d6+PERS body damage, or 2d6+PERS stun damage. The
-    psionic character must choose which durability type to be healed at
-    the time of usage.]{.c2 .c0}
--   [Expertise Perks:]{.c1}
-
-```{=html}
-<!-- -->
-```
--   [Lay on Hands: ]{.c6 .c7}[The psionic healer can use this power on
-    another living creature (not a machine, etc.). The psionic character
-    must touch the intended target in order to work. In such a case, the
-    target would restore either 1d3+PERS body damage, or 1d6+PERS stun
-    damage. The psionic character must choose which durability type to
-    be healed at the time of usage.]{.c2 .c0}
--   [Detox: ]{.c6 .c7}[The character can now use Heal to detect and
-    remove toxins, poisons, and other harmful chemicals or radioactive
-    materials from their environment. Upon using Heal, the character can
-    detect any such substances within 6 meters of themselves. The
-    character may then choose which, if any, of those substances to be
-    eliminated. For example, a psionic character with this perk could
-    detect poisons in themselves or others, and could purge it. Or they
-    could clean pollution from in a designated area.]{.c2 .c0}
--   [Psychodoctor: ]{.c6 .c7}[The psionic character can now use Heal to
-    cure all diseases in themselves or another (skin-to-skin contact is
-    required).]{.c2 .c0}
-
-
-
-Kinetic
-
--   [Range: 60 meters]{.c2 .c0}
--   [Target: PERS number of objects of small to medium size]{.c2 .c0}
--   [Duration: PERS minutes (extend)]{.c2 .c0}
-
-```{=html}
-<!-- -->
-```
--   [This power allows a character to lift and manipulate objects. The
-    object(s) may then be moved by the character. Some examples include
-    pulling triggers, flipping switche]{.c0}[s, or lifting rocks.
-    ]{.c6}[The movement of objects in this fashion is in addition to any
-    other action the character may normally attempt. An object
-    manipulated by Kinetic may also be violently hurled at a target by
-    rolling another Kinetic check; no additional PV needs to be spent
-    for such an attack. The object(s) hurled at the target deal
-    1d6+PERS (LI) body damage or 2d6+PERS (LI) stun damage (assuming
-    they are capable of causing damage; hurling soft pillows at a target
-    will not inflict damage). If Kinetic is used in such a way, the
-    psionic character loses control of the hurled object and must make
-    another Kinetic check (and pay the cost in PV) to manipulate another
-    object. A character who uses ]{.c0}[Kinetic must have the use of at
-    least one of their hands and arms in order to manipulate objects,
-    otherwise DA is imposed on the check.]{.c6}
--   [Expertise Perks:]{.c6 .c7 .c13}
-
-```{=html}
-<!-- -->
-```
--   [Flight: ]{.c6 .c7}[The character can use Kinetic to propel
-    themselves through the air as though flying. The character may move
-    up to PERS meters/phase for the duration of the power. Any special
-    acrobatic maneuvers may require another Kinetic check, but no
-    additional use of PV.]{.c2 .c0}
--   [Earthmover: ]{.c6 .c7}[Rather than using Kinetic to manipulate PERS
-    number of small to medium objects, the psionic character may use the
-    power to move one massive object, like a city bus, small starship,
-    or other object of similar size. Every combat phase, the character
-    is able to slowly move the object 3 meters in any direction. It is
-    not possible to hurl this object to cause damage, though an object
-    dropped from a great height could cause significant harm. All other
-    rules of Kinetic apply.]{.c2 .c0}
-
-
-
-[Metabolism                        ]{.c1}
-
--   [Range: Personal]{.c0 .c2}
--   [Target: Self]{.c2 .c0}
-
-```{=html}
-<!-- -->
-```
--   [Duration: 3+PERS minutes (extend)]{.c2 .c0}
-
-```{=html}
-<!-- -->
-```
--   [This power enables a character to alter their body's metabolism to
-    survive in adverse environments better than ordinarily possible.
-    When this power is activated, characters have AD on Endurance checks
-    to resist environmental effects such as heat, cold, etc.
-    Additionally, a character may hold their breath for the duration of
-    the power. Finally, any poisons or toxins ingested ]{.c0}[by the
-    character are suspended, and the character suffers no further ill
-    effects from them, until the power is ended.]{.c6}
--   [Expertise Perks:]{.c1}
-
-```{=html}
-<!-- -->
-```
--   [Enhance: ]{.c6 .c7}[The psionic character can now use Metabolism to
-    increase their FORT and/or AGI attribute by up to 2 points for the
-    duration, spread among the two. The psionic character chooses how to
-    allocate their two additional points at the time of usage. The
-    increase only applies to skills and defenses; increasing FORT by 2
-    (for example) will increase the character's Melee skill and physical
-    defense, but will not increase their stun or body health. The
-    attribute increase cannot for any reason cause the character to have
-    an attribute score of more than 6. ]{.c6}
--   [Regeneration: ]{.c6 .c7}[The psionic character is able to use
-    Metabolism to restore some lost durability. As an action, the
-    character can heal 1d3+PERS body damage, or 1d6+PERS stun damage.
-    The character must choose which durability type to restore before
-    making the check.]{.c2 .c0}
--   [Stasis: ]{.c6 .c7}[The character can voluntarily put themselves
-    into a sort of suspended animation in which their bodily functions
-    nearly cease. To outside observers without specialized medical
-    equipment to detect brain activity, the psionic character appears to
-    be dead. Meanwhile, the character retains full control over their
-    mental faculties, and can hear as normal (but cannot see). While in
-    this state, the psionic character does not need to eat, drink, or
-    breathe. The duration for this effect is 1+PERS hours (extend).]{.c2
-    .c0}
--   [Buff: ]{.c6 .c7}[The character is able to use Metabolism to
-    increase their maximum BODY and STUN durabilities temporarily. A
-    character can increase their 1d6+PERS body durability, or 2d6+PERS
-    stun durability for the duration of the power. (Note that it is
-    possible for a character to do both, by making two actions and
-    spending two PV.) The player must choose which durability to
-    increase at the time of usage. When used, the character not only
-    increases their maximum durability, but also restores half (rounded
-    up) of the added durability they added. For example, a character
-    with a PERS of 3 chooses to increase their BODY durability. They
-    roll 2 on 1d6, meaning that they increase their max BODY durability
-    by 5 for the duration. Additionally, they would also immediately
-    heal 3 BODY durability (half of 5, rounded up). Upon the conclusion
-    of this power, the character's respective durability maximums drop
-    back to normal, but they do not lose the gained durability.]{.c2
-    .c0}
-
-
-
-Persuasion
-
--   [Range: 30 meters]{.c2 .c0}
--   [Target: 1 individual]{.c2 .c0}
--   [Duration: Instant, suggestion up to INT hours]{.c2 .c0}
-
-```{=html}
-<!-- -->
-```
--   [By use of this power, the psionic character implants a memory,
-    thought, idea, or suggestion that the target attempts to follow to
-    the best of their ability. Extreme suggestions (i.e. "jump off the
-    ]{.c0}[roof of a skyscraper"]{.c6}[) may impose DA on the check or
-    may automatically fail (GM and group discretion). After the
-    duration, the target "forgets" the implanted thought and resumes
-    their normal behavior, though they may be con]{.c0}[fused as to
-    their current situation]{.c6}[. A psionic character may attempt to
-    use Persuasion on multiple targets up to their INT score using the
-    same action. In such a case, the psionic character would roll their
-    Persuasion check separately for each intended target. One psychovolt
-    must be spent for each target as well. This power cannot
-    ]{.c0}[target AI constructs or other devices. Touching the target
-    grants AD on the check.]{.c6}
-
-```{=html}
-<!-- -->
-```
--   [Expertise Perks:]{.c1}
-
-```{=html}
-<!-- -->
-```
--   [Possession: ]{.c6 .c7}[The psionic character is able to temporarily
-    migrate their consciousness into another sentient individual (not
-    animal or AI construct), taking control. An unwilling host imposes
-    DA to the check, but skin-to-skin contact grants AD. If successful,
-    the psionic character now sees, hears, and otherwise acts as the
-    target of the power. If the target was unwilling, they may attempt
-    to "expel" the possessing character after 1d3 hours. The possessing
-    character must make another successful check every 1d3 hours to
-    maintain control. The character retains all of their skills while
-    possessing another. Any INT or PERS skill checks are rolled as
-    normal, but any FORT or AGI skill checks are made with the target's
-    attributes. If the possessing character takes actions that would
-    endanger the well-being of their target (or someone or something
-    dear to the target), the possessing psionic character must first
-    roll a Mental Defense check. Failure means that the possession ends
-    and the target regains control of their consciousness. While in
-    possession of another, the psionic character's body falls into a
-    catatonic state. Any attacks made against the character in this
-    state automatically succeed. If a possessing character's body
-    durability is reduced to zero while this power is in effect, the
-    possession immediately ends and the character dies. As far as the
-    target is concerned, they remain "unconscious" while possessed. This
-    can mean some very rude awakenings when the power ends! If the
-    target's physical body is knocked unconscious or killed while being
-    possessed, the possession ends immediately. Regardless of how the
-    possession ends, the psionic character always received 1d6 (ME) stun
-    damage upon returning to their own physical body.]{.c2 .c0}
--   [Obliviate: ]{.c6 .c7}[The psionic character may use Persuasion to
-    "erase" up to 1d6+INT minutes of memories from the target's mind.
-    The psionic character chooses which minutes and memories to "erase."
-    ]{.c6}
-
-
-
-[Shield                                ]{.c1}
-
--   [Range: A 12 square meter wall, emanating out of one of the
-    caster]{.c0}['s hands]{.c6}
--   [Target: N/A]{.c2 .c0}
--   [Duration: PERS minutes, or until exhausted (extend)]{.c2 .c0}
-
-```{=html}
-<!-- -->
-```
--   [This power creates a glowing psionic wall of protection that
-    protects any objects behind it (]{.c0}[including the psionic
-    character) ]{.c6}[from ranged attacks. The wall has a
-    clearly-defined "front" and "back," which the psionic character
-    specifies upon its creation by use of one arm and
-    han]{.c0}[d]{.c6}[. Upon the creation of the shield wall, the
-    psionic character establishes how much damage the shield can absorb
-    by rolling 1d6+PERS for body damage, and 2d6+PERS for stun damage.
-    If any target behind the wall is attacked ]{.c0}[from range]{.c6
-    .c7}[ the shield soaks any LI, HI, or EN damage up to those amounts.
-    Any damage beyond what the shield absorbs is received by the
-    target(s) as normal. Once the shield wall is created it can be moved
-    or reshaped within its dimensions (during the power's duration) by
-    making another Shield check, but no additional PV use is required.
-    If the psionic character wants to re-streng]{.c0}[then the wall
-    within the duration, they may do so by spending one additional PV
-    and re-rolling how much damage the shield can absorb. The new
-    durability of the shield supersedes and replaces the old durability.
-    ]{.c6}[The shield dissipates at the end of the power's duration, or
-    when an attack reduces one of its durability tracks (body or stun)
-    to 0. ]{.c0}[Moving through the shield in any direction halves all
-    movement rates.]{.c6}
--   [Expertise Perks:]{.c1}
-
-```{=html}
-<!-- -->
-```
--   [Forcefield: ]{.c6 .c7}[The psionic character's shield inflicts
-    1d6+PERS stun EN damage to individuals who come into contact with
-    the shield. If a target remains in contact with the shield after
-    taking the damage, they do not receive the damage a second time. The
-    psionic character can choose whether or not to inflict this damage
-    (in the case of allies). ]{.c2 .c0}
--   [Durable Barrier: ]{.c6 .c7}[The psionic character's shield can now
-    absorb up to 2d6+PERS body damage and 3d6+PERS stun damage. ]{.c2
-    .c0}
--   
-
-
-
-Telepathy
-
--   [Range: 120 meters]{.c2 .c0}
--   [Target: 1 individual or Self]{.c2 .c0}
--   [Duration: 3+INT minutes (extend)]{.c2 .c0}
-
-```{=html}
-<!-- -->
-```
--   [This power enables telepathic communication between the character
-    and another individual within range. The character and the target do
-    not need to share a common language, but both need to speak at least
-    one language (i.e. this power will not work on animals). Telepathy
-    also will not work on artificial intelligence (AI) constructs. The
-    character must be able to see the intended target, otherwise DA is
-    imposed on the roll. ]{.c0}[I]{.c6}[f the check is successful, an
-    unwilling target will attempt to mentally expel the user after 1d3
-    minutes. In such a circumstance, a psionic character must make
-    another Telepathy check to maintain the power for each additional
-    minute of the power's duration. Once linked, the two may wordlessly
-    communicate with one another for the duration. The psionic character
-    may attempt to use Telepathy with a number of individuals equal to
-    or less than their INT score. In such a case, the character would
-    roll separate Telepathy checks for each intended target, and one
-    additional PV point must be spent for each target. If the psionic
-    character comes into physical contact (skin-to-skin) with their
-    target the check is rolled with AD.]{.c2 .c0}
--   [Expertise Perks:]{.c1}
-
-```{=html}
-<!-- -->
-```
--   [Distance: ]{.c6 .c7}[Once per milestone, the psionic character can
-    use Telepathy to communicate with a target in the same star system.
-    All other rules concerning the usage of Telepathy still apply.]{.c2
-    .c0}
--   [Enhance: ]{.c6 .c7}[The psionic character can use Telepathy to
-    increase their INT and/or PERS attribute by 2 points for the
-    duration. The psionic character chooses how to allocate their two
-    additional points at the time of usage. The increase only applies to
-    skill checks and defense rolls; increasing PERS by 2 (for example)
-    will increase the character's Deception skill and mental defense,
-    but will not increase their stun or PV. The attribute increase
-    cannot for any reason cause the character to have an attribute score
-    of more than 6. ]{.c2 .c0}
+### Augury
+**Range**: 30 meters
+**Target**: 1 individual
+**Duration**: INT minutes (extend)
+
+This power enables a psionic character to read the thoughts,
+memories, emotions, and physical state of others, AKA
+"mindreading" (though psionic characters would
+describe a sentient mind as something that cannot be "read").
+A successful use of this power will reveal to the character secrets,
+memories, etc. from one target. While this power is active, the
+psionic character remains conscious, but is in a trancelike state.
+The psionic character cannot take other actions while Augury is in
+use, and the character rolls DA on any defense checks (whether
+physical or mental) while in the trance. Once per combat
+round (20 seconds) for the duration, the character may ask
+the GM a specific question about the target and the GM must answer
+truthfully. Targets of Augury immediately know that their
+mind is being probed; as such some targets may wish to close their
+mind to the psionic character. An unwilling target imposes DA
+on the character's initial check, and if the Augury
+check against an unwilling target is successful, the target will
+attempt to mentally expel the user after 1 minute. In such a
+circumstance, a psionic character must succeed on another Augury
+check to maintain the power for each additional minute of the
+power's duration, but would not spend PV unless the
+original duration of the power has been reached. If the psionic
+character comes into physical contact (skin-to-skin) with their
+target the check is rolled with AD. Augury can only be used on
+intelligent lifeforms; it cannot be used against artificial
+intelligence (AI) constructs or animals. 
+
+#### Expertise Perks
+
+##### Deeper Mind 
+The base duration for Augury is now INTx2 minutes.
+
+##### Split Consciousness
+The psionic character no longer suffers DA on defense checks while Augury is in
+use. However, no other actions can be taken unless the character chooses to end
+Augury early.
+
+##### Dominance 
+An unwilling target is wholly and completely open to the psionic character. Once
+the character succeeds on the initial Augury check (with DA), they are no longer
+subject to mental expulsion by the target. Note that the duration of Augury does
+not change.
+
+##### Rapid Search
+The psionic character can ask one question of the target every combat phase
+(every 5 seconds) rather than every combat round. 
+
+##### Ghost in the Machine
+The psionic character can use Augury to manipulate electronic systems, such as
+computers, security devices, drones, etc. By making skin-to-device contact and
+making the Augury check as normal, the psionic character gains control of the
+targeted device for the power's duration. Once per combat round, they can
+program instructions into the targeted device which must then be carried out
+within the next INT hours, even after the psionic character is no longer using
+Augury. 
+
+##### Psychometry
+This character can use Augury to "read" objects and locations the same way they
+can use it on individuals. To use Augury with an object, the character must make
+skin-to-skin contact with it. Once the check is successful, the psionic
+character may ask the GM one question per round about the object, and the GM
+must answer truthfully. Examples could include, "Has this weapon killed anyone?"
+or "Who used to own this necklace?" To use Augury on a location, the character
+must be physically present. The location size is limited to a small building or
+less (i.e. the character could not successfully use Augury in this way in a
+sports arena or a space station). All other rules about Augury apply.
+
+### Bolt                                
+**Range** 120 meters
+**Target** 1 target
+**Duration** Instant
+
+This power causes a glowing bolt of psionic energy to fly from the psionic
+character's hand to a target in range. Because the bolt emanates from the user's
+hand, the psionic character must have full use of at least one of their arms and
+hands in order to use this power, or else DA is imposed on the check. The
+psionic bolt does 1d6+PERS (EN) body damage or 2d6+PERS (EN) stun damage. The
+psionic character chooses which durability type to affect before making the
+check and rolling damage dice. The psionic character must have a clear line of
+sight to the target, and the path from the psionic character to the target must
+be free from obstructions that would otherwise impede the bolt. If obstructions
+exist (at the GM's discretion) then DA is imposed on the check and the
+obstructions may receive damage or be destroyed.
+
+#### Expertise Perks
+
+##### Distance
+The range of Bolt expands to 180 meters.   
+
+##### Nimble Fingers
+The psionic character no longer needs the use of a hand to use Bolt, and suffers
+no DA in cases where their hands are not available.
+
+##### Magic Missile
+The psionic character unleashes two Bolts in the same action. The additional
+Bolt can be aimed at the same target or at a different one within range. The
+psionic character must make the check and roll damage for each bolt separately,
+but only expends one PV for the attack. This perk may be taken up to twice; in
+such a case, the psionic character attacks three times with one action.
+
+##### Psychobomb 
+Once per milestone, the character can use Bolt to create an "explosive device"
+made of psychic energy. The bomb is roughly the size and shape of a basketball,
+and glows the same as a normal bolt of energy, but can be handled by the psionic
+character safely. If anyone else tries to handle the psychobomb, or if the
+psionic character loses consciousness, it detonates. The bomb remains in this
+state for up to PERS+3 minutes, or until the psionic character chooses to
+detonate it. The bomb, when detonated, deals 4d6 (EN) stun damage or 2d6 (EN)
+body damage to creatures in its vicinity. The character chooses which damage
+type to deal upon detonation.
+
+##### Invisible Bolt
+The character's Bolt does not have a glowing color as normal. Instead, only the
+most observant witnesses would see a transparent shimmer in the air as a result
+of this character's attack (not unlike gazing across hot pavement). This perk
+makes the character's Bolt against cameras with normal, infrared, or thermal
+vision, but any devices which detect psionic energy would still be triggered by
+the attack.
+
+##### Piercing Bolt
+The psionic character no longer rolls DA when attacking a target that is
+obscured, obstructed, or otherwise covered. Instead, the Bolt makes a straight
+shot to the target, passing through any obstacles (damaging and/or destroying
+them) before making contact. If the Bolt passes through any obstacle, its damage
+is halved (determined after rolling damage dice).  
+
+### Clairvoyance
+**Range** 120 kilometers
+**Target** N/A
+**Duration** 3+INT minutes (extend)
+
+This power enables a character to migrate their consciousness to a specific
+location within range. At this location, the character can see and hear as
+normal, but is otherwise unnoticed by others in that location. Meanwhile, the
+character's body remains in an otherwise unconscious state; the character cannot
+take other actions while Clairvoyance is in use, and any attacks against the
+character automatically succeed. When used, the character must name a specific
+location within range; otherwise the character has DA to the roll. For example,
+if the psionic character chooses to use Clairvoyance on "311 East Main St.,
+Cairo, IL," the power would work normally. If the character chooses to use
+Clairvoyance on "wherever my enemy is right now" DA would be imposed. If the
+character places their consciousness inside a moving vehicle within range (such
+as a train or shuttle), the power works normally for the duration, unless the
+vehicle travels beyond the 120km limit. If the character chooses to move their
+consciousness to a second location within range during the power's duration,
+another psychovolt must be spent but no additional check needs to be made unless
+that second location is non-specific. 
+
+#### Expertise Perks
+
+##### Ambiguity
+The character no longer suffers disadvantage when using Clairvoyance on a
+non-specific location within range.
+
+##### Distance
+Once per milestone, a psionic character can use Clairvoyance to project their
+consciousness into any specific location in a star system. All other rules
+regarding the use of Clairvoyance remain unchanged.
+
+##### Duration
+The duration of Clairvoyance is now (INT+3)x2 minutes.
+
+##### Aware State
+The psionic character who uses Clairvoyance now rolls defense checks with DA
+when attacked while the power is in use. Attackers no longer have an automatic
+success against the character.
+
+##### Remote Power
+This character has improved their ability to the point where they can use
+another psionic power using the remote location of their consciousness as the
+locus point. After successfully using Clairvoyance to migrate their
+consciousness, the character may then use any of the following powers from that
+location: Augury, Daze, Foresight, Persuasion, and Telepathy. Note that since
+just the character's consciousness is present, DA will be imposed to the
+secondary check. The additional power still requires the psionic character to
+spend PV as well.
+
+##### Remote Superiority
+This perk must be purchased after purchasing "Remote Power" above. When the
+psionic character has already migrated their consciousness to an alternate
+location, they may then utilize the secondary psionic powers of Augury, Daze,
+Foresight, Persuasion, or Telepathy without the additional disadvantage on the
+check.
+
+### Cloak                
+**Range** Personal
+**Target** Self
+**Duration** PERS minutes (extend)
+
+This power causes the character and any items being held or worn by the
+character (within reason) at the time of usage to turn invisible. If the
+character is unmoving and quiet, they automatically remain unnoticed by others
+in their surroundings. If the character moves or makes noise while using Cloak,
+the character rolls AD on any Stealth check for the duration. Additional actions
+taken while using Cloak may also be subject to a Stealth check with AD,
+depending on whether significant motion is produced. Significant sound or smells
+would require the Stealth check rolled as normal. Finally, a Cloaked character
+may make an attack in a Surprise round of combat, but doing so immediately ends
+the Cloak.
+
+#### Expertise Perks
+
+##### Expanded Cloak
+The psionic character can now use Cloak to conceal PERS number of other
+individuals and their belongings at close range (any targets must be within 6
+meters of the psionic character). If the psionic character moves more than 6
+meters away from another individual cloaked in this manner, they become visible
+again. The psionic character can choose which target(s) apply to this benefit
+and which do not at the time of activation, if needed.
+
+##### Illusory Background
+The character may use Cloak to create an illusory scene that measures 6x6x6
+cubic meters. The illusory scene must be within 30 meters of the character. The
+illusion may only affect the senses of sight and sound. If skeptical individuals
+examine the illusion, the psionic character may make an additional Cloak check
+with DA (for no cost of PV) to maintain the illusion. If the Cloak check fails,
+the illusion immediately ends.
+
+##### Mobile Cloak
+The psionic character may now move slowly (half speed) and make minimal noise
+while Cloaked without the need to make a Stealth check. It is assumed that the
+character remains undetected.
+
+##### Muffle
+The character may use Cloak to dampen sounds created within 6 meters of
+themselves. Casual listeners\--even those within the 6 meter radius\--will not
+notice a change to their hearing, and will not react. Those who are actively
+searching or listening would have DA on any applicable checks. This muffling
+ability is in addition to the normal usage of Cloak, and the psionic character
+can choose whether or not to muffle when they use the power. There is no
+additional cost in PV.
+
+##### Duration 
+The duration of Cloak is now PERSx2 minutes.
+
+##### Far Illusion 
+The psionic character may now use Cloak centered on a point of origin up to 30
+meters away. The character must be able to see the target location when using
+Cloak. All other rules of Cloak apply.
+
+### Daze
+**Range** 30 meters
+**Target** 1 creature
+**Duration** Instant
+
+By using this power, the character psionically inflicts 1d6+INT (ME) stun damage
+onto a target. Because this attack is mental in nature it cannot be blocked, nor
+the damage reduced, by physical means (armor, shields, etc.). This power cannot
+target AI constructs.
+
+#### Expertise Perks
+
+##### Stun
+A psionic character with this perk may use Daze to "stun" a target; in game
+terms, that target is still conscious, but may not voluntarily move nor act for
+INT+3 combat phases.
+
+##### Mental Shield
+The psionic character has trained their mind to be more protected against
+attack. This character automatically soaks the first 1d3 ME damage from any
+single source. Any other ME damage is taken as normal.
+
+##### Knockout
+Once per milestone, the psionic character may use Daze to instantly knock out
+another individual. This works as an "early knockout" (see below). 
+
+### Foresight
+**Range** Personal
+**Target** Self
+**Duration** Instant, *extra LP to INT hours*
+
+This power grants the psionic character insight into future events. Because the
+future is constantly in flux, the character's insight is limited, however. A
+successful use of this power grants the character three extra Luck Points
+through the duration of the power. If the extra LPs are not used by that point,
+the power is wasted. Because of the ambiguity in seeing the pattern of the
+future, this power may only be used once in between rests, regardless of success
+or failure.
+
+#### Expertise Perks
+
+##### Deja Vu
+This character has already been here and already knows things about the current
+scene. Once in between rests, the player can invoke Deja Vu, which allows them
+to create details in the scenario which are useful to the player and their
+allies. For instance, a psionic character with this perk could declare that
+there is a flaw in the hull integrity of the cruiser that is chasing the
+players, thus opening an opportunity for an attack. Or perhaps the player
+invoking Deja Vu announces that there is a hidden doorway at the end of the
+otherwise dead-ended alleyway which permits escape. This ability should always
+grant a benefit to the player, and the story change should meet with approval
+from the GM as well as the other players.
+
+##### Back That Up
+A psionic character with this perk can use Foresight retroactively. If the
+psionic character has not used Foresight since their last rest, they may use
+this power as part of another action to gain two (rather than three) Luck
+points. One of those Luck points may be then used immediately to affect the
+current situation. For example, if the psionic character fails a physical
+defense roll against an enemy, they may retroactively call for a Foresight
+check. If that check is successful, the character could then use one of the
+gained Luck points to modify their physical defense check. The other extra Luck
+point must be spent within INT hours, as normal.
+
+
+### Heal
+**Range** Personal
+**Target** Self
+**Duration** Instant
+
+This power uses a character's psionic energy to enact rapid cellular
+regeneration. A successful use of this power heals the character by 1d6+PERS
+body damage, or 2d6+PERS stun damage. The psionic character must choose which
+durability type to be healed at the time of usage.
+
+#### Expertise Perks
+
+##### Lay on Hands
+The psionic healer can use this power on another living creature (not a machine,
+etc.). The psionic character must touch the intended target in order to work. In
+such a case, the target would restore either 1d3+PERS body damage, or 1d6+PERS
+stun damage. The psionic character must choose which durability type to be
+healed at the time of usage.
+
+##### Detox
+The character can now use Heal to detect and remove toxins, poisons, and other
+harmful chemicals or radioactive materials from their environment. Upon using
+Heal, the character can detect any such substances within 6 meters of
+themselves. The character may then choose which, if any, of those substances to
+be eliminated. For example, a psionic character with this perk could detect
+poisons in themselves or others, and could purge it. Or they could clean
+pollution from in a designated area.
+
+##### Psychodoctor
+The psionic character can now use Heal to cure all diseases in themselves or
+another (skin-to-skin contact is required).
+
+### Kinetic
+**Range** 60 meters
+**Target** PERS number of objects of small to medium size
+**Duration** PERS minutes (extend)
+
+This power allows a character to lift and manipulate objects. The object(s) may
+then be moved by the character. Some examples include pulling triggers, flipping
+switches, or lifting rocks. The movement of objects in this fashion is in
+addition to any other action the character may normally attempt. An object
+manipulated by Kinetic may also be violently hurled at a target by rolling
+another Kinetic check; no additional PV needs to be spent for such an attack.
+The object(s) hurled at the target deal 1d6+PERS (LI) body damage or 2d6+PERS
+(LI) stun damage (assuming they are capable of causing damage; hurling soft
+pillows at a target will not inflict damage). If Kinetic is used in such a way,
+the psionic character loses control of the hurled object and must make another
+Kinetic check (and pay the cost in PV) to manipulate another object. A character
+who uses Kinetic must have the use of at least one of their hands and arms in
+order to manipulate objects, otherwise DA is imposed on the check.
+
+#### Expertise Perks
+
+##### Flight
+The character can use Kinetic to propel themselves through the air as though
+flying. The character may move up to PERS meters/phase for the duration of the
+power. Any special acrobatic maneuvers may require another Kinetic check, but no
+additional use of PV.
+
+##### Earthmover
+Rather than using Kinetic to manipulate PERS number of small to medium objects,
+the psionic character may use the power to move one massive object, like a city
+bus, small starship, or other object of similar size. Every combat phase, the
+character is able to slowly move the object 3 meters in any direction. It is not
+possible to hurl this object to cause damage, though an object dropped from a
+great height could cause significant harm. All other rules of Kinetic apply.
+
+### Metabolism                        
+**Range** Personal
+**Target** Self
+**Duration** 3+PERS minutes (extend)
+
+This power enables a character to alter their body's metabolism to survive in
+adverse environments better than ordinarily possible. When this power is
+activated, characters have AD on Endurance checks to resist environmental
+effects such as heat, cold, etc. Additionally, a character may hold their breath
+for the duration of the power. Finally, any poisons or toxins ingested by the
+character are suspended, and the character suffers no further ill effects from
+them, until the power is ended.
+
+#### Expertise Perks
+
+##### Enhance
+The psionic character can now use Metabolism to increase their FORT and/or AGI
+attribute by up to 2 points for the duration, spread among the two. The psionic
+character chooses how to allocate their two additional points at the time of
+usage. The increase only applies to skills and defenses; increasing FORT by 2
+(for example) will increase the character's Melee skill and physical defense,
+but will not increase their stun or body health. The attribute increase cannot
+for any reason cause the character to have an attribute score of more than 6. 
+
+##### Regeneration
+The psionic character is able to use Metabolism to restore some lost durability.
+As an action, the character can heal 1d3+PERS body damage, or 1d6+PERS stun
+damage. The character must choose which durability type to restore before making
+the check.
+
+##### Stasis
+The character can voluntarily put themselves into a sort of suspended animation
+in which their bodily functions nearly cease. To outside observers without
+specialized medical equipment to detect brain activity, the psionic character
+appears to be dead. Meanwhile, the character retains full control over their
+mental faculties, and can hear as normal (but cannot see). While in this state,
+the psionic character does not need to eat, drink, or breathe. The duration for
+this effect is 1+PERS hours (extend).   
+
+##### Buff
+The character is able to use Metabolism to increase their maximum BODY and STUN
+durabilities temporarily. A character can increase their 1d6+PERS body
+durability, or 2d6+PERS stun durability for the duration of the power. (Note
+that it is possible for a character to do both, by making two actions and
+spending two PV.) The player must choose which durability to increase at the
+time of usage. When used, the character not only increases their maximum
+durability, but also restores half (rounded up) of the added durability they
+added. For example, a character with a PERS of 3 chooses to increase their BODY
+durability. They roll 2 on 1d6, meaning that they increase their max BODY
+durability by 5 for the duration. Additionally, they would also immediately heal
+3 BODY durability (half of 5, rounded up). Upon the conclusion of this power,
+the character's respective durability maximums drop back to normal, but they do
+not lose the gained durability.   
+
+### Persuasion
+**Range** 30 meters
+**Target** 1 individual
+**Duration** Instant, suggestion up to INT hours
+
+By use of this power, the psionic character implants a memory, thought, idea, or
+suggestion that the target attempts to follow to the best of their ability.
+Extreme suggestions (i.e. "jump off the roof of a skyscraper") may impose DA on
+the check or may automatically fail (GM and group discretion). After the
+duration, the target "forgets" the implanted thought and resumes their normal
+behavior, though they may be confused as to their current situation. A psionic
+character may attempt to use Persuasion on multiple targets up to their INT
+score using the same action. In such a case, the psionic character would roll
+their Persuasion check separately for each intended target. One psychovolt must
+be spent for each target as well. This power cannot target AI constructs or
+other devices. Touching the target grants AD on the check.
+
+#### Expertise Perks
+
+##### Possession
+The psionic character is able to temporarily migrate their consciousness into
+another sentient individual (not animal or AI construct), taking control. An
+unwilling host imposes DA to the check, but skin-to-skin contact grants AD. If
+successful, the psionic character now sees, hears, and otherwise acts as the
+target of the power. If the target was unwilling, they may attempt to "expel"
+the possessing character after 1d3 hours. The possessing character must make
+another successful check every 1d3 hours to maintain control. The character
+retains all of their skills while possessing another. Any INT or PERS skill
+checks are rolled as normal, but any FORT or AGI skill checks are made with the
+target's attributes. If the possessing character takes actions that would
+endanger the well-being of their target (or someone or something dear to the
+target), the possessing psionic character must first roll a Mental Defense
+check. Failure means that the possession ends and the target regains control of
+their consciousness. While in possession of another, the psionic character's
+body falls into a catatonic state. Any attacks made against the character in
+this state automatically succeed. If a possessing character's body durability is
+reduced to zero while this power is in effect, the possession immediately ends
+and the character dies. As far as the target is concerned, they remain
+"unconscious" while possessed. This can mean some very rude awakenings when the
+power ends! If the target's physical body is knocked unconscious or killed while
+being possessed, the possession ends immediately. Regardless of how the
+possession ends, the psionic character always received 1d6 (ME) stun damage upon
+returning to their own physical body.
+
+##### Obliviate
+The psionic character may use Persuasion to "erase" up to 1d6+INT minutes of
+memories from the target's mind. The psionic character chooses which minutes and
+memories to "erase."
+
+### Shield                                
+**Range** A 12 square meter wall, emanating out of one of the
+caster's hands
+**Target** N/A
+**Duration** PERS minutes, or until exhausted (extend)
+
+This power creates a glowing psionic wall of protection that protects any
+objects behind it (including the psionic character) from ranged attacks. The
+wall has a clearly-defined "front" and "back," which the psionic character
+specifies upon its creation by use of one arm and hand. Upon the creation of the
+shield wall, the psionic character establishes how much damage the shield can
+absorb by rolling 1d6+PERS for body damage, and 2d6+PERS for stun damage. If any
+target behind the wall is attacked from range    the shield soaks any LI, HI, or
+EN damage up to those amounts. Any damage beyond what the shield absorbs is
+received by the target(s) as normal. Once the shield wall is created it can be
+moved or reshaped within its dimensions (during the power's duration) by making
+another Shield check, but no additional PV use is required. If the psionic
+character wants to re-strengthen the wall within the duration, they may do so by
+spending one additional PV and re-rolling how much damage the shield can absorb.
+The new durability of the shield supersedes and replaces the old durability. The
+shield dissipates at the end of the power's duration, or when an attack reduces
+one of its durability tracks (body or stun) to 0. Moving through the shield in
+any direction halves all movement rates.
+
+#### Expertise Perks
+
+##### Forcefield
+The psionic character's shield inflicts 1d6+PERS stun EN damage to individuals
+who come into contact with the shield. If a target remains in contact with the
+shield after taking the damage, they do not receive the damage a second time.
+The psionic character can choose whether or not to inflict this damage (in the
+case of allies). 
+
+##### Durable Barrier
+The psionic character's shield can now absorb up to 2d6+PERS body damage and
+3d6+PERS stun damage.    
+
+### Telepathy
+**Range** 120 meters
+**Target** 1 individual or Self
+**Duration** 3+INT minutes (extend)
+
+This power enables telepathic communication between the character and another
+individual within range. The character and the target do not need to share a
+common language, but both need to speak at least one language (i.e. this power
+will not work on animals). Telepathy also will not work on artificial
+intelligence (AI) constructs. The character must be able to see the intended
+target, otherwise DA is imposed on the roll. If the check is successful, an
+unwilling target will attempt to mentally expel the user after 1d3 minutes. In
+such a circumstance, a psionic character must make another Telepathy check to
+maintain the power for each additional minute of the power's duration. Once
+linked, the two may wordlessly communicate with one another for the duration.
+The psionic character may attempt to use Telepathy with a number of individuals
+equal to or less than their INT score. In such a case, the character would roll
+separate Telepathy checks for each intended target, and one additional PV point
+must be spent for each target. If the psionic character comes into physical
+contact (skin-to-skin) with their target the check is rolled with AD.
+
+#### Expertise Perks
+
+##### Distance
+Once per milestone, the psionic character can use Telepathy to communicate with
+a target in the same star system. All other rules concerning the usage of
+Telepathy still apply.   
+
+##### Enhance
+The psionic character can use Telepathy to increase their INT and/or PERS
+attribute by 2 points for the duration. The psionic character chooses how to
+allocate their two additional points at the time of usage. The increase only
+applies to skill checks and defense rolls; increasing PERS by 2 (for example)
+will increase the character's Deception skill and mental defense, but will not
+increase their stun or PV. The attribute increase cannot for any reason cause
+the character to have an attribute score of more than 6. 
 
 \newpage
